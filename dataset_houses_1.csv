@@ -1,0 +1,3233 @@
+Preu;Zona;Superficie;Habitacions;Lavabos;Preu metre;Calefaccio;Aire acondicionat;Any construccio;Aparcament;Piscina;Ascensor;Planta;Consum;Venda/lloguer
+189000;Les Arenes-La Gr�pia;112;4;2;1688;Si;Si;1992;No;No;Si;_;E;Venda
+198500;Cementiri Vell;100;4;2;1985;Si;No;1979;No;No;Si;_;G;Venda
+225000;Ca n�Aurell;94;3;1;2394;Si;Si;1961;No;No;Si;_;G;Venda
+248000;Sant Pere;82;2;2;3024;Si;Si;2004;No;No;Si;_;G;Venda
+180000;Ca n�Anglada;108;3;1;1667;Si;Si;1994;No;No;No;_;G;Venda
+179000;X�quer;92;3;2;1946;Si;Si;2003;No;No;Si;_;E;Venda
+287000;Centre;220;9;2;1305;No;No;_;No;No;No;_;G;Venda
+231400;Escoles;115;3;2;2012;Si;No;2003;Si;No;Si;_;E;Venda
+198500;Cementiri Vell;116;4;2;1711;Si;No;1979;No;No;Si;_;E;Venda
+120000;Vallparad�s;55;1;1;2182;Si;Si;_;Si;No;Si;_;A;Venda
+179000;Cementiri Vell;85;4;1;2106;Si;No;1970;No;No;Si;_;E;Venda
+445000;Poblenou-Zona Esportiva;149;4;3;2987;Si;No;2022;Si;No;No;_;G;Venda
+275000;Escoles;125;5;2;2200;Si;Si;1972;No;No;Si;_;G;Venda
+335000;Les Arenes-La Gr�pia;201;4;2;1667;Si;Si;1994;Si;No;No;_;G;Venda
+179000;Pl� del Bonaire;82;3;1;2183;Si;Si;1975;No;No;Si;_;G;Venda
+386000;Can Roca;150;4;2;2573;Si;Si;2000;No;No;Si;_;G;Venda
+120000;Sant Pere Nord;73;3;1;1644;No;Si;1970;No;No;Si;_;E;Venda
+145000;Ca n�Aurell;73;2;1;1986;No;No;1978;No;No;Si;_;F;Venda
+236000;Torre-sana;140;3;2;1686;No;No;2009;Si;No;Si;_;G;Venda
+155000;Ca n�Aurell;96;3;1;1615;Si;Si;1975;No;No;No;_;D;Venda
+175000;Torre-sana;90;3;1;1944;No;No;1975;No;No;Si;_;G;Venda
+157300;Poblenou-Zona Esportiva;78;2;1;2017;Si;No;2005;No;No;Si;_;G;Venda
+260000;Sant Pere;110;2;3;2364;Si;Si;2003;Si;No;Si;_;G;Venda
+225000;Ca n�Aurell;86;3;2;2616;Si;Si;2022;No;No;Si;_;G;Venda
+165000;Ca n�Aurell;49;2;1;3367;Si;Si;2022;No;No;Si;_;G;Venda
+96000;Sant Pere Nord;61;3;1;1574;No;Si;1970;No;No;No;_;G;Venda
+360000;Sant Pere;173;6;2;2081;Si;No;1973;No;No;Si;_;E;Venda
+156900;Torre-sana;100;3;1;1569;Si;Si;_;No;No;No;_;G;Venda
+395000;Can Parellada;150;3;3;2633;Si;Si;_;Si;No;No;_;G;Venda
+265000;Cementiri Vell;100;4;2;2650;Si;Si;_;No;No;Si;_;G;Venda
+219000;Sant Pere Nord;93;3;2;2355;No;No;1976;No;No;Si;_;G;Venda
+209900;Sant Pere Nord;130;3;1;1615;Si;Si;1968;No;No;No;_;G;Venda
+164900;La Maurina;109;3;1;1513;Si;No;1961;Si;No;No;_;G;Venda
+135900;Sant Pere Nord;107;3;1;1270;No;No;1970;No;No;No;_;G;Venda
+149000;Sant Pere Nord;60;2;1;2483;Si;No;_;No;No;Si;_;_;Venda
+195000;Segle XX;89;3;2;2191;Si;Si;2002;Si;No;Si;_;G;Venda
+255000;Escoles;109;4;2;2339;Si;Si;1992;No;No;Si;_;G;Venda
+215000;Sant Pere Nord;200;8;3;1075;No;No;1971;No;No;No;_;E;Venda
+208000;Poblenou-Zona Esportiva;112;3;2;1857;Si;No;1950;No;No;No;_;G;Venda
+131500;Les Arenes-La Gr�pia;74;3;1;1777;No;No;1974;No;No;Si;_;G;Venda
+270000;Centre;136;5;2;1985;Si;No;1900;No;No;No;_;G;Venda
+345000;Centre;111;3;2;3108;Si;No;_;No;No;No;_;E;Venda
+298000;Ca n�Aurell;127;3;3;2346;Si;Si;2003;No;No;Si;_;G;Venda
+162750;Segle XX;84;3;1;1938;Si;No;1999;No;No;Si;_;E;Venda
+140000;Pere parres;67;2;1;2090;Si;No;2005;No;No;Si;_;E;Venda
+330000;Ca n�Aurell;150;4;1;2200;No;No;_;Si;No;No;_;G;Venda
+165000;Ca n�Aurell;49;2;1;3367;Si;No;2021;Si;No;Si;_;_;Venda
+149000;Poblenou-Zona Esportiva;95;1;1;1568;No;No;_;No;No;No;_;G;Venda
+167900;Centre;79;3;1;2125;Si;No;1950;No;No;No;_;G;Venda
+165000;Sant Pere Nord;89;3;2;1854;No;No;1994;No;No;Si;_;G;Venda
+244000;Poblenou-Zona Esportiva;93;3;1;2624;Si;No;1965;No;No;No;_;E;Venda
+389900;Les Arenes-La Gr�pia;191;2;2;2041;Si;Si;2017;Si;No;No;_;_;Venda
+360000;Ca n�Aurell;152;4;2;2368;Si;Si;1995;No;No;Si;_;G;Venda
+135000;La Maurina;74;3;1;1824;Si;Si;1968;No;No;No;_;G;Venda
+290000;Centre;180;4;2;1611;Si;Si;_;No;No;No;_;G;Venda
+238000;Ca n�Aurell;130;4;2;1831;Si;No;1995;No;No;Si;_;G;Venda
+210000;Vallparad�s;105;4;2;2000;Si;Si;1984;No;No;Si;_;G;Venda
+78000;Ca n�Anglada;71;3;1;1099;No;No;1968;No;No;Si;_;G;Venda
+140000;Pere parres;50;2;1;2800;Si;No;2006;No;No;Si;_;G;Venda
+469500;Sant Pere;335;4;3;1401;Si;Si;_;Si;No;No;_;G;Venda
+90000;La Maurina;70;3;1;1286;No;No;1966;No;No;No;_;G;Venda
+490000;Sant Pere;203;3;3;2414;Si;No;2017;No;Si;No;_;G;Venda
+275000;Can Palet de Vista Alegre;136;3;2;2022;No;No;2007;No;No;No;_;E;Venda
+123900;X�quer;80;4;1;1549;Si;Si;1974;No;No;Si;_;_;Venda
+205000;Ca n�Aurell;66;3;2;3106;Si;Si;2007;No;No;Si;_;G;Venda
+349000;Sant Pere;210;3;2;1662;No;No;_;Si;No;No;_;D;Venda
+149000;Les Arenes-La Gr�pia;60;2;1;2483;No;Si;2006;Si;No;Si;_;E;Venda
+469500;Sant Pere;176;4;3;2668;Si;Si;_;Si;No;No;_;G;Venda
+165000;Sant Pere Nord;97;2;1;1701;No;No;1994;No;No;Si;_;E;Venda
+182000;Vallparad�s;65;2;1;2800;Si;Si;_;Si;No;Si;_;A;Venda
+258000;Ca nﾴAurell;105;3;2;2457;No;No;_;No;No;No;_;G;Venda
+190000;Escoles;82;3;2;2317;Si;No;2004;Si;No;Si;_;E;Venda
+265000;Vallparad�s;159;4;2;1667;Si;No;1988;Si;No;Si;_;G;Venda
+166000;La Maurina;55;2;1;3018;Si;No;2002;No;No;No;_;E;Venda
+189000;Torre-sana;84;3;1;2250;Si;Si;2006;No;No;No;_;G;Venda
+130000;Sant Pere Nord;114;3;1;1140;Si;No;1930;No;No;No;_;G;Venda
+142500;Escoles;80;3;1;1781;Si;No;_;No;No;Si;_;G;Venda
+101000;Les Arenes-La Gr�pia;80;4;1;1263;No;No;1974;No;No;No;_;E;Venda
+177000;Sant Pere;102;3;1;1735;Si;No;_;No;No;No;_;G;Venda
+256000;Sant Pere;93;3;2;2753;Si;No;2022;No;No;Si;_;G;Venda
+118000;Les Arenes-La Gr�pia;79;3;1;1494;No;Si;1974;No;No;No;_;_;Venda
+190000;Les Arenes-La Gr�pia;85;2;2;2235;Si;No;2022;No;No;Si;_;B;Venda
+330000;La Cogullada;158;3;2;2089;Si;No;2002;No;No;Si;_;G;Venda
+279000;Cementiri Vell;121;3;2;2306;Si;No;_;No;No;Si;_;E;Venda
+182000;Ca n�Aurell;83;3;1;2193;Si;No;_;No;No;No;_;G;Venda
+212000;Ca n�Anglada;234;3;2;906;Si;No;_;Si;No;No;_;G;Venda
+150000;Can Jofresa;82;3;1;1829;Si;No;1975;No;No;Si;_;G;Venda
+585000;Ca n�Aurell;199;4;3;2940;Si;Si;_;No;No;Si;_;E;Venda
+134900;Vallparad�s;85;3;1;1587;No;No;_;No;No;No;_;E;Venda
+289000;La Maurina;150;3;2;1927;Si;Si;1930;No;No;No;_;D;Venda
+335000;Ca n�Aurell;114;3;2;2939;Si;Si;1973;No;No;Si;_;G;Venda
+367000;Centre;140;3;2;2621;Si;No;1923;No;No;No;_;E;Venda
+329000;Ca n�Aurell;314;4;2;1048;Si;Si;_;Si;No;Si;_;G;Venda
+188500;Poblenou-Zona Esportiva;92;3;2;2049;Si;Si;2002;No;No;Si;_;E;Venda
+135500;Can Palet;60;2;2;2258;Si;No;2006;No;No;Si;_;E;Venda
+299000;La Maurina;300;3;1;997;No;Si;_;Si;No;No;_;G;Venda
+255000;Poblenou-Zona Esportiva;100;3;2;2550;Si;Si;2009;Si;No;Si;_;E;Venda
+116500;Les Arenes-La Gr�pia;83;3;1;1404;Si;No;1977;No;No;No;_;E;Venda
+199000;Ca n�Aurell;126;3;1;1579;Si;No;_;No;No;Si;_;G;Venda
+188000;La Maurina;176;5;3;1068;Si;No;1980;No;No;No;_;G;Venda
+108900;La Maurina;109;3;1;999;Si;No;_;No;No;No;_;E;Venda
+131000;Ca nﾴAurell;_;_;_;_;No;No;1950;No;No;No;_;E;Venda
+269900;Vallparad�s;135;3;2;1999;Si;Si;2005;Si;No;Si;_;E;Venda
+145000;Can Palet;98;4;1;1480;No;No;_;No;No;No;_;E;Venda
+145000;La Cogullada;93;3;1;1559;Si;Si;1979;No;No;Si;_;G;Venda
+279000;Poblenou-Zona Esportiva;120;2;2;2325;No;Si;_;No;No;Si;_;G;Venda
+205000;Poblenou-Zona Esportiva;98;3;2;2092;Si;Si;2002;No;No;Si;_;D;Venda
+139900;Pl� del Bonaire;75;4;2;1865;Si;No;1987;No;No;No;_;G;Venda
+113000;Can Roca;69;3;1;1638;No;Si;_;No;No;No;_;D;Venda
+89990;Ca n�Anglada;74;3;1;1216;Si;Si;1977;No;No;No;_;G;Venda
+186800;Vallparad�s;65;2;1;2874;No;No;_;Si;No;No;_;_;Venda
+110000;La Maurina;62;2;1;1774;No;Si;1966;No;No;Si;_;E;Venda
+294000;Poblenou-Zona Esportiva;105;2;2;2800;Si;Si;1999;Si;No;Si;_;E;Venda
+157000;Sant Pere Nord;78;2;1;2013;No;No;2007;No;No;Si;_;G;Venda
+188900;Can Jofresa;110;3;2;1717;Si;Si;1975;No;No;Si;_;E;Venda
+239000;Pere parres;87;3;2;2747;Si;No;1973;No;No;Si;_;G;Venda
+185000;Can Palet;153;2;1;1209;No;No;1979;No;No;No;_;E;Venda
+190890;Can Palet;79;3;2;2416;Si;No;2005;Si;No;Si;_;G;Venda
+146700;Cementiri Vell;75;2;1;1956;Si;No;1970;No;No;Si;_;G;Venda
+149900;Poblenou-Zona Esportiva;95;2;1;1578;No;No;1970;No;No;No;_;G;Venda
+149900;Poblenou-Zona Esportiva;95;2;1;1578;No;No;1970;No;No;No;_;G;Venda
+175000;Ca n�Aurell;92;3;2;1902;Si;No;1975;No;No;Si;_;E;Venda
+157000;La Cogullada;57;2;1;2754;Si;Si;2008;Si;No;Si;_;E;Venda
+195000;Poblenou-Zona Esportiva;85;3;2;2294;Si;Si;2001;No;No;Si;_;G;Venda
+159000;Egara;148;3;2;1074;No;No;1962;Si;No;No;_;G;Venda
+194000;Can Roca;93;3;2;2086;Si;Si;2006;Si;No;Si;_;G;Venda
+159990;Can Boada;93;4;1;1720;Si;Si;1979;No;No;Si;_;E;Venda
+190000;Les Fonts;124;3;1;1532;No;No;1990;No;No;No;_;E;Venda
+330000;Les Arenes-La Gr�pia;184;4;2;1793;Si;Si;1996;Si;No;No;_;E;Venda
+245000;Sant Pere;99;4;1;2475;Si;Si;_;No;No;Si;_;E;Venda
+235000;Poblenou-Zona Esportiva;93;3;2;2527;Si;Si;2023;No;No;Si;_;A;Venda
+279000;Cementiri Vell;96;3;2;2906;Si;No;2001;Si;No;Si;_;D;Venda
+157250;Ca n�Anglada;70;2;1;2246;No;Si;2001;No;No;Si;_;F;Venda
+99900;Sant Pere Nord;65;3;1;1537;Si;No;1965;No;No;No;_;E;Venda
+269000;Centre;123;3;2;2187;Si;No;1995;No;No;Si;_;G;Venda
+269000;Centre;123;3;2;2187;Si;No;1995;No;No;Si;_;G;Venda
+78000;Ca nﾴAnglada;63;4;1;1238;No;No;_;No;No;No;_;G;Venda
+190000;Sant Pere;98;3;2;1939;Si;No;1976;No;No;No;_;E;Venda
+330000;Poblenou-Zona Esportiva;121;4;3;2727;Si;Si;2023;No;No;Si;_;A;Venda
+205000;Can Palet;136;3;2;1507;No;No;2003;Si;No;Si;_;G;Venda
+245000;Ca n�Aurell;100;3;2;2450;Si;Si;2021;No;No;Si;_;A;Venda
+156000;Les Arenes-La Gr�pia;60;2;1;2600;Si;Si;2002;No;No;Si;_;G;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;No;1997;Si;No;No;_;E;Venda
+112000;Can Boada;73;3;1;1534;Si;Si;1971;No;No;Si;_;E;Venda
+58000;La Maurina;44;1;1;1318;No;No;_;No;No;No;_;F;Venda
+290000;Centre;88;4;2;3295;Si;Si;2000;No;No;Si;_;G;Venda
+144990;Ca n�Aurell;73;2;1;1986;Si;No;1979;No;No;Si;_;A;Venda
+168000;Poblenou-Zona Esportiva;247;7;3;680;Si;No;1970;No;No;No;_;E;Venda
+196000;Poblenou-Zona Esportiva;78;3;2;2513;Si;Si;2001;No;No;Si;_;G;Venda
+119990;Ca n�Anglada;76;2;1;1579;Si;Si;1967;No;No;No;_;G;Venda
+119900;Roc Blanc;75;3;1;1599;Si;No;_;No;No;No;_;G;Venda
+219000;Segle XX;71;3;1;3085;Si;No;2002;No;No;Si;_;E;Venda
+269750;Can Roca;94;3;2;2870;Si;Si;2005;Si;No;No;_;E;Venda
+279000;Centre;92;4;2;3033;Si;No;1999;No;No;Si;_;G;Venda
+195000;Can Palet;105;4;2;1857;Si;No;1994;No;No;Si;_;D;Venda
+116000;Ca n�Aurell;97;2;2;1196;No;Si;1997;No;No;No;_;A;Venda
+249900;Les Martines;140;2;1;1785;No;No;1992;Si;Si;No;_;G;Venda
+87000;Ca n�Anglada;71;3;1;1225;Si;No;1969;No;No;No;_;E;Venda
+279000;Centre;122;3;2;2287;Si;Si;1988;Si;No;Si;_;C;Venda
+93000;Poblenou-Zona Esportiva;75;3;1;1240;Si;No;_;No;No;No;_;G;Venda
+224900;Sant Pere;104;4;1;2163;Si;No;1977;No;No;Si;_;G;Venda
+257000;Centre;142;5;2;1810;Si;No;1973;Si;No;Si;_;F;Venda
+136000;Cementiri Vell;94;3;1;1447;Si;Si;1970;No;No;Si;_;E;Venda
+300000;Ca n�Aurell;134;3;2;2239;Si;Si;1993;Si;No;No;_;E;Venda
+297000;Centre;104;3;3;2856;Si;Si;2021;No;No;Si;_;A;Venda
+195000;Can Palet;153;2;1;1275;No;No;_;No;No;No;_;E;Venda
+330000;Ca n�Aurell;_;_;_;_;No;No;1909;Si;No;No;_;C;Venda
+380000;Segle XX;248;4;2;1532;Si;Si;2021;Si;No;No;_;G;Venda
+104000;Can Boada;80;3;1;1300;No;No;1976;No;No;Si;_;G;Venda
+399000;Can Palet de Vista Alegre;213;3;2;1873;Si;No;2000;Si;Si;No;_;G;Venda
+140000;Cementiri Vell;77;3;1;1818;Si;No;1973;No;No;Si;_;G;Venda
+139000;La Cogullada;63;2;1;2206;Si;No;1993;No;No;Si;_;G;Venda
+139000;Egara;104;3;2;1337;No;No;_;No;No;Si;_;G;Venda
+99000;La Maurina;98;2;1;1010;Si;Si;1957;No;No;No;_;E;Venda
+118000;La Maurina;84;3;1;1405;Si;No;1973;No;No;No;_;D;Venda
+106000;Ca nﾴAnglada;96;3;1;1104;No;No;_;No;No;No;_;G;Venda
+267000;Ca n�Aurell;74;3;2;3608;Si;Si;_;Si;No;Si;_;A;Venda
+259000;Can Roca;94;3;2;2755;Si;Si;2005;Si;No;Si;3;E;Venda
+900000;Centre;271;5;4;3321;Si;Si;2019;Si;No;No;3;A;Venda
+315000;Pere parres;145;4;2;2172;Si;Si;2008;Si;No;Si;_;G;Venda
+169000;Ca nﾴAurell;90;3;1;1878;No;No;_;No;No;No;_;G;Venda
+190000;Poblenou-Zona Esportiva;107;3;1;1776;Si;No;1996;Si;No;Si;_;G;Venda
+136000;La Maurina;110;3;1;1236;No;No;1977;No;No;Si;_;G;Venda
+185000;Can Palet;153;2;1;1209;No;No;_;No;No;No;_;_;Venda
+89999;Ca nﾴAnglada;75;3;1;1200;No;No;1965;No;No;No;_;F;Venda
+205000;Segle XX;87;3;2;2356;Si;Si;2020;No;No;Si;_;A;Venda
+159000;Can Roca;81;3;1;1963;No;No;_;No;No;Si;_;G;Venda
+225000;Centre;110;4;2;2045;Si;No;1973;Si;No;Si;5;C;Venda
+159900;Ca n�Aurell;66;2;1;2423;Si;No;_;No;No;Si;_;E;Venda
+81000;Ca n�Anglada;68;2;1;1191;Si;Si;1968;No;No;Si;_;G;Venda
+115000;Ca n�Anglada;72;3;1;1597;Si;No;1971;No;No;No;_;E;Venda
+149900;Poblenou-Zona Esportiva;95;1;1;1578;No;No;1970;No;No;No;_;G;Venda
+185000;Can Palet;172;2;1;1076;No;No;_;No;No;No;_;G;Venda
+470000;Pere parres;330;5;2;1424;Si;Si;1954;Si;Si;No;_;E;Venda
+249900;Les Arenes-La Gr�pia;146;3;2;1712;Si;No;_;No;No;Si;_;E;Venda
+189900;La Cogullada;94;3;2;2020;Si;Si;_;No;No;Si;_;E;Venda
+169000;Can Palet;87;3;2;1943;Si;Si;2001;Si;No;Si;_;G;Venda
+229000;Les Arenes-La Gr�pia;106;3;2;2160;Si;Si;2017;Si;No;Si;_;B;Venda
+189900;Segle XX;73;2;1;2601;Si;No;2003;No;No;Si;_;D;Venda
+176000;Sant Pere Nord;92;3;2;1913;Si;No;2022;Si;No;Si;3;G;Venda
+119500;Sant Pere Nord;82;3;1;1457;Si;No;1970;No;No;Si;2;E;Venda
+325000;Roc Blanc;170;4;1;1912;Si;Si;2022;Si;No;No;_;G;Venda
+149000;Sant Pere;90;3;1;1656;Si;Si;1975;No;No;Si;1;D;Venda
+219000;Centre;90;3;1;2433;Si;No;_;No;No;No;1;D;Venda
+299000;Vallparad�s;133;3;2;2248;No;No;_;Si;No;Si;1;G;Venda
+145000;Can Parellada;93;4;1;1559;No;No;1976;No;No;Si;_;G;Venda
+262000;Ca n�Aurell;125;3;3;2096;Si;Si;2021;No;No;Si;_;B;Venda
+249000;Ca n�Aurell;164;5;2;1518;Si;No;1942;No;No;No;1;D;Venda
+175500;Can Roca;75;2;1;2340;Si;Si;_;Si;No;Si;_;G;Venda
+525000;Centre;179;4;3;2933;Si;No;2022;Si;No;No;_;G;Venda
+215000;Segle XX;111;3;2;1937;Si;Si;_;Si;No;Si;_;A;Venda
+290000;Centre;123;4;2;2358;Si;Si;2000;No;No;Si;1;E;Venda
+365100;Les Arenes-La Gr�pia;154;4;2;2371;Si;Si;_;Si;No;Si;_;_;Venda
+87000;La Maurina;65;3;1;1338;No;No;1974;No;No;No;_;E;Venda
+368000;Centre;191;3;2;1927;Si;No;1905;Si;No;No;_;G;Venda
+169000;Vallparad�s;79;3;1;2139;No;No;1973;No;No;Si;3;G;Venda
+133000;Can Jofresa;79;2;1;1684;Si;Si;2006;No;No;Si;3;G;Venda
+179900;Torre-sana;70;2;1;2570;Si;Si;2003;Si;No;Si;2;G;Venda
+180000;Les Arenes-La Gr�pia;109;3;2;1651;Si;Si;1997;Si;No;Si;1;G;Venda
+230000;Vallparad�s;98;4;1;2347;Si;No;1979;No;No;Si;_;E;Venda
+137000;Can Boada;95;3;1;1442;Si;No;1973;No;No;No;1;G;Venda
+238200;Vallparad�s;86;3;2;2770;Si;Si;_;Si;No;Si;_;A;Venda
+127500;Ca n�Anglada;49;2;1;2602;Si;No;2007;No;No;Si;1;G;Venda
+176400;La Cogullada;70;3;2;2520;Si;No;1999;No;No;Si;_;E;Venda
+155000;Egara;65;3;1;2385;Si;Si;1966;No;No;Si;4;G;Venda
+187000;Ca n�Aurell;80;3;1;2338;Si;No;1961;No;No;Si;3;G;Venda
+110000;La Maurina;58;3;1;1897;No;No;1960;No;No;No;_;E;Venda
+195000;Torre-sana;141;4;2;1383;Si;No;2003;Si;No;No;_;E;Venda
+189000;Sant Pere Nord;57;2;1;3316;Si;Si;_;Si;No;Si;3;G;Venda
+159000;Ca n�Aurell;_;_;_;_;Si;No;2004;No;No;Si;_;E;Venda
+95000;Ca nﾴAnglada;75;3;1;1267;No;No;_;No;No;No;1;G;Venda
+348000;Sant Pere Nord;170;3;3;2047;Si;Si;2007;Si;No;No;_;D;Venda
+158500;Can Palet;91;4;1;1742;Si;Si;1978;Si;No;Si;_;G;Venda
+240000;Les Arenes-La Gr�pia;75;3;2;3200;Si;Si;2007;Si;No;Si;3;G;Venda
+254900;Les Arenes-La Gr�pia;83;3;2;3071;Si;No;2003;Si;No;Si;3;E;Venda
+139900;Can Jofresa;87;3;1;1608;No;No;1975;No;No;Si;4;E;Venda
+384400;Poblenou-Zona Esportiva;169;3;2;2275;Si;No;1992;Si;No;No;2;D;Venda
+190000;Can Palet;80;5;1;2375;No;No;_;No;No;No;_;G;Venda
+224900;Cementiri Vell;60;2;1;3748;Si;Si;2007;No;No;Si;_;C;Venda
+380000;Segle XX;250;3;5;1520;Si;No;_;Si;No;No;_;G;Venda
+194000;Can Roca;90;3;2;2156;Si;Si;2006;Si;No;Si;_;D;Venda
+192000;Sant Pere Nord;116;3;2;1655;Si;Si;1971;No;No;No;2;G;Venda
+140990;Poblenou-Zona Esportiva;106;3;2;1330;Si;No;1966;No;No;No;_;E;Venda
+536000;Sant Pere;282;5;4;1901;Si;No;1990;Si;No;No;_;F;Venda
+145000;Ca n�Aurell;50;1;1;2900;Si;Si;_;Si;No;No;_;E;Venda
+311000;Can Palet;110;4;2;2827;Si;Si;_;Si;No;No;_;G;Venda
+148000;Egara;68;3;1;2176;No;No;_;No;No;No;_;F;Venda
+315000;La Maurina;354;4;3;890;Si;Si;1985;Si;No;No;_;F;Venda
+312000;Les Martines;345;4;1;904;No;No;1970;Si;Si;No;_;E;Venda
+168000;La Cogullada;_;_;_;_;Si;No;1985;No;No;Si;_;G;Venda
+99900;Ca n�Anglada;75;3;3;1332;No;No;1974;No;No;Si;_;G;Venda
+237000;La Maurina;185;3;2;1281;Si;Si;1970;Si;No;No;_;E;Venda
+81000;Egara;57;3;1;1421;Si;No;1965;No;No;No;_;F;Venda
+125000;Can Palet;80;4;1;1563;Si;No;1978;No;No;Si;_;G;Venda
+245000;Ca n�Aurell;99;3;2;2475;Si;Si;2020;Si;No;Si;2;A;Venda
+239000;Can Boada;210;3;1;1138;Si;No;1960;Si;No;No;_;E;Venda
+565000;Les Martines;238;3;2;2374;Si;No;_;No;Si;No;_;C;Venda
+261000;Segle XX;115;3;2;2270;No;No;_;No;No;No;_;G;Venda
+368000;Centre;190;3;2;1937;Si;No;_;Si;No;No;_;G;Venda
+335000;Centre;120;4;2;2792;Si;Si;2022;Si;No;Si;_;A;Venda
+460000;Poblenou-Zona Esportiva;348;4;4;1322;Si;No;1998;No;No;Si;_;C;Venda
+257000;Ca n�Aurell;249;3;2;1032;Si;No;_;Si;No;No;_;G;Venda
+197000;La Maurina;118;3;1;1669;Si;No;1955;No;No;No;_;D;Venda
+284000;Ca n�Aurell;120;3;2;2367;Si;No;_;Si;No;No;_;G;Venda
+126000;Can Palet;84;3;1;1500;Si;No;1975;No;No;Si;1;G;Venda
+207000;La Cogullada;90;3;2;2300;Si;Si;1998;No;No;Si;3;E;Venda
+200000;Centre;105;4;2;1905;Si;Si;1975;No;No;Si;_;D;Venda
+225000;Ca n�Aurell;82;3;2;2744;Si;No;2021;Si;No;Si;_;_;Venda
+177000;Sant Pere;102;3;2;1735;Si;Si;1970;No;No;Si;4;E;Venda
+202600;Sant Pere;63;2;1;3216;No;No;_;No;No;Si;_;B;Venda
+210500;Poblenou-Zona Esportiva;90;2;2;2339;Si;Si;_;Si;No;Si;_;A;Venda
+85000;La Maurina;101;4;1;842;No;No;1965;No;No;No;2;G;Venda
+315000;Ca n�Aurell;143;3;2;2203;Si;Si;1968;No;No;Si;_;E;Venda
+162000;Can Roca;55;2;1;2945;No;No;_;No;No;No;_;_;Venda
+142000;Segle XX;83;3;1;1711;Si;Si;1978;No;No;Si;_;E;Venda
+225000;Poblenou-Zona Esportiva;96;3;1;2344;Si;Si;2010;No;No;Si;_;D;Venda
+146900;Escoles;63;3;1;2332;Si;Si;1972;No;No;Si;_;G;Venda
+169900;Ca nﾴAnglada;136;5;2;1249;No;No;1970;No;No;No;_;G;Venda
+87255;Can Boada;62;3;1;1407;No;No;1960;No;No;No;_;E;Venda
+149000;La Maurina;82;3;2;1817;Si;No;1962;No;No;No;_;G;Venda
+95000;Can Palet;76;3;1;1250;Si;No;1971;No;No;No;2;E;Venda
+420000;Centre;155;3;2;2710;Si;No;2018;Si;No;No;1;E;Venda
+108500;Egara;50;2;1;2170;Si;No;1970;No;No;No;3;G;Venda
+295000;Vallparad�s;80;2;2;3688;Si;Si;2022;No;No;Si;3;G;Venda
+145000;La Cogullada;90;3;1;1611;Si;Si;1979;No;No;No;_;E;Venda
+395000;Centre;240;4;2;1646;Si;Si;1995;No;No;No;_;E;Venda
+326000;Pere parres;107;3;2;3047;Si;Si;_;No;No;Si;_;A;Venda
+160000;Can Palet;112;4;1;1429;Si;No;_;No;No;No;3;E;Venda
+197000;Poblenou-Zona Esportiva;86;2;2;2291;Si;Si;2002;Si;No;Si;_;E;Venda
+293000;Torre-sana;249;4;1;1177;No;Si;2006;Si;No;Si;_;G;Venda
+465000;Escoles;185;3;3;2514;Si;Si;2022;Si;Si;No;2;C;Venda
+495000;Can Palet de Vista Alegre;429;3;2;1154;No;Si;1998;Si;Si;Si;_;E;Venda
+173700;Sant Pere;96;3;1;1809;Si;Si;1989;No;No;Si;_;G;Venda
+103000;Can Palet;78;3;1;1321;Si;No;1968;No;No;Si;_;F;Venda
+375000;Can Palet de Vista Alegre;174;4;3;2155;Si;No;2003;No;No;No;_;F;Venda
+460000;Vallparad�s;207;5;2;2222;Si;Si;1970;Si;Si;No;_;D;Venda
+475000;La Cogullada;277;6;2;1715;Si;No;_;Si;No;No;_;G;Venda
+167500;Can Palet;75;3;1;2233;Si;Si;1973;No;No;Si;_;_;Venda
+198500;Ca n�Aurell;97;2;1;2046;Si;No;1935;No;No;No;_;G;Venda
+393000;Centre;181;4;3;2171;Si;Si;2004;No;No;No;_;G;Venda
+207000;La Cogullada;90;3;2;2300;Si;Si;1998;No;No;Si;3;E;Venda
+110000;X�quer;86;4;1;1279;Si;No;_;No;No;Si;2;F;Venda
+140000;Sant Pere Nord;75;3;1;1867;Si;No;1965;No;No;Si;1;E;Venda
+201600;Sant Pere;63;2;1;3200;No;No;_;No;No;Si;_;B;Venda
+129900;Egara;76;3;1;1709;Si;No;1960;No;No;No;4;E;Venda
+222000;Ca n�Anglada;190;4;2;1168;Si;No;_;No;No;No;_;G;Venda
+79900;La Maurina;60;2;1;1332;Si;Si;1965;No;No;No;_;G;Venda
+217500;Can Palet;76;3;2;2862;Si;Si;_;Si;No;Si;_;_;Venda
+165000;Sant Pere Nord;77;2;1;2143;Si;Si;2008;Si;No;Si;2;G;Venda
+139000;Sant Pere Nord;105;3;2;1324;Si;No;1979;No;No;Si;_;E;Venda
+215000;La Cogullada;110;3;2;1955;Si;Si;_;Si;No;Si;_;G;Venda
+118500;La Maurina;100;3;1;1185;No;No;1973;No;No;No;3;G;Venda
+169000;Centre;_;_;_;_;No;No;1910;No;No;No;_;G;Venda
+243500;Ca n�Aurell;95;4;2;2563;Si;No;1966;No;No;Si;_;E;Venda
+339000;Centre;159;3;2;2132;Si;Si;1964;No;No;Si;_;G;Venda
+339000;Centre;159;3;2;2132;Si;Si;1964;No;No;Si;_;G;Venda
+295000;Sant Pere;141;3;2;2092;Si;Si;2022;Si;No;Si;_;G;Venda
+170000;Escoles;97;3;1;1753;Si;Si;1997;Si;No;Si;_;D;Venda
+125000;Can Palet;108;3;1;1157;Si;Si;1963;No;No;No;2;G;Venda
+95000;Ca nﾴAnglada;75;3;1;1267;No;No;_;No;No;No;_;G;Venda
+224900;Cementiri Vell;60;2;1;3748;Si;Si;2009;Si;No;Si;_;E;Venda
+69000;Montserrat;58;2;1;1190;No;No;1959;No;No;No;1;G;Venda
+198500;Ca n�Aurell;71;2;1;2796;Si;No;_;No;No;No;_;G;Venda
+179900;La Maurina;185;2;2;972;Si;No;1966;Si;No;No;_;G;Venda
+149900;Ca nﾴAurell;85;3;1;1764;No;No;1970;No;No;No;_;D;Venda
+255000;Escoles;144;4;2;1771;Si;Si;1992;Si;No;Si;1;G;Venda
+132000;Egara;81;3;1;1630;Si;No;_;No;No;Si;_;G;Venda
+225000;Ca n�Anglada;174;4;2;1293;Si;No;_;No;No;No;_;G;Venda
+425000;La Cogullada;183;5;4;2322;No;No;_;No;No;No;_;_;Venda
+137500;Torre-sana;69;1;2;1993;Si;Si;2003;No;No;Si;2;G;Venda
+165000;Can Jofresa;110;4;1;1500;No;No;1975;No;No;Si;_;E;Venda
+229000;Can Palet;104;3;1;2202;Si;Si;1960;No;No;No;_;F;Venda
+139000;Torre-sana;70;1;1;1986;Si;Si;2007;Si;No;Si;_;E;Venda
+199900;Ca n�Aurell;126;4;1;1587;Si;No;1964;No;No;Si;_;G;Venda
+295000;Poblenou-Zona Esportiva;160;3;2;1844;Si;Si;2022;No;No;No;2;G;Venda
+175000;X�quer;98;3;1;1786;No;No;1973;No;No;Si;_;E;Venda
+349900;Pere parres;219;4;3;1598;Si;No;1980;Si;No;No;_;E;Venda
+265000;Les Arenes-La Gr�pia;148;3;2;1791;Si;Si;1991;No;No;Si;3;G;Venda
+150000;Escoles;80;2;1;1875;No;No;1972;No;No;Si;_;G;Venda
+191000;Les Martines;78;2;1;2449;Si;Si;_;Si;No;Si;_;G;Venda
+106000;Cementiri Vell;_;_;_;_;No;No;1993;Si;No;Si;2;G;Venda
+110000;Can Boada;76;3;1;1447;Si;No;1969;No;No;No;1;E;Venda
+172500;Ca n�Aurell;73;2;1;2363;Si;Si;2005;No;No;Si;_;G;Venda
+395000;Torre-sana;372;4;2;1062;Si;No;1987;Si;No;No;_;E;Venda
+139000;Egara;105;3;2;1324;Si;No;1979;No;No;Si;_;E;Venda
+139000;La Maurina;65;3;1;2138;No;No;_;No;No;No;_;_;Venda
+120000;Roc Blanc;91;2;1;1319;Si;No;1968;No;No;No;_;D;Venda
+145000;Can Palet;80;2;1;1813;Si;No;2003;Si;No;Si;_;G;Venda
+420000;Ca nﾴAurell;289;3;3;1453;No;No;1951;No;No;No;_;E;Venda
+159990;Can Boada;90;4;1;1778;No;No;1979;No;No;No;_;E;Venda
+330000;Segle XX;158;3;2;2089;Si;No;2002;Si;No;Si;3;G;Venda
+163000;Ca n�Aurell;91;3;1;1791;Si;Si;1975;No;No;No;1;D;Venda
+246000;Sant Pere;78;3;2;3154;No;No;_;No;No;Si;_;B;Venda
+240000;Can Roca;66;2;2;3636;No;No;_;No;No;No;_;_;Venda
+169000;Centre;72;3;2;2347;Si;No;2022;No;No;Si;1;G;Venda
+125000;Ca n�Anglada;66;3;1;1894;Si;No;1959;No;No;No;_;G;Venda
+242000;La Cogullada;120;2;2;2017;Si;No;2003;Si;No;Si;_;E;Venda
+149000;Les Arenes-La Gr�pia;88;3;1;1693;Si;No;_;No;No;No;5;G;Venda
+145000;Can Palet;62;3;1;2339;Si;Si;1968;No;No;Si;_;E;Venda
+398000;Can Parellada;147;4;3;2707;Si;Si;2022;Si;No;No;2;A;Venda
+225000;Escoles;87;4;2;2586;Si;No;1973;No;No;Si;_;G;Venda
+384400;Poblenou-Zona Esportiva;182;3;2;2112;No;No;1992;No;No;No;_;D;Venda
+358900;Pol�gon Industrial Santa Margarida;340;6;3;1056;Si;No;2003;Si;Si;No;_;G;Venda
+145000;Ca n�Aurell;73;2;1;1986;Si;No;1978;No;No;Si;_;G;Venda
+260000;Torre-sana;156;3;2;1667;Si;Si;1968;Si;No;No;1;G;Venda
+180000;Poblenou-Zona Esportiva;87;2;2;2069;No;No;2002;No;No;No;_;G;Venda
+155000;Ca n�Aurell;80;2;2;1938;Si;Si;1972;No;No;Si;2;D;Venda
+359000;Ca n�Aurell;195;3;2;1841;Si;Si;2012;No;No;No;_;B;Venda
+72500;Ca n�Anglada;71;3;1;1021;Si;No;1974;No;No;No;_;G;Venda
+134900;Vallparad�s;93;3;1;1451;Si;No;1974;No;No;Si;_;G;Venda
+155000;Escoles;89;3;1;1742;Si;No;_;No;No;Si;_;G;Venda
+115000;Ca n�Aurell;74;3;1;1554;Si;No;1972;No;No;No;_;D;Venda
+239000;Sant Lloren�;130;5;2;1838;Si;No;_;No;No;Si;4;G;Venda
+139500;Ca n�Aurell;61;2;1;2287;Si;Si;2009;No;No;Si;1;G;Venda
+156000;Les Arenes-La Gr�pia;60;2;1;2600;No;No;_;No;No;Si;_;G;Venda
+112000;Can Boada;73;3;1;1534;Si;Si;1971;No;No;Si;_;G;Venda
+162000;Torre-sana;122;3;1;1328;Si;No;1973;No;No;No;_;_;Venda
+214000;Roc Blanc;106;4;2;2019;No;No;1993;Si;No;Si;_;E;Venda
+219000;Centre;73;2;2;3000;Si;Si;2005;Si;No;Si;4;E;Venda
+236900;Can Boada;150;3;2;1579;Si;No;1960;No;No;No;3;D;Venda
+182000;Ca n�Aurell;86;3;1;2116;Si;No;1978;No;No;Si;1;G;Venda
+199500;Can Palet;134;3;2;1489;Si;No;2003;No;No;Si;_;G;Venda
+339000;Les Arenes-La Gr�pia;177;5;2;1915;Si;Si;2003;No;No;Si;_;G;Venda
+186000;Poblenou-Zona Esportiva;109;2;2;1706;Si;No;2001;No;No;Si;_;E;Venda
+134000;Can Boada;90;3;1;1489;No;No;1976;No;No;No;_;F;Venda
+211000;Poblenou-Zona Esportiva;111;3;2;1901;Si;No;1990;Si;No;Si;_;G;Venda
+282000;Les Fonts;138;3;2;2043;Si;Si;1960;Si;No;No;_;E;Venda
+320000;Cementiri Vell;140;4;2;2286;Si;Si;1989;Si;No;Si;_;G;Venda
+229000;Pere parres;83;2;2;2759;Si;No;_;No;No;Si;_;A;Venda
+335000;Poblenou-Zona Esportiva;240;4;3;1396;Si;No;1969;Si;No;No;_;G;Venda
+184900;Centre;90;3;2;2054;Si;Si;2003;Si;No;Si;_;E;Venda
+360000;Centre;123;4;2;2927;Si;Si;1985;Si;No;Si;_;E;Venda
+360000;Centre;123;4;2;2927;Si;Si;1985;Si;No;Si;_;E;Venda
+209000;Can Palet;120;3;1;1742;Si;No;1955;Si;No;No;_;G;Venda
+172500;Sant Pere Nord;77;3;1;2240;Si;No;2005;No;No;Si;_;E;Venda
+216000;Can Palet;86;2;2;2512;Si;Si;2005;No;No;Si;_;E;Venda
+176000;La Cogullada;70;3;2;2514;Si;No;1999;No;No;Si;_;E;Venda
+145000;Ca n�Aurell;70;2;1;2071;Si;No;1978;No;No;Si;_;E;Venda
+159000;Ca n�Aurell;91;3;1;1747;Si;No;1975;No;No;No;_;D;Venda
+146000;La Cogullada;61;2;1;2393;No;Si;2008;No;No;Si;_;E;Venda
+159500;Les Arenes-La Gr�pia;60;3;1;2658;Si;No;1994;No;No;Si;_;E;Venda
+98000;Can Palet;78;3;1;1256;No;No;1967;No;No;Si;_;E;Venda
+145000;Sant Pere Nord;101;3;1;1436;No;No;1991;No;No;Si;_;E;Venda
+133000;La Maurina;115;3;1;1157;Si;No;1971;No;No;No;_;E;Venda
+130000;La Cogullada;47;1;1;2766;Si;Si;2007;No;No;Si;_;G;Venda
+495000;Torre-sana;212;6;2;2335;Si;Si;_;Si;No;No;_;E;Venda
+114500;La Maurina;92;3;1;1245;Si;No;1973;No;No;No;_;G;Venda
+295000;Can Boada;147;3;1;2007;No;No;1965;Si;No;No;_;E;Venda
+222000;Can Palet de Vista Alegre;94;3;2;2362;No;No;2008;Si;No;No;_;E;Venda
+165000;La Cogullada;70;2;1;2357;No;No;2007;No;No;Si;_;E;Venda
+136000;Ca n�Aurell;70;3;1;1943;No;No;1973;No;No;Si;_;D;Venda
+76000;Ca nﾴAnglada;68;2;1;1118;No;No;1962;No;No;No;_;F;Venda
+850000;Sant Lloren�;351;6;3;2422;Si;No;_;No;Si;No;_;G;Venda
+109000;Can Boada;72;3;1;1514;Si;No;1971;No;No;Si;_;E;Venda
+88000;Ca nﾴAnglada;71;3;1;1239;No;No;1969;No;No;No;_;G;Venda
+78000;Ca n�Anglada;71;3;1;1099;No;No;1968;No;No;Si;_;E;Venda
+249000;Sant Pere Nord;137;4;2;1818;Si;No;1979;No;No;Si;_;G;Venda
+308000;Can Palet;150;4;2;2053;Si;No;1988;Si;No;No;_;G;Venda
+460000;Poblenou-Zona Esportiva;346;4;4;1329;Si;No;1998;No;No;No;_;C;Venda
+110000;Sant Pere Nord;92;3;1;1196;No;No;1966;No;No;No;_;F;Venda
+140000;Poblenou-Zona Esportiva;107;4;1;1308;No;No;1964;No;No;No;_;E;Venda
+179000;Can Jofresa;110;3;2;1627;Si;No;1975;No;No;Si;_;G;Venda
+269680;Egara;259;4;1;1041;No;No;1971;No;No;No;_;G;Venda
+157500;Torre-sana;64;1;1;2461;No;No;2012;No;No;Si;_;D;Venda
+63000;Sant Lloren�;57;2;1;1105;No;No;1960;No;No;No;_;F;Venda
+238000;Segle XX;74;3;2;3216;Si;Si;2001;No;No;Si;_;G;Venda
+450000;Centre;196;4;3;2296;Si;No;2009;Si;Si;No;_;G;Venda
+133000;Ca n�Anglada;101;4;1;1317;Si;No;1969;No;No;Si;_;G;Venda
+270000;Centre;120;4;2;2250;Si;No;1970;No;No;Si;_;D;Venda
+116500;Les Arenes-La Gr�pia;70;3;1;1664;Si;No;1977;No;No;No;_;E;Venda
+117000;Sant Pere Nord;75;3;1;1560;No;Si;1970;No;No;Si;_;D;Venda
+156000;Les Arenes-La Gr�pia;60;2;1;2600;Si;Si;2002;No;No;Si;_;G;Venda
+194000;Sant Pere;91;4;1;2132;Si;No;1965;No;No;Si;_;D;Venda
+475000;Ca n�Aurell;289;3;3;1644;Si;Si;1951;Si;No;No;_;G;Venda
+390000;Can Palet de Vista Alegre;214;3;2;1822;Si;Si;2000;Si;Si;No;_;G;Venda
+154900;Vallparad�s;75;3;1;2065;Si;No;1949;No;No;No;_;E;Venda
+115500;Poblenou-Zona Esportiva;88;3;1;1313;No;No;1979;No;No;No;_;E;Venda
+180000;Segle XX;82;2;2;2195;Si;Si;_;No;No;Si;_;D;Venda
+359000;Les Martines;390;6;3;921;Si;No;2003;Si;Si;No;_;G;Venda
+178000;Sant Pere Nord;84;3;2;2119;Si;No;1996;No;No;Si;_;E;Venda
+520000;Les Martines;292;5;3;1781;Si;No;1983;Si;No;No;_;E;Venda
+113500;X�quer;86;3;1;1320;No;No;2002;No;No;No;_;E;Venda
+600000;Poblenou-Zona Esportiva;422;6;2;1422;Si;No;1997;Si;No;No;_;_;Venda
+450000;Ca n�Aurell;185;3;3;2432;Si;Si;2020;No;No;Si;_;A;Venda
+81000;Egara;57;3;1;1421;No;No;1965;No;No;No;_;F;Venda
+460000;Sant Pere;230;4;4;2000;Si;Si;1956;Si;No;No;_;D;Venda
+295000;Centre;143;7;2;2063;Si;No;1969;No;No;Si;_;E;Venda
+159000;Can Palet;71;2;1;2239;Si;Si;2004;Si;No;Si;_;G;Venda
+129000;Ca n�Aurell;48;2;1;2688;Si;No;1998;No;No;Si;_;E;Venda
+259000;Ca n�Aurell;103;4;2;2515;Si;No;1985;No;No;Si;_;G;Venda
+130000;Sant Pere;60;1;1;2167;Si;Si;2008;No;No;Si;_;C;Venda
+320000;Poblenou-Zona Esportiva;102;3;2;3137;Si;Si;2023;No;No;Si;_;A;Venda
+330000;Pere parres;144;4;2;2292;No;Si;1950;No;No;No;_;G;Venda
+360000;Centre;141;4;2;2553;Si;Si;2005;Si;No;Si;_;G;Venda
+262000;Centre;76;3;2;3447;Si;No;2001;No;No;Si;_;G;Venda
+265000;La Cogullada;135;3;2;1963;Si;Si;2002;No;No;Si;_;G;Venda
+140000;Segle XX;50;1;1;2800;Si;No;2008;No;No;Si;_;F;Venda
+279000;Poblenou-Zona Esportiva;91;2;2;3066;No;Si;2000;Si;No;Si;_;_;Venda
+325000;Ca n�Aurell;223;3;1;1457;Si;No;1950;No;No;No;_;E;Venda
+98000;Segle XX;76;3;1;1289;No;No;1953;No;No;No;2;G;Venda
+129000;Les Arenes-La Gr�pia;90;3;2;1433;No;No;1983;No;No;Si;_;_;Venda
+264900;Vallparad�s;160;4;2;1656;Si;Si;1988;No;No;Si;2;E;Venda
+243500;Ca n�Aurell;95;4;2;2563;Si;No;1966;No;No;Si;_;E;Venda
+315000;Roc Blanc;170;3;1;1853;Si;Si;1960;Si;No;No;_;G;Venda
+259800;Les Arenes-La Gr�pia;143;4;2;1817;Si;Si;1991;No;No;Si;_;G;Venda
+174000;Sant Pere;71;2;1;2451;Si;Si;2008;No;No;Si;_;G;Venda
+263000;Pere parres;106;3;2;2481;Si;No;_;No;No;Si;_;A;Venda
+245000;Les Arenes-La Gr�pia;119;4;2;2059;Si;No;_;No;No;Si;_;A;Venda
+262000;Les Arenes-La Gr�pia;123;4;2;2130;Si;No;_;No;No;Si;_;A;Venda
+294000;Can Roca;115;3;2;2557;Si;No;1999;Si;No;Si;_;E;Venda
+69000;Sant Lloren�;61;2;1;1131;No;No;1960;No;No;No;_;G;Venda
+145000;Ca n�Aurell;73;2;1;1986;Si;No;1978;No;No;Si;_;E;Venda
+225000;Poblenou-Zona Esportiva;93;3;2;2419;Si;Si;2023;No;No;Si;_;A;Venda
+240000;Centre;90;3;2;2667;Si;Si;2003;Si;No;Si;1;E;Venda
+146500;Can Roca;77;4;1;1903;No;Si;1969;No;No;Si;_;_;Venda
+149000;Les Arenes-La Gr�pia;80;3;1;1863;Si;Si;1974;No;No;No;_;_;Venda
+215000;Egara;225;3;2;956;Si;Si;1961;No;No;No;1;D;Venda
+265000;Can Gonteres;170;3;2;1559;Si;No;1985;Si;No;No;_;G;Venda
+360000;Centre;123;4;2;2927;No;No;1985;No;No;Si;_;E;Venda
+235000;Les Martines;316;8;2;744;No;No;_;No;No;No;_;_;Venda
+180000;Cementiri Vell;109;4;2;1651;Si;Si;_;Si;No;Si;_;E;Venda
+139900;Segle XX;44;1;1;3180;Si;Si;2003;No;No;Si;_;G;Venda
+144500;Les Arenes-La Gr�pia;67;3;1;2157;No;No;1982;No;No;Si;_;E;Venda
+340000;Ca n�Aurell;155;3;2;2194;Si;No;2021;No;No;No;_;G;Venda
+158000;Sant Pere Nord;95;4;1;1663;Si;Si;1960;No;No;No;_;E;Venda
+135900;Escoles;80;3;2;1699;No;No;1974;No;No;Si;_;G;Venda
+550000;Les Martines;192;5;3;2865;Si;Si;1983;Si;No;No;_;E;Venda
+190000;Can Boada;81;2;1;2346;Si;No;1994;No;No;Si;_;G;Venda
+186000;Pere parres;97;3;2;1918;Si;No;2007;No;No;Si;1;G;Venda
+235000;Centre;109;3;2;2156;Si;Si;1962;Si;No;Si;6;E;Venda
+159900;Can Palet;99;4;2;1615;Si;Si;1981;No;No;No;3;E;Venda
+139900;Can Jofresa;87;3;1;1608;No;No;1975;No;No;Si;4;E;Venda
+294000;Can Roca;115;3;2;2557;Si;Si;1999;Si;No;Si;_;E;Venda
+142000;Escoles;79;3;1;1797;Si;No;1974;No;No;Si;_;E;Venda
+155000;Escoles;89;3;1;1742;Si;No;_;No;No;Si;_;G;Venda
+120000;Torre-sana;69;2;1;1739;Si;No;1967;No;No;No;_;G;Venda
+254900;X�quer;188;5;3;1356;Si;Si;2001;Si;No;Si;3;G;Venda
+270000;Can Boada;99;3;2;2727;Si;No;1980;No;No;No;2;G;Venda
+260000;X�quer;196;5;2;1327;Si;No;2000;Si;No;Si;3;D;Venda
+396000;Ca n�Aurell;191;3;2;2073;Si;No;1934;No;No;No;2;E;Venda
+154000;Sant Pere Nord;65;3;1;2369;Si;Si;1966;No;No;Si;4;G;Venda
+136000;Cementiri Vell;94;3;1;1447;Si;No;1970;No;No;Si;1;E;Venda
+255000;Ca n�Aurell;98;3;2;2602;Si;Si;2002;Si;No;Si;3;G;Venda
+429000;Centre;140;4;2;3064;Si;Si;2018;No;Si;No;2;G;Venda
+220000;Cementiri Vell;116;4;2;1897;Si;Si;1979;Si;No;Si;3;G;Venda
+239000;Centre;85;2;1;2812;Si;Si;2010;Si;No;Si;1;G;Venda
+385000;Centre;210;5;3;1833;Si;Si;1967;Si;No;Si;5;G;Venda
+269000;Centre;125;3;2;2152;Si;Si;2001;Si;No;Si;2;G;Venda
+190000;Vallparad�s;110;3;2;1727;Si;No;1976;No;No;Si;2;G;Venda
+520000;Centre;200;5;3;2600;Si;Si;1915;Si;No;No;2;G;Venda
+590000;Centre;250;5;3;2360;Si;Si;2000;Si;No;No;3;G;Venda
+365000;Centre;125;4;2;2920;Si;No;1986;Si;No;No;2;G;Venda
+210000;Cementiri Vell;131;4;2;1603;Si;Si;1972;No;No;Si;5;G;Venda
+245000;Centre;90;3;1;2722;Si;No;_;Si;No;No;1;G;Venda
+485000;Centre;230;5;3;2109;Si;Si;2010;Si;No;Si;_;G;Venda
+193000;La Cogullada;70;2;2;2757;Si;Si;2007;No;No;Si;_;D;Venda
+390000;Roc Blanc;413;4;3;944;Si;Si;2005;Si;No;No;_;G;Venda
+205000;Les Arenes-La Gr�pia;97;3;2;2113;Si;No;2009;No;No;Si;3;G;Venda
+150000;Les Arenes-La Gr�pia;65;2;1;2308;No;No;1994;Si;No;Si;2;G;Venda
+225000;Les Arenes-La Gr�pia;89;2;1;2528;No;Si;2004;No;No;Si;_;G;Venda
+238800;Vallparad�s;86;3;2;2777;Si;Si;_;No;No;Si;_;B;Venda
+328800;Vallparad�s;106;3;2;3102;Si;Si;_;No;No;Si;_;B;Venda
+259000;Vallparad�s;86;3;2;3012;Si;Si;_;No;No;Si;_;B;Venda
+186800;Vallparad�s;65;2;1;2874;Si;Si;_;No;No;Si;_;B;Venda
+384000;Vallparad�s;136;4;3;2824;Si;Si;_;No;No;Si;_;B;Venda
+186800;Vallparad�s;65;2;1;2874;Si;Si;_;No;No;Si;_;B;Venda
+485000;Centre;230;4;3;2109;Si;Si;1900;Si;No;No;_;D;Venda
+159000;Sant Pere Nord;80;3;1;1988;Si;Si;1968;No;No;Si;_;G;Venda
+223000;Centre;108;3;2;2065;Si;Si;1979;No;No;Si;_;G;Venda
+109000;Can Palet;66;3;1;1652;No;No;1962;No;No;Si;_;G;Venda
+132900;Sant Pere Nord;82;4;1;1621;No;No;1970;No;No;No;_;G;Venda
+111000;La Maurina;99;4;2;1121;No;No;1962;No;No;No;_;G;Venda
+129000;Roc Blanc;47;1;1;2745;No;Si;2002;No;No;Si;_;D;Venda
+195000;Segle XX;75;3;2;2600;Si;Si;2002;Si;No;Si;_;D;Venda
+469000;Vallparad�s;130;3;3;3608;Si;Si;_;Si;No;No;_;B;Venda
+450000;Vallparad�s;118;3;3;3814;Si;Si;_;Si;No;No;_;B;Venda
+290000;Centre;117;3;2;2479;Si;Si;2004;Si;No;Si;2;E;Venda
+138000;La Maurina;90;3;1;1533;Si;No;1966;No;No;No;_;E;Venda
+125000;Can Boada;93;4;2;1344;Si;No;1979;No;No;Si;2;E;Venda
+260000;Ca n�Aurell;118;3;2;2203;Si;No;_;No;No;No;_;G;Venda
+348000;Can Roca;108;3;2;3222;Si;Si;_;No;No;Si;_;G;Venda
+695000;Can Gonteres;208;5;4;3341;Si;Si;2002;Si;No;Si;_;_;Venda
+180000;Segle XX;101;2;2;1782;Si;Si;_;No;No;Si;_;E;Venda
+109900;Cementiri Vell;89;3;1;1235;No;No;1972;No;No;No;_;G;Venda
+176000;Pere parres;88;3;2;2000;Si;No;2007;No;No;Si;2;G;Venda
+146000;La Cogullada;60;2;1;2433;Si;Si;2008;No;No;Si;_;G;Venda
+210000;Escoles;115;4;2;1826;No;Si;1979;No;No;Si;_;E;Venda
+465000;Vallparad�s;148;3;3;3142;Si;Si;_;No;No;No;_;B;Venda
+199000;Can Palet;72;3;2;2764;No;Si;2003;No;No;Si;_;B;Venda
+167900;Centre;79;3;1;2125;Si;No;1950;No;No;No;_;G;Venda
+359000;Ca n�Aurell;245;4;2;1465;No;No;1970;Si;No;No;_;G;Venda
+270000;Segle XX;135;4;2;2000;Si;Si;_;No;No;No;_;G;Venda
+325000;Roc Blanc;170;3;1;1912;Si;Si;1961;Si;No;No;_;G;Venda
+309000;Sant Pere Nord;291;6;4;1062;Si;No;2000;No;No;No;_;E;Venda
+185000;Segle XX;93;2;2;1989;Si;Si;_;No;No;Si;_;D;Venda
+206000;Segle XX;_;_;_;_;Si;No;_;No;No;Si;_;D;Venda
+120000;Cementiri Vell;83;3;1;1446;Si;No;1972;No;No;Si;_;_;Venda
+230000;Roc Blanc;90;3;2;2556;Si;Si;_;No;No;Si;_;G;Venda
+369000;Centre;171;4;3;2158;No;Si;2004;Si;No;Si;_;E;Venda
+525000;Poblenou-Zona Esportiva;287;5;2;1829;Si;Si;1990;Si;No;No;_;E;Venda
+259000;Pere parres;146;4;2;1774;No;No;2007;No;No;No;_;G;Venda
+290000;Centre;88;4;2;3295;No;No;2000;No;No;No;_;G;Venda
+255000;Escoles;128;4;2;1992;Si;Si;1991;No;No;Si;_;G;Venda
+135000;Ca nﾴAurell;126;3;1;1071;No;No;1950;No;No;No;_;G;Venda
+420000;Sant Pere;186;3;3;2258;Si;No;2022;Si;No;No;_;G;Venda
+94500;Egara;_;_;_;_;No;No;2006;Si;No;Si;_;E;Venda
+198000;La Maurina;100;3;2;1980;Si;Si;_;No;No;Si;_;G;Venda
+275000;Cementiri Vell;148;3;2;1858;Si;Si;2005;Si;No;Si;_;E;Venda
+139700;Sant Pere Nord;60;2;1;2328;Si;No;1995;No;No;Si;_;G;Venda
+365000;Ca n�Aurell;157;3;3;2325;Si;No;2022;Si;No;No;_;G;Venda
+127500;La Maurina;112;3;2;1138;No;No;1982;No;No;No;_;G;Venda
+122500;Sant Pere Nord;45;1;1;2722;Si;No;2005;No;No;Si;1;E;Venda
+265000;Cementiri Vell;121;4;2;2190;Si;Si;_;No;No;Si;_;G;Venda
+270000;Centre;120;6;2;2250;Si;No;1900;No;No;No;_;G;Venda
+124000;La Maurina;84;2;1;1476;No;No;1962;No;No;No;_;_;Venda
+299000;Centre;125;3;2;2392;Si;No;1966;No;No;Si;4;E;Venda
+80000;Ca nﾴAnglada;74;3;1;1081;No;No;1971;No;No;No;2;G;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;Si;1997;Si;Si;No;_;E;Venda
+225000;Ca n�Aurell;113;4;2;1991;Si;No;1970;No;No;Si;_;E;Venda
+244000;Ca n�Anglada;189;3;2;1291;No;Si;1950;Si;No;No;_;E;Venda
+244000;Can Roca;86;3;2;2837;Si;Si;2008;No;No;Si;_;D;Venda
+135500;Can Palet;60;2;2;2258;Si;No;2006;No;No;Si;_;G;Venda
+184000;Sant Pere;81;3;1;2272;Si;No;1985;No;No;Si;4;E;Venda
+204500;Torre-sana;70;2;1;2921;Si;Si;2007;Si;No;Si;_;E;Venda
+185000;Torre-sana;79;3;2;2342;Si;Si;2006;Si;No;Si;_;G;Venda
+122000;Egara;71;3;1;1718;Si;No;1970;No;No;No;1;G;Venda
+178000;Can Boada;75;4;1;2373;Si;Si;1979;Si;No;Si;2;C;Venda
+135000;Sant Pere;89;3;1;1517;Si;Si;1973;No;No;No;2;E;Venda
+136000;Ca n�Aurell;90;4;1;1511;No;No;1973;No;No;Si;_;G;Venda
+380000;Centre;240;3;2;1583;Si;No;1995;Si;No;No;_;G;Venda
+175000;La Cogullada;85;3;2;2059;Si;Si;1980;Si;No;Si;_;E;Venda
+184900;Centre;110;3;2;1681;Si;Si;2003;Si;No;Si;_;G;Venda
+449000;Poblenou-Zona Esportiva;330;5;4;1361;Si;No;1980;Si;Si;No;_;G;Venda
+360000;Les Fonts;222;4;3;1622;Si;Si;1994;Si;No;No;_;G;Venda
+167000;Can Roca;80;4;1;2088;Si;Si;1969;No;No;Si;2;G;Venda
+265000;Cementiri Vell;100;4;2;2650;Si;Si;_;Si;No;Si;_;G;Venda
+497000;Poblenou-Zona Esportiva;274;5;3;1814;Si;Si;1982;Si;No;No;1;G;Venda
+148000;Ca n�Anglada;71;4;1;2085;No;Si;1971;Si;No;Si;_;E;Venda
+246000;Ca nﾴAurell;160;3;1;1538;No;No;1973;No;No;No;_;G;Venda
+229500;Egara;81;3;1;2833;Si;Si;1999;Si;No;No;3;G;Venda
+264000;Centre;100;3;1;2640;No;No;2006;No;No;No;_;G;Venda
+269000;Centre;120;3;2;2242;Si;Si;_;No;No;Si;_;G;Venda
+183000;Poblenou-Zona Esportiva;90;2;1;2033;Si;No;2004;No;No;Si;_;D;Venda
+299900;La Maurina;224;4;2;1339;Si;Si;1997;Si;No;No;_;G;Venda
+279000;Cementiri Vell;85;3;2;3282;Si;No;2001;Si;No;Si;_;G;Venda
+155000;Poblenou-Zona Esportiva;90;3;1;1722;Si;No;1980;No;No;No;_;G;Venda
+180890;La Cogullada;110;3;2;1644;No;Si;1980;No;No;Si;_;E;Venda
+169000;Can Boada;85;3;1;1988;Si;Si;1994;No;No;Si;_;_;Venda
+270000;Centre;136;6;2;1985;Si;No;_;No;No;No;_;G;Venda
+395000;Les Arenes-La Gr�pia;231;3;3;1710;Si;Si;1995;Si;No;No;_;G;Venda
+160000;Pere parres;84;3;2;1905;Si;No;2001;Si;No;Si;_;E;Venda
+209000;Ca n�Aurell;87;4;1;2402;Si;No;1971;No;No;Si;_;E;Venda
+379000;Poblenou-Zona Esportiva;431;4;3;879;Si;No;1986;Si;No;No;_;E;Venda
+155000;Cementiri Vell;85;2;1;1824;Si;No;1970;No;No;Si;_;E;Venda
+340000;Torre-sana;177;5;2;1921;Si;Si;2003;Si;No;Si;_;D;Venda
+475000;Ca n�Aurell;289;3;3;1644;Si;Si;1951;Si;No;No;_;G;Venda
+459500;Ca n�Aurell;373;7;4;1232;No;Si;2011;Si;No;No;_;G;Venda
+259800;Les Arenes-La Gr�pia;143;4;2;1817;Si;Si;1991;No;No;Si;_;G;Venda
+181000;Torre-sana;120;2;1;1508;Si;Si;2003;No;No;Si;_;_;Venda
+189500;Torre-sana;65;3;1;2915;Si;Si;2001;Si;No;Si;_;F;Venda
+162800;Can Palet;96;3;1;1696;Si;Si;_;No;No;Si;_;G;Venda
+260000;Ca n�Aurell;102;3;2;2549;Si;Si;_;No;No;No;_;G;Venda
+190000;Escoles;110;4;2;1727;Si;No;1978;No;No;Si;_;G;Venda
+217000;Ca n�Aurell;102;3;2;2127;No;Si;_;No;No;Si;_;E;Venda
+299000;La Maurina;246;3;2;1215;Si;Si;1962;Si;No;No;_;G;Venda
+330000;Les Arenes-La Gr�pia;122;5;2;2705;Si;Si;2003;No;No;Si;_;G;Venda
+85000;Ca n�Anglada;71;3;1;1197;Si;Si;1968;No;No;Si;2;E;Venda
+248000;Segle XX;113;3;2;2195;Si;No;2007;Si;No;Si;3;E;Venda
+85000;Egara;64;3;1;1328;No;No;1962;No;No;No;_;G;Venda
+69000;Ca nﾴAnglada;71;3;1;972;No;No;1962;No;No;No;_;G;Venda
+350000;Centre;124;3;2;2823;Si;Si;1995;No;No;No;_;E;Venda
+117000;La Maurina;117;4;1;1000;No;No;1965;No;No;No;_;E;Venda
+149900;Can Palet;91;3;1;1647;Si;No;1973;No;No;No;_;G;Venda
+138000;Can Palet;74;2;1;1865;Si;No;1965;No;No;Si;_;E;Venda
+159800;Can Palet;90;3;2;1776;Si;No;2001;No;No;Si;_;G;Venda
+168500;Poblenou-Zona Esportiva;220;5;1;766;Si;No;1970;No;No;No;_;G;Venda
+131500;Torre-sana;73;2;2;1801;Si;No;2003;Si;No;Si;_;E;Venda
+95000;Ca n�Anglada;80;3;1;1188;No;No;1970;No;No;Si;_;D;Venda
+560000;Les Martines;345;7;4;1623;Si;No;1980;Si;No;No;_;E;Venda
+495000;Pere parres;313;5;2;1581;Si;No;1991;Si;No;No;_;G;Venda
+460000;Segle XX;417;7;3;1103;Si;Si;1979;Si;No;No;_;D;Venda
+322000;Can Palet;434;5;2;742;Si;No;1978;Si;No;No;_;G;Venda
+229000;Can Boada;135;4;2;1696;Si;Si;2004;No;No;Si;_;G;Venda
+265000;Ca n�Aurell;100;3;2;2650;Si;Si;2020;No;No;Si;_;G;Venda
+275000;Egara;167;4;2;1647;Si;No;1950;Si;No;No;_;E;Venda
+259800;Les Arenes-La Gr�pia;95;3;2;2735;Si;No;2003;No;No;Si;_;E;Venda
+359000;Les Martines;390;6;4;921;Si;No;2003;Si;Si;No;_;G;Venda
+259800;Les Arenes-La Gr�pia;95;3;2;2735;Si;No;2003;No;No;Si;_;E;Venda
+169000;Pere parres;109;3;2;1550;No;No;1978;Si;No;Si;_;E;Venda
+173250;Les Arenes-La Gr�pia;96;2;2;1805;Si;No;2002;No;No;Si;_;E;Venda
+183860;Can Palet;98;3;2;1876;Si;No;2007;No;No;Si;_;D;Venda
+180000;Les Arenes-La Gr�pia;109;3;2;1651;Si;Si;_;Si;No;Si;1;F;Venda
+157000;Ca n�Anglada;83;3;1;1892;Si;No;2008;No;No;Si;_;E;Venda
+116000;Can Palet;60;3;1;1933;Si;No;1969;No;No;Si;_;E;Venda
+174000;Can Palet;67;2;1;2597;Si;No;2006;No;No;Si;_;G;Venda
+340000;Centre;140;3;3;2429;No;No;_;Si;No;No;_;G;Venda
+209000;Segle XX;75;2;1;2787;Si;No;1992;No;No;Si;_;E;Venda
+161000;Poblenou-Zona Esportiva;65;2;1;2477;Si;No;2009;No;No;Si;_;E;Venda
+149900;Poblenou-Zona Esportiva;95;2;1;1578;No;No;1970;No;No;No;_;G;Venda
+255000;Sant Pere Nord;163;3;2;1564;No;Si;1974;Si;No;No;_;G;Venda
+288900;Centre;122;4;2;2368;Si;Si;1988;No;No;Si;1;E;Venda
+132900;Sant Pere Nord;82;4;1;1621;No;No;1970;No;No;No;_;G;Venda
+185000;Sant Pere Nord;100;3;2;1850;Si;Si;1997;No;No;Si;_;_;Venda
+279000;Centre;112;4;2;2491;Si;No;2000;No;No;Si;_;G;Venda
+248800;Pere parres;133;2;2;1871;Si;No;1983;No;No;Si;_;E;Venda
+350000;La Cogullada;219;3;2;1598;Si;No;2005;Si;No;No;_;G;Venda
+312000;Les Martines;345;4;1;904;No;No;1970;Si;Si;No;_;E;Venda
+182000;La Maurina;120;2;1;1517;Si;No;_;Si;No;No;_;G;Venda
+95000;La Maurina;75;4;1;1267;No;No;1953;No;No;No;_;E;Venda
+270000;Centre;136;6;2;1985;Si;No;1900;No;No;No;_;G;Venda
+146000;Les Arenes-La Gr�pia;92;3;1;1587;Si;Si;1985;No;No;No;_;_;Venda
+445000;Can Parellada;239;5;3;1862;Si;Si;1980;Si;No;No;_;G;Venda
+80500;La Maurina;59;3;1;1364;No;No;1965;No;No;No;_;E;Venda
+169000;Poblenou-Zona Esportiva;247;7;2;684;Si;No;1970;No;No;No;_;E;Venda
+244000;Poblenou-Zona Esportiva;86;3;2;2837;Si;Si;2000;No;No;Si;_;G;Venda
+138000;Can Boada;46;2;1;3000;No;No;2004;No;No;No;_;G;Venda
+349900;Roc Blanc;162;4;2;2160;Si;No;1998;Si;No;No;_;G;Venda
+115000;La Maurina;99;4;1;1162;No;No;1956;No;No;No;_;G;Venda
+259000;Ca n�Aurell;105;3;2;2467;Si;No;2021;No;No;Si;_;E;Venda
+90000;La Maurina;90;3;1;1000;No;No;1965;No;No;No;_;E;Venda
+265000;Les Arenes-La Gr�pia;148;4;2;1791;Si;Si;1991;No;No;Si;_;_;Venda
+335000;Sant Pere;121;3;2;2769;No;No;2007;No;No;Si;_;G;Venda
+299000;Centre;125;3;2;2392;Si;No;1966;No;No;Si;_;E;Venda
+72000;Ca nﾴAnglada;68;3;1;1059;No;No;1956;No;No;No;_;G;Venda
+69000;Ca nﾴAnglada;70;3;1;986;No;No;1968;No;No;No;_;F;Venda
+96000;Egara;55;2;1;1745;No;No;1960;No;No;No;_;E;Venda
+195000;Les Arenes-La Gr�pia;115;3;2;1696;Si;No;_;No;No;Si;_;A;Venda
+539000;Ca n�Aurell;428;5;3;1259;Si;Si;_;Si;No;No;_;G;Venda
+157500;Torre-sana;85;2;1;1853;Si;No;2008;No;No;Si;_;G;Venda
+116000;Can Roca;63;3;1;1841;Si;Si;1969;No;No;No;_;_;Venda
+116000;Can Roca;63;3;1;1841;Si;Si;1969;No;No;No;_;_;Venda
+98000;Can Palet;78;3;1;1256;No;No;1967;No;No;Si;_;E;Venda
+126000;Les Arenes-La Gr�pia;60;2;1;2100;Si;Si;1997;Si;No;Si;_;E;Venda
+295000;Ca n�Anglada;234;4;2;1261;Si;Si;_;No;No;Si;_;A;Venda
+300000;Les Martines;134;2;2;2239;Si;Si;1993;Si;No;No;_;E;Venda
+267000;Sant Pere Nord;166;2;1;1608;Si;Si;1970;Si;No;No;_;_;Venda
+110500;Sant Pere Nord;55;2;1;2009;No;No;2005;No;No;Si;_;G;Venda
+110500;Sant Pere Nord;50;2;1;2210;Si;No;2005;No;No;Si;_;D;Venda
+169900;Ca n�Anglada;120;3;2;1416;Si;No;1979;No;No;No;_;G;Venda
+119000;X�quer;80;4;1;1488;Si;No;1974;No;No;Si;_;D;Venda
+182900;Ca n�Aurell;108;3;2;1694;Si;Si;2008;Si;No;Si;_;_;Venda
+248800;Pere parres;133;3;2;1871;Si;No;1983;No;No;No;_;E;Venda
+359000;Les Arenes-La Gr�pia;378;5;4;950;Si;Si;1958;No;No;No;_;_;Venda
+299000;Cementiri Vell;121;3;2;2471;Si;No;2001;No;No;Si;_;_;Venda
+361000;Can Palet de Vista Alegre;227;3;4;1590;Si;Si;_;No;No;No;_;_;Venda
+259000;Ca n�Aurell;105;3;2;2467;No;No;2020;No;No;Si;_;E;Venda
+252000;Torre-sana;94;3;2;2681;No;No;2016;Si;No;Si;_;_;Venda
+385000;Vallparad�s;163;4;3;2362;No;No;2022;Si;No;No;_;G;Venda
+156000;Egara;75;3;1;2080;Si;Si;1966;No;No;Si;_;G;Venda
+96000;Ca n�Anglada;70;3;1;1371;Si;No;1973;No;No;No;_;G;Venda
+98900;Sant Pere Nord;76;3;1;1301;Si;No;1959;No;No;No;_;E;Venda
+98900;Sant Pere Nord;76;3;1;1301;Si;No;1959;No;No;No;_;E;Venda
+140990;Poblenou-Zona Esportiva;106;3;2;1330;Si;No;1966;No;No;No;_;E;Venda
+125000;Cementiri Vell;36;1;1;3472;Si;Si;_;No;No;Si;_;G;Venda
+87000;Sant Lloren�;64;3;1;1359;No;No;1960;No;No;No;_;E;Venda
+106000;Sant Lloren�;81;3;1;1309;No;No;1960;No;No;No;_;E;Venda
+85000;Can Palet;69;2;1;1232;No;Si;1962;No;No;No;_;G;Venda
+95000;Les Arenes-La Gr�pia;91;3;1;1044;No;Si;1973;No;No;No;_;_;Venda
+249000;Torre-sana;170;5;2;1465;Si;No;_;Si;No;No;_;G;Venda
+420000;Sant Pere;172;4;3;2442;Si;Si;2022;Si;No;No;_;A;Venda
+129000;Sant Pere;79;3;1;1633;Si;Si;1965;No;No;No;_;G;Venda
+144000;Ca n�Aurell;50;1;1;2880;Si;Si;2005;No;No;Si;_;G;Venda
+335000;Les Arenes-La Gr�pia;150;4;2;2233;No;Si;1955;No;No;No;_;_;Venda
+93500;Ca n�Aurell;40;1;1;2338;Si;No;2007;No;No;Si;_;G;Venda
+165000;La Cogullada;70;2;2;2357;Si;Si;2007;No;No;Si;_;G;Venda
+145000;Torre-sana;65;2;1;2231;Si;No;2005;No;No;Si;_;G;Venda
+131500;Les Arenes-La Gr�pia;79;3;1;1665;Si;No;1974;No;No;Si;_;E;Venda
+129000;Sant Pere;79;3;1;1633;Si;Si;1965;No;No;No;_;G;Venda
+150000;Sant Pere Nord;81;3;1;1852;Si;No;_;No;No;Si;_;G;Venda
+95000;La Maurina;90;4;1;1056;No;No;1953;No;No;No;_;G;Venda
+83000;Ca n�Anglada;80;3;1;1038;Si;No;1960;No;No;No;_;G;Venda
+169900;Escoles;96;3;2;1770;Si;Si;_;No;No;No;_;G;Venda
+87000;Centre;71;3;1;1225;Si;No;1969;No;No;No;_;E;Venda
+195000;La Maurina;284;3;1;687;Si;No;1945;Si;No;No;_;G;Venda
+99000;La Maurina;98;2;1;1010;Si;Si;1957;No;No;No;_;E;Venda
+174500;Centre;60;2;1;2908;Si;Si;2008;No;No;Si;_;G;Venda
+199900;Sant Pere Nord;313;4;2;639;No;No;2017;Si;No;No;_;_;Venda
+199900;Sant Pere Nord;313;4;2;639;No;No;2017;Si;No;No;_;_;Venda
+349000;Sant Pere;129;4;2;2705;Si;Si;1996;No;No;Si;_;G;Venda
+227000;Pere parres;155;4;2;1465;Si;Si;1978;No;No;Si;3;G;Venda
+134000;Pere parres;90;3;1;1489;Si;No;1976;No;No;No;_;F;Venda
+181000;Torre-sana;70;2;1;2586;Si;Si;2003;Si;No;Si;2;E;Venda
+85000;Sant Lloren�;81;3;1;1049;No;Si;1960;No;No;No;_;_;Venda
+180000;Cementiri Vell;109;4;2;1651;Si;Si;_;Si;No;Si;_;E;Venda
+239900;Ca n�Aurell;127;4;2;1889;Si;Si;1977;No;No;Si;_;G;Venda
+210000;Ca nﾴAurell;_;_;_;_;No;No;1949;No;No;No;_;G;Venda
+130000;Sant Pere Nord;107;3;1;1215;No;No;1970;No;No;Si;_;G;Venda
+125000;Vallparad�s;90;3;1;1389;No;No;_;No;No;Si;_;G;Venda
+109000;Centre;39;1;1;2795;No;No;2007;No;No;Si;_;D;Venda
+224900;Cementiri Vell;60;2;1;3748;Si;Si;2009;No;No;Si;_;G;Venda
+165000;Centre;39;1;1;4231;Si;Si;2010;No;No;Si;_;D;Venda
+444000;Centre;266;3;3;1669;Si;Si;_;Si;No;No;_;E;Venda
+166000;La Maurina;62;2;1;2677;Si;No;2003;No;No;Si;_;D;Venda
+194000;Can Roca;93;3;2;2086;Si;Si;2006;Si;No;Si;_;D;Venda
+140000;Can Palet;48;2;1;2917;Si;No;2017;No;No;Si;_;D;Venda
+140000;Ca n�Anglada;75;2;1;1867;Si;Si;2008;Si;No;Si;5;E;Venda
+140000;Can Palet;47;2;1;2979;Si;No;2016;No;No;Si;_;D;Venda
+112000;Centre;37;1;1;3027;Si;Si;2002;No;No;Si;_;F;Venda
+239900;Sant Pere Nord;220;4;2;1090;Si;No;1991;No;No;No;2;G;Venda
+335000;Sant Pere;121;3;2;2769;Si;No;2007;No;No;Si;3;F;Venda
+225000;Poblenou-Zona Esportiva;121;3;1;1860;No;No;1961;No;No;No;_;E;Venda
+175000;X�quer;98;3;1;1786;Si;No;1973;No;No;Si;_;E;Venda
+169000;Les Arenes-La Gr�pia;89;4;2;1899;Si;No;1999;No;No;No;_;E;Venda
+212000;Poblenou-Zona Esportiva;197;4;1;1076;No;No;1966;Si;No;No;_;G;Venda
+290000;Centre;123;4;2;2358;Si;Si;2000;No;No;Si;1;G;Venda
+247000;La Maurina;170;4;2;1453;Si;Si;1958;Si;No;No;_;E;Venda
+337100;Sant Pere Nord;192;5;2;1756;Si;Si;1954;Si;No;No;_;E;Venda
+260000;Sant Pere Nord;109;3;2;2385;Si;Si;2011;No;No;Si;3;E;Venda
+225000;La Maurina;183;4;2;1230;Si;Si;1975;No;No;No;1;D;Venda
+270000;Segle XX;133;4;2;2030;Si;Si;1983;No;No;No;1;E;Venda
+429000;Can Parellada;246;4;3;1744;Si;No;1980;Si;No;No;2;G;Venda
+137000;Sant Pere Nord;107;3;1;1280;No;No;1970;No;No;No;_;G;Venda
+134000;Centre;49;1;1;2735;Si;Si;2006;No;No;Si;_;G;Venda
+147000;Can Jofresa;110;4;2;1336;No;No;1975;No;No;Si;9;E;Venda
+175000;Cementiri Vell;99;3;1;1768;Si;No;1975;No;No;Si;2;G;Venda
+482000;La Cogullada;277;5;2;1740;Si;No;1960;Si;No;No;_;G;Venda
+206000;Can Palet;134;3;2;1537;Si;No;2003;Si;No;Si;_;G;Venda
+210000;Vallparad�s;105;4;2;2000;Si;Si;1984;No;No;Si;_;G;Venda
+369000;Centre;171;4;3;2158;Si;Si;_;Si;No;Si;_;E;Venda
+200900;Cementiri Vell;144;3;2;1395;Si;No;1994;Si;No;Si;_;F;Venda
+80500;La Maurina;60;3;1;1342;No;No;1965;No;No;No;_;G;Venda
+123600;Ca n�Anglada;59;1;1;2095;Si;Si;_;No;No;Si;_;A;Venda
+117100;Ca n�Anglada;59;1;1;1985;Si;Si;_;No;No;Si;_;A;Venda
+178845;Ca n�Anglada;84;2;2;2129;Si;Si;_;No;No;Si;_;A;Venda
+229000;Ca n�Anglada;125;3;2;1832;Si;Si;_;No;No;Si;_;A;Venda
+227000;Ca n�Anglada;122;3;2;1861;Si;Si;_;No;No;Si;_;A;Venda
+165845;Ca n�Anglada;85;2;2;1951;Si;Si;_;No;No;Si;_;A;Venda
+178845;Ca n�Anglada;85;2;2;2104;Si;Si;_;No;No;Si;_;A;Venda
+125000;Ca n�Anglada;57;1;1;2193;Si;Si;_;No;No;Si;_;A;Venda
+130100;Ca n�Anglada;59;1;1;2205;Si;Si;_;No;No;Si;_;A;Venda
+172345;Ca n�Anglada;82;2;2;2102;Si;Si;_;No;No;Si;_;A;Venda
+160000;Sant Pere;92;3;1;1739;Si;Si;1982;No;No;No;_;B;Venda
+155000;Poblenou-Zona Esportiva;120;3;1;1292;Si;No;1980;No;No;No;2;G;Venda
+152000;Can Palet;107;3;1;1421;No;No;1973;No;No;No;1;E;Venda
+238000;Sant Pere Nord;117;3;2;2034;Si;Si;1985;No;No;No;_;D;Venda
+147000;Can Boada;93;4;2;1581;Si;No;1979;No;No;Si;3;G;Venda
+162000;Cementiri Vell;76;2;1;2132;Si;Si;1998;No;No;Si;_;G;Venda
+149000;Les Arenes-La Gr�pia;60;2;1;2483;Si;Si;2006;Si;No;Si;1;E;Venda
+298000;Sant Pere;156;4;2;1910;Si;Si;2002;Si;No;Si;3;G;Venda
+93000;Ca nﾴAnglada;78;3;1;1192;No;No;1973;No;No;No;_;F;Venda
+59000;Montserrat;54;3;1;1093;No;No;1962;No;No;No;_;G;Venda
+210000;Poblenou-Zona Esportiva;116;4;2;1810;Si;No;2000;No;No;Si;_;E;Venda
+178000;Poblenou-Zona Esportiva;77;2;1;2312;Si;No;1997;Si;No;Si;3;D;Venda
+135900;Escoles;77;3;2;1765;Si;No;1974;No;No;Si;_;G;Venda
+115000;Escoles;35;1;1;3286;Si;No;2004;No;No;Si;_;G;Venda
+129000;Sant Pere Nord;67;3;1;1925;No;Si;1985;No;No;Si;_;_;Venda
+140000;Escoles;58;2;1;2414;Si;Si;2008;Si;No;Si;_;E;Venda
+164900;Sant Pere Nord;105;3;2;1570;No;No;2002;No;No;Si;_;G;Venda
+265000;Vallparad�s;159;4;2;1667;Si;No;_;No;No;Si;_;G;Venda
+296700;Can Roca;126;3;2;2355;Si;Si;2019;No;No;Si;2;G;Venda
+493000;Sant Pere;279;3;2;1767;Si;No;2017;Si;Si;No;_;G;Venda
+360000;Centre;143;4;2;2517;Si;Si;2000;No;No;No;_;E;Venda
+235000;Vallparad�s;139;4;3;1691;Si;Si;2000;No;No;Si;_;E;Venda
+105000;La Maurina;118;3;1;890;No;No;1962;No;No;No;_;G;Venda
+85000;Ca nﾴAnglada;77;3;1;1104;No;No;1962;No;No;No;_;G;Venda
+360000;Les Martines;249;5;2;1446;Si;No;2005;Si;Si;No;_;E;Venda
+337100;Sant Pere Nord;192;5;2;1756;Si;Si;1954;Si;No;No;_;E;Venda
+132000;Egara;49;2;1;2694;Si;No;2004;No;No;Si;1;G;Venda
+137000;Sant Pere Nord;96;4;1;1427;Si;Si;1958;No;No;No;4;F;Venda
+106000;La Maurina;72;3;1;1472;Si;No;1979;No;No;No;4;E;Venda
+193000;La Cogullada;70;2;1;2757;Si;Si;_;No;No;Si;_;F;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;Si;_;Si;No;No;_;E;Venda
+348000;Sant Pere Nord;237;3;3;1468;Si;Si;_;Si;No;No;_;D;Venda
+294000;Can Roca;115;3;2;2557;Si;No;1999;Si;No;Si;_;E;Venda
+259000;Can Roca;94;3;2;2755;Si;Si;_;Si;No;Si;_;E;Venda
+193000;La Cogullada;70;2;1;2757;Si;Si;_;No;No;Si;_;F;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;Si;_;Si;No;No;_;E;Venda
+348000;Sant Pere Nord;237;3;3;1468;Si;Si;_;Si;No;No;_;D;Venda
+294000;Can Roca;115;3;2;2557;Si;No;1999;Si;No;Si;_;E;Venda
+259000;Can Roca;94;3;2;2755;Si;Si;_;Si;No;Si;_;E;Venda
+185000;Ca n�Aurell;115;3;1;1609;Si;Si;_;No;No;No;_;G;Venda
+294000;Can Roca;115;3;2;2557;Si;Si;1999;No;No;Si;_;E;Venda
+313000;Can Roca;115;3;2;2722;Si;Si;1999;Si;No;Si;_;E;Venda
+313000;Can Roca;115;3;2;2722;Si;Si;1999;Si;No;Si;_;E;Venda
+294000;Can Roca;115;3;2;2557;Si;Si;1999;Si;No;Si;_;G;Venda
+136000;Sant Pere Nord;56;2;1;2429;Si;No;2009;Si;No;Si;_;D;Venda
+99000;Cementiri Vell;81;3;1;1222;No;No;1962;No;No;No;_;G;Venda
+120000;Sant Pere Nord;94;3;1;1277;No;No;1960;No;No;No;1;E;Venda
+87000;Ca n�Anglada;71;3;1;1225;Si;Si;1969;No;No;No;3;G;Venda
+119990;Ca nﾴAnglada;76;2;1;1579;No;No;_;No;No;No;_;E;Venda
+384400;Poblenou-Zona Esportiva;182;3;2;2112;Si;Si;_;Si;No;No;_;D;Venda
+168000;Sant Pere;105;3;3;1600;Si;Si;1978;No;No;Si;_;E;Venda
+140000;Can Palet;86;3;1;1628;Si;Si;1975;No;No;Si;1;E;Venda
+150000;Escoles;89;3;1;1685;Si;No;_;No;No;Si;_;G;Venda
+89000;Ca n�Anglada;71;3;1;1254;Si;No;1969;No;No;No;_;G;Venda
+89000;Ca n�Anglada;71;3;1;1254;Si;No;1969;No;No;No;_;G;Venda
+249000;Torre-sana;220;5;2;1132;Si;No;1973;Si;No;No;_;G;Venda
+460000;Poblenou-Zona Esportiva;230;4;3;2000;Si;Si;1956;Si;No;No;_;D;Venda
+136000;Cementiri Vell;94;3;1;1447;Si;Si;_;No;No;Si;_;E;Venda
+379000;Les Martines;310;6;2;1223;Si;Si;1980;Si;Si;No;_;E;Venda
+260000;Centre;123;3;2;2114;Si;Si;1995;No;No;Si;_;G;Venda
+329900;Sant Pere;115;3;2;2869;Si;No;1983;No;No;Si;_;G;Venda
+150000;Can Palet;90;3;1;1667;Si;No;1972;No;No;Si;4;G;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;Si;_;Si;Si;No;_;E;Venda
+229800;Sant Pere Nord;112;4;4;2052;Si;Si;1983;No;No;No;_;G;Venda
+80000;Ca nﾴAnglada;67;3;1;1194;No;No;1969;No;No;No;_;G;Venda
+159000;Ca n�Aurell;94;5;1;1691;Si;No;_;No;No;No;_;G;Venda
+93000;Ca nﾴAurell;85;3;1;1094;No;No;1962;No;No;No;_;_;Venda
+65700;Ca nﾴAnglada;64;3;1;1027;No;No;1968;No;No;No;_;G;Venda
+124000;Escoles;84;3;1;1476;No;No;1972;No;No;Si;_;E;Venda
+109000;X�quer;64;3;1;1703;Si;Si;1975;No;No;No;1;G;Venda
+270000;Centre;136;6;2;1985;Si;No;_;No;No;No;_;G;Venda
+364000;Poblenou-Zona Esportiva;206;5;2;1767;No;No;1999;No;No;No;_;E;Venda
+670000;Poblenou-Zona Esportiva;636;3;2;1053;Si;Si;1998;Si;No;No;_;E;Venda
+154000;La Cogullada;65;2;1;2369;Si;No;2008;No;No;Si;_;G;Venda
+216000;Can Palet;118;2;2;1831;Si;Si;2005;No;No;Si;_;D;Venda
+188000;La Maurina;120;3;1;1567;No;Si;_;No;No;No;_;E;Venda
+337100;Sant Pere Nord;192;4;2;1756;Si;No;_;Si;No;No;_;E;Venda
+242000;Les Arenes-La Gr�pia;95;3;2;2547;Si;No;2022;No;No;Si;_;B;Venda
+245000;Les Arenes-La Gr�pia;100;4;2;2450;Si;No;2022;No;No;Si;_;B;Venda
+267000;Les Arenes-La Gr�pia;101;3;2;2644;Si;Si;2021;No;No;Si;_;G;Venda
+199000;Les Arenes-La Gr�pia;74;2;1;2689;Si;No;2022;No;No;Si;_;B;Venda
+560000;Les Martines;345;7;4;1623;Si;No;1989;No;No;No;_;E;Venda
+153000;Ca n�Aurell;111;4;1;1378;Si;Si;_;No;No;No;_;E;Venda
+185000;Can Palet;153;2;1;1209;No;No;_;No;No;No;_;G;Venda
+575000;Centre;225;4;3;2556;Si;No;2002;Si;No;No;_;G;Venda
+136000;Sant Pere Nord;85;3;1;1600;Si;Si;1985;No;No;Si;_;_;Venda
+279000;Centre;153;4;2;1824;Si;Si;1955;No;No;Si;_;F;Venda
+250890;Torre-sana;195;4;2;1287;Si;Si;2005;Si;No;Si;_;E;Venda
+690000;Sant Pere;350;5;2;1971;Si;Si;1940;Si;No;No;_;G;Venda
+149000;Ca nﾴAnglada;_;_;_;_;No;No;2007;No;No;No;_;G;Venda
+196000;Sant Pere;93;3;1;2108;No;Si;2021;No;No;No;_;E;Venda
+165000;Can Jofresa;110;4;1;1500;Si;Si;1975;No;No;Si;_;E;Venda
+142900;Les Arenes-La Gr�pia;62;2;1;2305;Si;No;2009;No;No;Si;1;G;Venda
+340000;Les Arenes-La Gr�pia;177;5;2;1921;Si;Si;2003;No;No;Si;_;D;Venda
+115000;Egara;75;3;1;1533;Si;Si;1966;No;No;No;_;G;Venda
+182600;Sant Pere;156;3;2;1171;Si;Si;1989;No;No;Si;_;E;Venda
+136000;Cementiri Vell;94;3;1;1447;No;No;1970;No;No;Si;_;E;Venda
+246000;Torre-sana;140;3;2;1757;Si;Si;2005;Si;No;Si;_;E;Venda
+229000;Roc Blanc;113;3;2;2027;Si;No;_;No;No;No;_;E;Venda
+279000;Centre;112;4;2;2491;No;No;2000;No;No;Si;_;G;Venda
+126000;Can Parellada;72;3;1;1750;Si;Si;1975;No;No;Si;_;G;Venda
+250000;Can Boada;119;4;2;2101;Si;Si;1969;Si;No;No;_;G;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;No;No;1997;Si;Si;No;_;E;Venda
+193000;La Cogullada;70;2;2;2757;Si;Si;_;No;No;Si;_;F;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;No;1998;Si;Si;No;_;E;Venda
+94500;Torre-sana;45;1;1;2100;Si;Si;2010;No;No;Si;_;E;Venda
+93500;Ca n�Aurell;38;1;1;2461;Si;Si;2012;No;No;Si;_;E;Venda
+790000;Can Gonteres;422;5;3;1872;Si;Si;2004;Si;Si;No;_;D;Venda
+344000;Les Arenes-La Gr�pia;234;4;2;1470;Si;Si;1993;Si;No;No;_;E;Venda
+229000;Roc Blanc;113;3;2;2027;Si;Si;_;No;No;Si;_;E;Venda
+165000;Ca n�Aurell;49;2;1;3367;Si;Si;2021;No;No;Si;_;G;Venda
+110000;Sant Lloren�;92;4;1;1196;No;No;1960;No;No;No;_;G;Venda
+259000;Les Fonts;85;4;2;3047;Si;Si;1958;No;No;No;_;G;Venda
+186000;Poblenou-Zona Esportiva;109;2;1;1706;No;No;2001;No;No;No;_;_;Venda
+203000;Cementiri Vell;134;3;2;1515;Si;No;2003;Si;No;Si;_;G;Venda
+203000;Torre-sana;83;3;1;2446;Si;No;2002;Si;No;Si;_;F;Venda
+380000;Centre;140;4;3;2714;Si;Si;_;No;No;Si;_;G;Venda
+131000;La Maurina;102;2;2;1284;Si;Si;1930;No;No;No;_;E;Venda
+110000;Sant Lloren�;92;4;1;1196;No;No;1960;No;No;No;_;G;Venda
+125500;Can Parellada;71;3;1;1768;No;No;1973;No;No;Si;_;E;Venda
+194000;Can Roca;93;3;3;2086;Si;No;2006;Si;No;Si;_;D;Venda
+465000;Ca n�Aurell;170;4;3;2735;Si;No;2021;Si;No;No;_;G;Venda
+235000;Centre;_;_;_;_;No;No;_;Si;No;Si;_;G;Venda
+135900;Escoles;75;3;2;1812;Si;Si;1974;No;No;Si;_;F;Venda
+195000;Les Arenes-La Gr�pia;124;3;2;1573;Si;Si;2004;Si;No;Si;_;G;Venda
+193000;La Cogullada;70;2;2;2757;No;No;2007;No;No;Si;_;F;Venda
+265000;Escoles;159;4;2;1667;Si;No;1988;No;No;Si;_;E;Venda
+330000;Les Arenes-La Gr�pia;263;6;3;1255;Si;No;1995;Si;No;No;_;G;Venda
+235000;Sant Pere;85;3;2;2765;Si;Si;_;No;No;Si;_;G;Venda
+384400;Poblenou-Zona Esportiva;182;3;2;2112;Si;No;1992;Si;No;No;_;G;Venda
+279000;Centre;112;4;2;2491;Si;No;2000;No;No;Si;_;G;Venda
+86000;Sant Pere Nord;37;1;1;2324;Si;No;2008;No;No;Si;_;E;Venda
+229000;La Maurina;113;3;2;2027;Si;No;1956;No;No;Si;_;E;Venda
+214000;Sant Pere Nord;138;3;2;1551;Si;Si;1966;No;No;No;_;G;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;No;_;No;Si;No;_;E;Venda
+158000;Can Palet;86;3;1;1837;Si;Si;2001;Si;No;Si;_;E;Venda
+250000;Vallparad�s;139;4;2;1799;Si;Si;2000;No;No;Si;_;G;Venda
+83000;Egara;57;2;1;1456;Si;No;1965;No;No;No;_;E;Venda
+180890;La Cogullada;110;3;2;1644;Si;Si;1980;Si;No;Si;_;E;Venda
+159990;Can Boada;93;4;1;1720;Si;Si;1979;No;No;Si;_;E;Venda
+176000;Torre-sana;75;1;1;2347;No;No;_;No;No;Si;_;E;Venda
+155000;Cementiri Vell;85;3;1;1824;No;No;1970;No;No;Si;_;E;Venda
+104900;Ca n�Anglada;77;3;1;1362;No;Si;_;No;No;No;_;F;Venda
+254900;Les Arenes-La Gr�pia;82;3;2;3109;Si;Si;_;No;No;Si;_;E;Venda
+149000;La Cogullada;110;4;2;1355;Si;No;1980;No;No;Si;_;E;Venda
+158000;Can Palet;86;3;1;1837;Si;No;2001;Si;No;Si;_;E;Venda
+175500;Segle XX;85;3;1;2065;No;No;2011;No;No;Si;_;G;Venda
+374900;Centre;123;4;2;3048;Si;Si;_;No;No;Si;_;E;Venda
+229800;Sant Pere Nord;260;4;3;884;Si;Si;1983;No;No;No;_;G;Venda
+140000;Les Arenes-La Gr�pia;71;3;1;1972;Si;No;1977;No;No;No;_;G;Venda
+199000;Ca n�Aurell;100;3;2;1990;No;Si;1995;No;No;Si;_;E;Venda
+145000;Ca n�Anglada;76;3;2;1908;Si;No;_;No;No;Si;_;E;Venda
+229000;Roc Blanc;113;3;2;2027;Si;No;1956;No;No;No;_;E;Venda
+158000;Can Boada;67;2;1;2358;Si;No;1992;No;No;Si;_;D;Venda
+294000;Can Roca;115;3;2;2557;No;No;1999;No;No;Si;_;E;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;No;No;_;No;Si;No;_;E;Venda
+587500;Can Palet de Vista Alegre;400;4;5;1469;Si;Si;_;No;No;No;_;E;Venda
+127500;La Maurina;112;3;2;1138;Si;No;1977;No;No;No;_;_;Venda
+229000;Roc Blanc;113;3;2;2027;Si;No;1956;No;No;No;_;E;Venda
+195000;Les Fonts;94;5;3;2074;Si;No;1958;No;No;No;_;G;Venda
+2650000;Can Gonteres;186;3;3;14247;No;Si;_;No;No;Si;_;_;Venda
+125000;Can Parellada;76;3;1;1645;Si;No;1981;No;No;Si;_;E;Venda
+143000;Centre;68;3;1;2103;Si;No;_;No;No;No;_;F;Venda
+99900;Can Palet;85;3;1;1175;No;No;_;No;No;No;1;G;Venda
+165000;Ca n�Aurell;49;2;1;3367;Si;Si;2021;No;No;Si;_;A;Venda
+155900;Escoles;107;4;1;1457;Si;No;1970;No;No;Si;_;G;Venda
+229000;Roc Blanc;113;3;2;2027;No;No;1956;No;No;No;_;E;Venda
+239000;Ca n�Anglada;159;3;2;1503;Si;No;1964;No;No;No;_;_;Venda
+144990;Poblenou-Zona Esportiva;106;3;2;1368;Si;No;1966;No;No;No;_;E;Venda
+209000;Can Palet;134;3;2;1560;Si;Si;_;Si;No;No;_;E;Venda
+320000;Les Arenes-La Gr�pia;192;4;3;1667;Si;Si;_;No;No;Si;_;G;Venda
+180000;Torre-sana;75;3;2;2400;No;Si;2001;No;No;Si;_;E;Venda
+348000;Sant Pere Nord;237;3;3;1468;Si;No;2006;Si;No;No;_;D;Venda
+180890;La Cogullada;110;3;2;1644;Si;Si;1980;Si;No;Si;_;E;Venda
+176000;Torre-sana;90;2;1;1956;Si;No;2008;No;No;Si;_;G;Venda
+185000;Torre-sana;96;3;2;1927;Si;No;2005;No;No;Si;_;G;Venda
+460000;Poblenou-Zona Esportiva;230;4;3;2000;No;Si;1956;Si;No;No;_;D;Venda
+369000;Centre;171;4;3;2158;Si;Si;2004;Si;No;Si;_;E;Venda
+149000;La Cogullada;110;4;2;1355;Si;No;_;No;No;Si;_;E;Venda
+199000;Ca n�Aurell;92;4;1;2163;Si;No;_;No;No;Si;_;F;Venda
+300000;Ca n�Aurell;134;3;2;2239;Si;Si;1993;Si;No;No;_;F;Venda
+97000;Sant Pere;57;2;1;1702;Si;Si;1950;No;No;No;_;G;Venda
+103000;Can Palet;78;3;1;1321;Si;No;1968;No;No;Si;_;_;Venda
+214000;Sant Pere;89;2;2;2404;Si;Si;2006;No;No;Si;_;_;Venda
+170000;Ca n�Anglada;77;3;2;2208;Si;Si;_;No;No;Si;_;G;Venda
+460000;Centre;132;3;3;3485;Si;No;2022;Si;No;No;_;G;Venda
+168000;Roc Blanc;209;1;1;804;No;No;1962;No;No;No;_;E;Venda
+187000;Vallparad�s;105;4;2;1781;No;No;1980;No;No;Si;2;E;Venda
+198500;Ca n�Aurell;80;3;1;2481;Si;No;1935;No;No;No;_;G;Venda
+135000;Can Boada;75;3;1;1800;Si;No;1971;No;No;Si;_;G;Venda
+125500;Can Parellada;71;3;1;1768;No;No;1973;No;No;No;_;E;Venda
+194000;Sant Pere;91;4;1;2132;No;Si;1965;No;No;No;_;D;Venda
+263000;Pere parres;89;3;2;2955;Si;Si;2022;No;No;Si;_;A;Venda
+335000;Pere parres;113;3;2;2965;Si;Si;2022;No;No;Si;_;B;Venda
+263000;Pere parres;89;3;2;2955;Si;Si;2022;No;No;Si;_;A;Venda
+263000;Pere parres;89;3;2;2955;Si;Si;2022;No;No;Si;_;A;Venda
+229000;Pere parres;69;2;2;3319;Si;Si;2022;No;No;Si;_;A;Venda
+188000;La Maurina;120;3;1;1567;No;Si;1958;No;No;No;_;G;Venda
+150000;Pere parres;80;2;1;1875;Si;No;1963;No;No;No;_;G;Venda
+161000;Ca n�Aurell;91;3;1;1769;Si;Si;1975;No;No;No;_;G;Venda
+309000;Sant Pere Nord;291;6;3;1062;Si;No;2000;No;No;No;_;E;Venda
+90000;La Maurina;70;3;1;1286;No;No;1962;No;No;No;_;G;Venda
+270000;Centre;122;4;2;2213;Si;Si;1988;No;No;Si;1;G;Venda
+211000;Poblenou-Zona Esportiva;110;3;2;1918;Si;No;1990;No;No;Si;_;G;Venda
+165000;Can Palet;60;2;2;2750;Si;No;2004;Si;No;Si;_;G;Venda
+299000;Vallparad�s;133;3;2;2248;No;No;1991;No;No;No;_;G;Venda
+119000;Ca n�Aurell;78;3;1;1526;Si;No;1968;No;No;No;_;G;Venda
+225000;Vallparad�s;78;3;1;2885;No;Si;1968;No;No;No;_;E;Venda
+103000;Ca n�Anglada;77;3;2;1338;Si;No;1974;No;No;No;_;G;Venda
+136000;Can Boada;86;3;1;1581;No;No;1960;No;No;Si;_;G;Venda
+369000;Centre;147;4;3;2510;Si;No;_;Si;No;Si;_;E;Venda
+159900;Sant Pere;87;4;1;1838;No;Si;_;No;No;Si;_;E;Venda
+436000;Poblenou-Zona Esportiva;150;4;3;2907;Si;Si;2022;Si;No;No;_;G;Venda
+180890;La Cogullada;110;3;2;1644;Si;Si;1980;Si;No;No;_;E;Venda
+295000;Centre;130;3;1;2269;Si;No;1971;Si;No;Si;4;G;Venda
+460000;Poblenou-Zona Esportiva;230;4;3;2000;Si;No;1956;Si;No;No;_;D;Venda
+395000;Can Parellada;140;3;2;2821;Si;Si;_;Si;No;No;_;G;Venda
+185000;Can Palet;153;2;1;1209;No;No;_;No;No;No;_;_;Venda
+263000;Segle XX;133;4;2;1977;No;No;1983;No;No;No;_;E;Venda
+450000;Ca n�Aurell;160;3;3;2813;Si;Si;2021;No;No;No;_;A;Venda
+158000;Les Arenes-La Gr�pia;82;2;1;1927;Si;Si;1995;No;No;Si;_;G;Venda
+219000;Egara;78;3;1;2808;Si;No;1996;No;No;Si;_;G;Venda
+149000;Les Arenes-La Gr�pia;60;2;1;2483;Si;Si;2006;No;No;Si;_;G;Venda
+534000;Vallparad�s;160;5;2;3338;No;No;_;No;No;No;_;C;Venda
+249000;Poblenou-Zona Esportiva;92;3;2;2707;Si;Si;2000;Si;No;Si;_;G;Venda
+289000;Ca n�Aurell;136;3;2;2125;Si;Si;1930;No;No;No;_;G;Venda
+145000;Ca n�Aurell;50;1;1;2900;Si;Si;2005;No;No;Si;_;E;Venda
+470000;Sant Pere;143;3;3;3287;Si;No;2022;Si;No;No;_;G;Venda
+210000;Escoles;95;1;1;2211;Si;Si;2007;Si;No;Si;_;G;Venda
+159000;Les Arenes-La Gr�pia;100;3;2;1590;Si;No;1975;No;No;No;_;E;Venda
+525000;Sant Pere;207;3;3;2536;Si;No;2022;Si;No;No;_;G;Venda
+209000;Roc Blanc;100;3;2;2090;Si;No;1998;Si;No;No;_;G;Venda
+136000;Cementiri Vell;94;3;1;1447;Si;Si;1970;No;No;Si;_;E;Venda
+125500;Can Parellada;72;3;1;1743;No;No;1975;No;No;Si;_;G;Venda
+260000;Centre;105;3;2;2476;Si;No;_;No;No;Si;_;G;Venda
+320000;Sant Pere Nord;190;3;3;1684;Si;Si;2022;Si;No;No;2;G;Venda
+166500;Torre-sana;111;2;1;1500;Si;Si;1998;No;No;Si;_;_;Venda
+181000;Torre-sana;70;2;1;2586;Si;Si;2003;No;No;No;_;G;Venda
+245000;Centre;92;3;2;2663;Si;Si;2003;Si;No;Si;_;D;Venda
+225000;La Maurina;183;4;2;1230;Si;Si;1975;No;No;No;_;D;Venda
+112000;Centre;50;1;1;2240;Si;Si;_;No;No;Si;_;F;Venda
+159000;Les Arenes-La Gr�pia;100;3;2;1590;No;No;1975;No;No;No;_;E;Venda
+209000;Ca n�Aurell;86;4;1;2430;Si;No;1971;No;No;Si;_;G;Venda
+142000;La Cogullada;63;2;1;2254;No;No;1993;No;No;Si;_;E;Venda
+142000;La Cogullada;63;2;1;2254;No;No;1993;No;No;Si;_;E;Venda
+379000;Les Martines;310;6;2;1223;No;No;1980;Si;No;No;_;E;Venda
+139000;Segle XX;63;2;1;2206;Si;No;1993;No;No;Si;_;E;Venda
+139000;La Cogullada;63;2;1;2206;Si;No;1993;No;No;Si;_;E;Venda
+310000;Ca n�Aurell;100;3;2;3100;Si;Si;2021;Si;No;Si;_;A;Venda
+379000;Les Martines;5.37;5;2;71;No;No;1980;Si;Si;No;_;E;Venda
+235000;Les Arenes-La Gr�pia;90;3;2;2611;Si;Si;2004;Si;No;Si;_;E;Venda
+199900;Ca n�Aurell;115;4;1;1738;Si;No;1964;No;No;Si;_;G;Venda
+199000;Ca n�Aurell;100;3;2;1990;Si;Si;2000;No;No;Si;_;E;Venda
+127000;Cementiri Vell;79;3;1;1608;Si;No;1960;No;No;No;_;F;Venda
+260000;Ca n�Aurell;105;3;2;2476;Si;No;_;No;No;Si;_;G;Venda
+379000;Poblenou-Zona Esportiva;280;4;3;1354;Si;No;1986;Si;No;No;_;G;Venda
+460000;Poblenou-Zona Esportiva;230;4;4;2000;Si;No;1956;Si;No;No;_;D;Venda
+199000;Ca n�Aurell;92;4;1;2163;Si;No;1975;No;No;Si;_;F;Venda
+420000;Ca n�Aurell;268;3;3;1567;Si;Si;_;Si;No;No;_;G;Venda
+197000;Poblenou-Zona Esportiva;86;2;2;2291;Si;No;2002;Si;No;Si;_;E;Venda
+395000;Can Parellada;_;_;_;_;Si;Si;_;Si;No;No;_;G;Venda
+93000;Torre-sana;44;1;1;2114;Si;No;2010;No;No;Si;_;E;Venda
+169000;Sant Pere Nord;220;3;1;768;No;No;1974;Si;No;No;_;_;Venda
+207000;Pere parres;70;3;2;2957;Si;Si;2011;Si;No;No;_;G;Venda
+400000;Can Palet de Vista Alegre;213;3;2;1878;Si;Si;_;Si;Si;No;_;G;Venda
+131500;Torre-sana;70;2;2;1879;Si;No;2003;No;No;Si;_;G;Venda
+131500;Les Arenes-La Gr�pia;79;3;1;1665;Si;No;1974;No;No;Si;_;F;Venda
+152700;Cementiri Vell;97;4;1;1574;Si;No;1972;No;No;Si;_;G;Venda
+249000;Escoles;109;4;1;2284;Si;Si;1982;Si;No;Si;_;E;Venda
+179900;Torre-sana;68;2;1;2646;Si;Si;2003;Si;No;Si;_;G;Venda
+460000;Poblenou-Zona Esportiva;230;4;3;2000;Si;Si;1956;Si;No;No;_;D;Venda
+209510;Sant Pere;165;2;1;1270;No;No;1973;No;No;Si;_;G;Venda
+85000;Sant Pere Nord;90;3;1;944;Si;No;1979;No;No;No;_;G;Venda
+129000;Sant Pere Nord;91;3;1;1418;No;No;1960;No;No;No;_;G;Venda
+179000;Cementiri Vell;85;4;1;2106;Si;No;1970;No;No;Si;_;E;Venda
+249000;Poblenou-Zona Esportiva;92;3;2;2707;Si;Si;2000;Si;No;Si;_;G;Venda
+215000;Egara;225;3;1;956;Si;Si;_;No;No;No;_;G;Venda
+165000;Can Jofresa;110;4;1;1500;No;No;1975;No;No;Si;_;E;Venda
+275000;Can Palet de Vista Alegre;136;3;2;2022;No;No;2007;No;No;No;_;_;Venda
+273500;Poblenou-Zona Esportiva;105;2;2;2605;No;Si;2000;Si;No;Si;7;G;Venda
+379000;Les Martines;310;6;2;1223;No;No;1960;Si;Si;No;_;E;Venda
+256800;Torre-sana;189;3;2;1359;Si;Si;_;Si;No;No;_;G;Venda
+80300;Sant Lloren�;61;3;1;1316;Si;No;1960;No;No;No;_;G;Venda
+265000;Ca n�Aurell;100;3;2;2650;Si;Si;2020;Si;No;Si;2;G;Venda
+205000;Can Palet;135;3;2;1519;Si;Si;2003;No;No;Si;_;G;Venda
+80300;Sant Lloren�;_;_;_;_;Si;No;1960;No;No;No;_;G;Venda
+199000;Centre;229;4;2;869;No;No;_;No;No;No;_;_;Venda
+134000;Pere parres;90;3;1;1489;No;No;1976;No;No;No;_;F;Venda
+259000;Can Roca;94;3;2;2755;Si;Si;2005;Si;No;Si;_;G;Venda
+87500;Les Arenes-La Gr�pia;80;4;1;1094;No;No;1974;No;No;No;_;G;Venda
+380000;Segle XX;248;3;2;1532;Si;No;2022;Si;No;No;_;E;Venda
+97000;Sant Pere;57;2;1;1702;No;Si;1950;No;No;No;_;G;Venda
+395000;Torre-sana;375;4;2;1053;Si;Si;1987;No;No;No;_;E;Venda
+159500;Les Arenes-La Gr�pia;80;3;1;1994;Si;No;1994;No;No;Si;_;G;Venda
+160000;Ca n�Aurell;70;2;1;2286;Si;No;1996;No;No;Si;_;G;Venda
+220000;Ca n�Anglada;234;4;2;940;Si;No;_;Si;No;No;_;G;Venda
+180000;Centre;139;5;1;1295;No;No;1910;No;No;No;_;G;Venda
+111260;Ca n�Anglada;58;1;1;1918;Si;Si;_;No;No;Si;_;E;Venda
+145000;Sant Pere Nord;105;4;1;1381;Si;No;_;No;No;Si;_;G;Venda
+111000;La Maurina;99;4;2;1121;Si;No;1956;No;No;No;_;_;Venda
+112000;Centre;49;1;1;2286;Si;Si;2002;No;No;Si;_;F;Venda
+263000;Can Palet;143;7;2;1839;Si;No;1944;Si;No;No;_;G;Venda
+80300;Sant Lloren�;61;3;1;1316;Si;No;1960;No;No;No;_;G;Venda
+179000;Sant Pere Nord;105;3;2;1705;Si;No;2002;No;No;Si;_;G;Venda
+149900;Ca n�Aurell;68;2;1;2204;Si;No;1996;No;No;No;2;E;Venda
+250890;Torre-sana;195;3;2;1287;Si;No;2005;Si;No;Si;_;E;Venda
+206900;Les Fonts;100;2;2;2069;Si;Si;2003;Si;No;Si;_;D;Venda
+90000;La Maurina;70;3;1;1286;No;No;1966;No;No;No;_;_;Venda
+109000;Can Palet;66;3;1;1652;No;No;1965;No;No;No;_;_;Venda
+168000;Sant Pere;87;3;2;1931;Si;Si;1978;No;No;Si;_;E;Venda
+153900;Can Palet;96;3;2;1603;Si;Si;2003;No;No;Si;_;D;Venda
+165000;Segle XX;78;2;1;2115;Si;No;_;No;No;Si;_;D;Venda
+144000;Ca nﾴAnglada;78;3;1;1846;No;No;1971;No;No;No;_;G;Venda
+259000;Can Roca;94;3;2;2755;Si;Si;2005;Si;No;Si;_;G;Venda
+149000;Les Arenes-La Gr�pia;88;3;1;1693;Si;Si;_;No;No;Si;_;F;Venda
+420000;Les Fonts;160;4;3;2625;Si;Si;2022;Si;No;No;_;A;Venda
+165000;Ca n�Aurell;50;2;1;3300;Si;Si;2021;No;No;Si;_;G;Venda
+225000;Ca n�Aurell;86;3;2;2616;Si;Si;2021;No;No;Si;_;G;Venda
+435800;Vallparad�s;153;3;3;2848;Si;Si;_;Si;No;No;_;A;Venda
+339000;Poblenou-Zona Esportiva;316;3;1;1073;Si;No;1978;Si;No;No;_;G;Venda
+128500;Sant Pere Nord;73;3;1;1760;No;Si;1970;No;No;Si;_;E;Venda
+275000;Centre;230;4;3;1196;Si;Si;_;No;No;No;_;G;Venda
+159000;Poblenou-Zona Esportiva;194;1;1;820;No;No;_;Si;No;No;_;D;Venda
+259000;Can Roca;94;3;2;2755;Si;Si;2005;Si;No;Si;_;G;Venda
+97000;Sant Pere;57;2;1;1702;Si;Si;1950;No;No;No;_;G;Venda
+97000;Sant Pere;57;2;1;1702;Si;Si;1950;No;No;No;_;G;Venda
+144800;Can Boada;100;4;2;1448;No;No;_;No;No;Si;_;G;Venda
+134000;Pere parres;90;3;1;1489;No;No;1976;No;No;No;_;F;Venda
+145000;Ca n�Aurell;68;2;1;2132;Si;No;1978;No;No;Si;_;G;Venda
+159900;Ca n�Aurell;73;2;2;2190;No;No;2008;Si;No;Si;_;G;Venda
+112000;Centre;49;1;1;2286;Si;No;2002;No;No;Si;_;F;Venda
+225000;Ca n�Aurell;82;3;2;2744;Si;Si;2021;No;No;Si;_;A;Venda
+165000;Ca n�Aurell;49;2;1;3367;Si;Si;2021;No;No;Si;_;A;Venda
+336000;Les Arenes-La Gr�pia;177;5;2;1898;Si;Si;2003;Si;No;Si;_;D;Venda
+168000;Sant Pere;_;_;_;_;No;Si;_;No;No;Si;_;E;Venda
+354000;Sant Pere Nord;237;3;3;1494;Si;No;2006;Si;No;No;_;D;Venda
+185000;Sant Pere;87;3;2;2126;Si;Si;1978;No;No;Si;_;E;Venda
+379000;Les Martines;310;6;2;1223;No;No;1980;No;Si;No;_;E;Venda
+239900;Egara;200;3;2;1200;Si;No;1991;No;No;No;_;G;Venda
+257000;Les Arenes-La Gr�pia;179;3;2;1436;Si;No;2002;Si;No;Si;_;E;Venda
+379000;Les Martines;310;6;2;1223;No;No;1980;Si;Si;No;_;E;Venda
+118000;Can Boada;53;1;1;2226;Si;No;2005;No;No;Si;_;G;Venda
+216000;Can Palet;85;3;2;2541;Si;No;2005;No;No;Si;_;G;Venda
+167000;Sant Pere;90;4;2;1856;No;No;1974;No;No;Si;_;G;Venda
+92400;Torre-sana;66;3;1;1400;No;No;1976;No;No;No;_;E;Venda
+259000;Ca n�Aurell;109;3;2;2376;Si;No;1992;No;No;Si;_;G;Venda
+225000;Ca n�Aurell;82;3;2;2744;Si;Si;2021;No;No;Si;_;_;Venda
+80995;Ca n�Aurell;46;1;1;1761;Si;Si;2008;Si;No;Si;_;_;Venda
+243000;Torre-sana;195;3;2;1246;Si;Si;2004;Si;No;Si;_;E;Venda
+85000;Can Palet;75;3;1;1133;Si;No;_;No;No;No;4;A;Venda
+224900;Cementiri Vell;60;2;1;3748;Si;Si;2007;No;No;Si;_;C;Venda
+109000;Les Arenes-La Gr�pia;75;3;1;1453;No;No;1970;No;No;No;_;G;Venda
+141000;Ca n�Anglada;111;1;2;1270;Si;No;2008;No;No;Si;3;D;Venda
+107000;Ca nﾴAnglada;90;3;1;1189;No;No;1960;No;No;No;_;G;Venda
+129900;La Maurina;102;2;2;1274;Si;No;1930;No;No;No;_;E;Venda
+118000;Centre;53;1;1;2226;Si;Si;2005;No;No;Si;_;G;Venda
+399000;Ca nﾴAurell;_;_;_;_;No;No;1931;No;No;No;_;G;Venda
+112260;Ca n�Anglada;58;2;1;1936;Si;No;2008;No;No;Si;_;E;Venda
+139000;Egara;105;3;2;1324;Si;No;1979;No;No;Si;_;G;Venda
+175000;Ca n�Aurell;92;3;2;1902;Si;Si;2001;Si;No;Si;_;_;Venda
+250890;Montserrat;195;3;2;1287;Si;No;2005;Si;No;Si;_;E;Venda
+399900;Can Palet de Vista Alegre;213;2;2;1877;Si;Si;2000;No;Si;No;_;G;Venda
+202500;Torre-sana;141;4;2;1436;Si;No;2003;Si;No;No;_;G;Venda
+393000;Centre;156;3;3;2519;Si;Si;2002;Si;No;No;_;G;Venda
+160900;Centre;85;3;1;1893;Si;Si;1975;No;No;No;_;G;Venda
+175500;Segle XX;81;3;1;2167;Si;Si;1979;No;No;Si;_;G;Venda
+185000;X�quer;98;4;2;1888;Si;No;2003;Si;No;Si;_;G;Venda
+84000;Can Palet;73;2;1;1151;Si;No;_;No;No;No;4;F;Venda
+238900;La Maurina;153;3;2;1561;Si;Si;1950;Si;No;No;_;G;Venda
+113500;X�quer;90;3;1;1261;No;No;1976;No;No;Si;_;G;Venda
+65700;Ca nﾴAnglada;64;3;1;1027;No;No;1968;No;No;No;_;G;Venda
+89900;Sant Lloren�;80;4;1;1124;No;No;1972;No;No;No;_;G;Venda
+360000;Vallparad�s;136;4;3;2647;Si;Si;_;Si;No;Si;_;A;Venda
+299000;Vallparad�s;111;3;2;2694;Si;Si;_;Si;No;Si;_;A;Venda
+300000;Escoles;180;4;3;1667;Si;Si;_;Si;No;Si;_;G;Venda
+211000;Poblenou-Zona Esportiva;110;3;2;1918;Si;No;1990;No;No;Si;_;_;Venda
+259000;Pere parres;146;4;2;1774;Si;No;2005;No;No;No;_;_;Venda
+135960;Torre-sana;85;2;2;1600;Si;No;2003;Si;No;Si;_;E;Venda
+115000;Ca n�Aurell;65;3;1;1769;Si;No;1972;No;No;No;_;G;Venda
+330000;Les Arenes-La Gr�pia;263;5;3;1255;Si;No;1995;Si;No;No;_;G;Venda
+159000;Ca n�Aurell;63;2;2;2524;Si;Si;2008;No;No;Si;_;G;Venda
+238000;Les Arenes-La Gr�pia;95;3;2;2505;Si;No;2022;No;No;Si;_;B;Venda
+195000;Les Arenes-La Gr�pia;101;3;2;1931;Si;No;2022;No;No;Si;_;B;Venda
+225000;Ca n�Anglada;239;5;2;941;Si;No;1963;Si;No;No;_;G;Venda
+149000;Sant Pere;87;3;1;1713;No;Si;1975;No;No;Si;_;G;Venda
+249000;Poblenou-Zona Esportiva;135;3;2;1844;Si;Si;2000;Si;No;Si;_;G;Venda
+253000;Les Arenes-La Gr�pia;115;4;2;2200;Si;No;1991;No;No;Si;_;G;Venda
+241900;La Cogullada;160;2;2;1512;Si;Si;2002;Si;No;Si;_;G;Venda
+354000;Sant Pere Nord;237;3;3;1494;Si;No;2006;Si;No;No;_;D;Venda
+325000;Roc Blanc;170;3;1;1912;Si;Si;_;Si;No;No;_;G;Venda
+194900;Can Palet de Vista Alegre;194;3;2;1005;No;No;1975;Si;No;No;_;E;Venda
+460000;Ca n�Aurell;271;4;4;1697;Si;Si;_;Si;No;No;_;G;Venda
+149000;Sant Pere;78;2;1;1910;Si;No;1994;No;No;Si;_;E;Venda
+155000;Cementiri Vell;85;2;1;1824;Si;No;1970;No;No;Si;_;G;Venda
+141900;Escoles;81;3;1;1752;Si;Si;1974;No;No;Si;_;G;Venda
+124000;La Maurina;91;3;1;1363;Si;No;1968;No;No;No;_;_;Venda
+142000;Escoles;81;3;1;1753;Si;Si;1974;No;No;Si;_;G;Venda
+168000;Roc Blanc;209;3;1;804;No;No;_;No;No;No;_;G;Venda
+154000;Ca nﾴAnglada;80;3;2;1925;No;No;_;No;No;No;_;G;Venda
+298500;La Maurina;246;3;1;1213;Si;Si;_;Si;No;No;_;G;Venda
+179500;La Maurina;100;3;1;1795;Si;No;1960;Si;No;No;_;G;Venda
+83000;Ca nﾴAurell;86;3;1;965;No;No;1972;No;No;No;_;_;Venda
+112000;Centre;49;1;1;2286;No;Si;2001;No;No;No;_;F;Venda
+114500;La Maurina;90;3;1;1272;Si;No;1973;No;No;No;_;G;Venda
+97500;Ca nﾴAnglada;85;3;1;1147;No;No;1971;No;No;No;_;G;Venda
+146000;La Cogullada;78;2;1;1872;No;No;2008;No;No;Si;_;D;Venda
+76000;Ca nﾴAnglada;68;2;1;1118;No;No;1962;No;No;No;_;F;Venda
+177990;Poblenou-Zona Esportiva;102;3;1;1745;Si;Si;1970;No;No;No;_;G;Venda
+179000;Sant Pere Nord;94;3;2;1904;Si;No;1996;No;No;Si;_;E;Venda
+174000;Can Roca;75;3;1;2320;Si;No;1960;No;No;No;_;E;Venda
+289000;La Maurina;140;3;2;2064;Si;Si;1930;No;No;No;_;G;Venda
+225000;Can Boada;110;4;2;2045;No;Si;1979;No;No;Si;_;G;Venda
+409000;Sant Pere Nord;257;5;3;1591;Si;Si;1991;Si;No;No;_;E;Venda
+115000;Ca nﾴAnglada;75;3;1;1533;No;No;1968;No;No;No;_;G;Venda
+139900;Can Jofresa;87;3;1;1608;No;No;1975;No;No;Si;_;G;Venda
+185000;Cementiri Vell;75;2;1;2467;Si;No;2004;No;No;Si;_;G;Venda
+168000;Sant Pere;87;3;3;1931;Si;Si;1978;No;No;Si;_;E;Venda
+125000;La Maurina;46;1;1;2717;Si;No;2006;No;No;Si;_;_;Venda
+106000;La Maurina;72;3;1;1472;Si;No;1978;No;No;No;_;G;Venda
+237900;Sant Pere;90;3;2;2643;Si;Si;2004;Si;No;Si;_;E;Venda
+226900;Ca n�Anglada;207;3;3;1096;Si;No;1994;Si;No;No;_;G;Venda
+167900;La Cogullada;129;3;1;1302;Si;Si;1992;No;No;No;_;G;Venda
+169000;Ca n�Aurell;80;3;2;2113;Si;No;_;No;No;Si;_;G;Venda
+420000;Les Martines;140;4;2;3000;Si;Si;_;No;No;No;_;G;Venda
+149000;Can Palet;85;2;2;1753;Si;Si;2000;Si;No;Si;_;G;Venda
+140000;Poblenou-Zona Esportiva;90;4;1;1556;No;No;1964;No;No;No;_;G;Venda
+115500;Sant Pere Nord;72;3;1;1604;Si;No;1966;No;No;No;_;G;Venda
+195000;La Cogullada;252;4;3;774;No;No;1958;Si;No;No;_;_;Venda
+340000;Can Palet de Vista Alegre;112;3;3;3036;Si;Si;_;No;Si;No;_;G;Venda
+256000;La Cogullada;120;2;2;2133;Si;Si;2003;Si;No;Si;_;D;Venda
+149500;Can Palet;91;3;1;1643;Si;No;1973;No;No;No;_;G;Venda
+124900;Can Palet;77;3;1;1622;No;No;1967;No;No;Si;_;G;Venda
+255000;Centre;87;3;2;2931;Si;Si;1968;No;No;Si;_;D;Venda
+396000;Ca n�Aurell;190;3;2;2084;Si;No;1934;No;No;No;_;G;Venda
+95000;Ca n�Anglada;70;2;1;1357;Si;No;2009;No;No;Si;_;G;Venda
+155900;Egara;86;3;1;1813;Si;Si;1966;No;No;Si;_;G;Venda
+225000;Ca nﾴAurell;202;4;1;1114;No;No;1950;No;No;No;_;G;Venda
+305000;Centre;235;4;5;1298;No;No;1952;No;No;No;_;G;Venda
+97500;Ca nﾴAnglada;79;3;1;1234;No;No;1971;No;No;No;_;G;Venda
+156000;Segle XX;98;2;1;1592;Si;No;2000;Si;No;Si;_;E;Venda
+129990;Segle XX;82;2;1;1585;Si;Si;1944;No;No;No;_;G;Venda
+193900;Ca n�Aurell;71;3;2;2731;Si;Si;2003;No;No;Si;_;G;Venda
+142900;La Cogullada;60;2;1;2382;Si;No;2005;No;No;Si;_;G;Venda
+176000;Escoles;105;4;2;1676;No;No;1976;No;No;Si;_;E;Venda
+285000;Poblenou-Zona Esportiva;91;2;2;3132;Si;Si;2000;Si;No;No;_;G;Venda
+180000;La Maurina;185;2;2;973;Si;No;1960;Si;No;No;_;F;Venda
+390000;Can Palet de Vista Alegre;180;3;2;2167;Si;No;2000;No;Si;No;_;G;Venda
+236000;Sant Pere;103;3;1;2291;Si;Si;1959;Si;No;No;1;E;Venda
+85000;Ca nﾴAnglada;77;3;1;1104;No;No;1968;No;No;No;_;G;Venda
+245000;Les Arenes-La Gr�pia;131;3;2;1870;Si;Si;1991;No;No;Si;3;E;Venda
+145000;Ca n�Anglada;152;4;1;954;No;Si;1958;No;No;No;_;G;Venda
+148000;Ca n�Anglada;75;3;1;1973;Si;Si;1972;No;No;Si;2;E;Venda
+120000;Can Palet;77;3;1;1558;No;No;_;No;No;Si;_;G;Venda
+218000;Can Palet;110;3;2;1982;Si;No;2004;No;No;Si;_;G;Venda
+131500;Ca nﾴAnglada;85;4;1;1547;No;No;1965;No;No;No;_;G;Venda
+98000;Can Palet;75;3;1;1307;No;No;1967;No;No;Si;_;G;Venda
+129000;Can Boada;90;3;1;1433;No;No;1960;No;No;No;_;G;Venda
+194000;Roc Blanc;85;3;2;2282;Si;No;1996;No;No;Si;_;G;Venda
+125000;Cementiri Vell;79;1;1;1582;Si;Si;1971;No;No;Si;_;G;Venda
+162000;Cementiri Vell;76;2;1;2132;Si;No;1998;No;No;Si;_;_;Venda
+257000;Can Palet;139;4;2;1849;Si;Si;2000;Si;No;Si;3;E;Venda
+146900;Can Boada;85;4;2;1728;No;No;1979;No;No;Si;_;G;Venda
+214000;Centre;75;2;2;2853;Si;Si;2004;Si;No;Si;_;E;Venda
+165000;Can Palet;200;6;2;825;No;No;1940;No;No;No;_;G;Venda
+120000;Can Roca;48;1;1;2500;Si;No;2004;No;No;Si;_;G;Venda
+224900;Cementiri Vell;60;2;1;3748;Si;Si;2007;Si;No;Si;_;C;Venda
+185000;Can Palet;153;2;1;1209;No;No;1935;No;No;No;_;E;Venda
+95000;Ca n�Anglada;74;3;1;1284;No;No;1974;No;No;Si;_;G;Venda
+396000;Centre;191;3;2;2073;Si;No;1934;No;No;No;_;G;Venda
+317500;Sant Pere Nord;210;4;2;1512;Si;No;1993;No;No;No;_;G;Venda
+98900;Ca n�Anglada;72;3;2;1374;Si;No;1950;No;No;No;_;G;Venda
+396000;Ca n�Aurell;190;3;2;2084;Si;No;1934;No;No;No;_;G;Venda
+330000;Roc Blanc;164;4;2;2012;Si;No;1998;Si;No;No;_;D;Venda
+156200;La Cogullada;63;2;1;2479;Si;No;2008;Si;No;Si;_;G;Venda
+179000;Torre-sana;92;3;2;1946;Si;No;_;No;No;No;_;G;Venda
+200000;Torre-sana;72;2;2;2778;Si;Si;2007;No;No;Si;_;D;Venda
+152000;Can Palet;107;3;1;1421;No;No;1973;No;No;No;_;G;Venda
+360000;Les Fonts;140;3;2;2571;Si;No;2005;Si;No;No;1;D;Venda
+167000;Segle XX;84;3;1;1988;Si;No;1999;No;No;Si;_;G;Venda
+175500;Segle XX;81;3;1;2167;Si;Si;1979;No;No;Si;3;G;Venda
+172500;Sant Pere Nord;88;3;1;1960;Si;No;2005;No;No;Si;_;G;Venda
+240000;La Maurina;170;4;2;1412;Si;No;1958;Si;No;No;_;E;Venda
+159900;Sant Pere Nord;_;_;_;_;No;No;1974;No;No;No;_;_;Venda
+219000;Ca nﾴAurell;150;4;1;1460;No;No;1979;No;No;No;_;G;Venda
+250000;Sant Pere;132;4;2;1894;No;No;1980;No;No;Si;_;_;Venda
+110600;Egara;79;3;1;1400;No;No;1965;No;No;No;_;G;Venda
+167000;Centre;79;3;1;2114;Si;No;_;No;No;No;_;G;Venda
+165000;Ca n�Aurell;49;2;2;3367;Si;Si;_;No;No;Si;_;_;Venda
+157000;Can Jofresa;82;3;1;1915;Si;No;1975;No;No;Si;_;F;Venda
+63000;Ca nﾴAnglada;70;3;1;900;No;No;1969;No;No;No;_;G;Venda
+185000;Can Palet;153;2;1;1209;No;No;1972;No;No;No;_;E;Venda
+144900;Can Parellada;97;4;1;1494;Si;No;_;No;No;Si;_;E;Venda
+260000;Ca n�Aurell;110;3;2;2364;No;No;_;No;No;Si;_;G;Venda
+80000;Ca n�Anglada;75;3;1;1067;Si;No;1985;No;No;No;_;G;Venda
+145000;Segle XX;95;3;1;1526;Si;No;_;No;No;No;1;D;Venda
+80000;Ca n�Aurell;48;1;1;1667;Si;Si;2008;Si;No;Si;_;_;Venda
+165000;Ca n�Aurell;50;2;1;3300;Si;Si;2021;No;No;Si;_;_;Venda
+195000;Can Palet;153;2;1;1275;No;No;_;No;No;No;_;G;Venda
+185000;Can Palet;153;2;1;1209;No;No;1935;No;No;No;_;_;Venda
+185000;Can Palet;153;2;1;1209;No;No;_;No;No;No;_;_;Venda
+126000;Can Palet;77;3;1;1636;No;No;1967;No;No;Si;_;D;Venda
+265000;Cementiri Vell;100;4;2;2650;Si;No;_;Si;No;Si;_;G;Venda
+244500;Sant Pere Nord;250;5;3;978;Si;No;_;No;No;No;_;G;Venda
+106000;La Maurina;58;2;1;1828;Si;No;1940;No;No;No;_;G;Venda
+149900;Poblenou-Zona Esportiva;95;1;1;1578;No;No;1970;No;No;No;_;G;Venda
+117500;Torre-sana;43;1;1;2733;No;No;2007;No;No;Si;_;_;Venda
+299000;Centre;190;5;2;1574;No;No;1910;No;No;No;2;G;Venda
+420000;Ca n�Aurell;160;3;4;2625;Si;Si;_;Si;No;No;_;G;Venda
+92000;Ca nﾴAnglada;78;3;1;1179;No;No;1968;No;No;No;_;G;Venda
+199000;Ca n�Aurell;85;4;1;2341;Si;No;1975;No;No;Si;_;F;Venda
+74900;Poblenou-Zona Esportiva;63;3;1;1189;No;No;1970;No;No;No;_;G;Venda
+85000;Can Palet;97;4;1;876;No;No;1973;No;No;No;_;E;Venda
+194000;Torre-sana;98;3;2;1980;Si;Si;2004;Si;No;Si;_;D;Venda
+309000;Sant Pere Nord;285;6;3;1084;Si;No;2000;No;No;No;_;E;Venda
+190000;Ca nﾴAnglada;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+199000;Ca n�Aurell;126;4;1;1579;Si;No;1964;No;No;Si;_;G;Venda
+149000;Can Palet;85;2;1;1753;Si;Si;2000;No;No;Si;_;E;Venda
+120000;Can Roca;48;1;1;2500;Si;No;2004;No;No;Si;_;C;Venda
+110000;Can Boada;75;3;1;1467;No;No;_;No;No;Si;_;G;Venda
+115500;Poblenou-Zona Esportiva;90;3;1;1283;Si;No;2008;No;No;No;_;G;Venda
+116500;Les Arenes-La Gr�pia;75;3;1;1553;No;No;1970;No;No;No;_;G;Venda
+100500;Sant Pere Nord;30;1;1;3350;Si;No;_;No;No;Si;_;G;Venda
+379500;Centre;171;4;2;2219;Si;Si;1900;No;No;No;_;G;Venda
+58000;La Maurina;50;1;1;1160;No;Si;_;No;No;Si;_;F;Venda
+349000;Cementiri Vell;100;4;3;3490;Si;Si;2007;No;No;Si;4;G;Venda
+84500;Ca n�Anglada;70;3;1;1207;Si;Si;1960;No;No;No;_;G;Venda
+106000;La Maurina;109;3;1;972;Si;No;1978;No;No;No;_;F;Venda
+208000;Poblenou-Zona Esportiva;112;3;2;1857;Si;Si;1950;No;No;No;_;E;Venda
+244000;Can Roca;200;3;1;1220;Si;No;1965;No;No;No;_;E;Venda
+114000;La Maurina;90;3;1;1267;No;No;1972;No;No;No;_;G;Venda
+67900;Ca nﾴAnglada;57;3;1;1191;No;No;1956;No;No;No;_;G;Venda
+195000;La Maurina;284;3;2;687;Si;No;1945;Si;No;No;_;G;Venda
+227000;Centre;90;3;1;2522;Si;No;_;No;No;Si;4;G;Venda
+153000;Ca nﾴAurell;111;4;1;1378;No;No;1961;No;No;No;_;E;Venda
+294000;Poblenou-Zona Esportiva;170;4;2;1729;Si;Si;_;No;No;No;_;C;Venda
+119900;Sant Pere Nord;94;3;1;1276;No;No;1960;No;No;No;_;G;Venda
+199900;Ca n�Aurell;126;4;1;1587;Si;No;1964;No;No;Si;_;G;Venda
+449000;Escoles;368;3;1;1220;Si;Si;1978;Si;No;No;3;E;Venda
+131500;Ca nﾴAnglada;94;4;1;1399;No;No;1965;No;No;No;_;E;Venda
+198000;Poblenou-Zona Esportiva;107;4;2;1850;Si;No;1986;No;No;Si;_;E;Venda
+229900;Sant Pere;60;2;1;3832;Si;Si;2007;No;No;Si;_;G;Venda
+182000;Sant Pere Nord;84;3;2;2167;Si;No;1996;No;No;No;_;G;Venda
+121500;Sant Pere Nord;75;2;1;1620;Si;No;2007;No;No;Si;_;G;Venda
+121500;Sant Pere Nord;75;2;1;1620;Si;No;2007;No;No;Si;_;G;Venda
+78000;Ca n�Anglada;70;3;1;1114;No;No;1968;No;No;Si;_;G;Venda
+105000;La Maurina;118;3;1;890;No;No;1966;Si;No;No;_;_;Venda
+224000;Ca n�Anglada;212;4;2;1057;Si;No;1978;No;No;No;_;C;Venda
+175000;Poblenou-Zona Esportiva;_;_;_;_;Si;Si;1984;No;No;Si;5;G;Venda
+207000;Sant Pere Nord;82;3;2;2524;Si;Si;2021;Si;No;Si;1;G;Venda
+194000;Sant Pere;93;3;1;2086;Si;No;1931;No;No;No;_;G;Venda
+142000;Segle XX;_;_;_;_;Si;Si;1978;No;No;Si;_;E;Venda
+185000;Centre;115;4;2;1609;No;No;1905;Si;No;No;_;G;Venda
+65000;Segle XX;35;1;1;1857;No;No;_;No;No;No;_;F;Venda
+110000;Ca n�Aurell;97;2;2;1134;Si;Si;1997;No;No;No;_;G;Venda
+450000;Ca n�Aurell;210;3;3;2143;Si;Si;2022;Si;No;Si;_;G;Venda
+224900;Centre;78;2;1;2883;Si;Si;2007;Si;No;Si;_;G;Venda
+124900;Sant Pere Nord;84;3;1;1487;No;No;_;No;No;No;_;G;Venda
+146000;Can Jofresa;120;4;2;1217;Si;No;_;No;No;Si;_;G;Venda
+85000;Can Palet;98;4;1;867;Si;No;1973;No;No;No;_;E;Venda
+149900;Poblenou-Zona Esportiva;95;2;1;1578;No;No;1970;No;No;No;_;G;Venda
+214000;Ca n�Anglada;190;4;2;1126;Si;Si;_;No;No;No;_;F;Venda
+216000;Can Palet;98;2;2;2204;Si;Si;2005;No;No;Si;_;E;Venda
+94500;Torre-sana;40;1;1;2363;Si;No;_;No;No;Si;_;G;Venda
+455000;Ca n�Aurell;373;6;4;1220;Si;Si;1964;Si;No;Si;_;G;Venda
+189000;Segle XX;66;2;1;2864;Si;No;2000;Si;No;Si;2;G;Venda
+82000;Ca n�Anglada;68;2;1;1206;Si;Si;1962;No;No;No;_;E;Venda
+520000;Pere parres;330;5;4;1576;Si;Si;1990;Si;No;No;3;E;Venda
+183960;Can Palet;87;3;2;2114;No;No;2007;No;No;Si;3;G;Venda
+396000;Ca n�Aurell;190;3;2;2084;Si;No;_;No;No;No;_;E;Venda
+229900;Cementiri Vell;60;2;1;3832;No;No;2007;No;No;Si;_;G;Venda
+112000;Can Palet;69;2;1;1623;Si;Si;1998;No;No;Si;_;G;Venda
+153000;Ca nﾴAurell;111;4;1;1378;No;No;1961;No;No;No;1;E;Venda
+115000;X�quer;80;4;1;1438;Si;Si;1974;No;No;Si;2;G;Venda
+89000;Can Boada;60;2;1;1483;No;No;1964;No;No;No;_;G;Venda
+186000;Poblenou-Zona Esportiva;102;3;2;1824;Si;No;2002;Si;No;Si;_;E;Venda
+287000;Centre;210;8;2;1367;Si;No;_;No;No;No;_;G;Venda
+116000;Sant Lloren�;85;3;1;1365;Si;No;_;No;No;No;_;G;Venda
+410000;Ca n�Aurell;272;4;4;1507;Si;Si;_;Si;No;No;_;G;Venda
+87000;Ca nﾴAnglada;71;3;1;1225;No;No;1969;No;No;No;_;E;Venda
+212800;Cementiri Vell;92;3;2;2313;Si;No;1994;Si;No;Si;2;E;Venda
+165000;Can Jofresa;110;4;1;1500;No;No;1975;No;No;Si;_;E;Venda
+137300;Torre-sana;70;1;2;1961;Si;Si;2006;No;No;Si;_;G;Venda
+153000;Ca nﾴAurell;111;4;1;1378;No;No;1961;No;No;No;_;G;Venda
+265000;Segle XX;163;4;2;1626;Si;Si;1983;No;No;No;_;E;Venda
+294000;Can Roca;115;3;2;2557;Si;Si;1999;No;No;Si;_;E;Venda
+170000;Vallparad�s;95;4;2;1789;Si;No;1965;No;No;Si;3;F;Venda
+165000;Can Jofresa;110;4;1;1500;Si;No;_;No;No;Si;_;E;Venda
+180000;Sant Pere;87;2;1;2069;No;No;1992;No;No;Si;_;_;Venda
+185000;Torre-sana;85;3;2;2176;No;No;_;Si;No;Si;_;E;Venda
+145000;Ca n�Aurell;50;1;1;2900;Si;Si;2005;Si;No;Si;_;E;Venda
+158000;Sant Pere Nord;80;4;1;1975;Si;Si;_;No;No;Si;1;E;Venda
+256000;Torre-sana;156;3;2;1641;Si;Si;1968;Si;No;No;_;G;Venda
+161000;Ca n�Aurell;91;3;1;1769;Si;Si;1975;No;No;No;1;D;Venda
+189900;Sant Pere;87;2;1;2183;No;No;1992;No;No;Si;_;G;Venda
+186000;Poblenou-Zona Esportiva;109;2;1;1706;Si;No;2001;No;No;Si;_;E;Venda
+119900;Sant Pere Nord;94;3;1;1276;No;No;1960;No;No;No;1;E;Venda
+159500;Les Arenes-La Gr�pia;92;3;1;1734;No;No;1994;No;No;No;_;E;Venda
+87000;Sant Lloren�;58;3;1;1500;No;No;1960;No;No;No;_;G;Venda
+365000;Can Palet de Vista Alegre;112;3;3;3259;Si;Si;_;Si;No;No;_;G;Venda
+150000;Ca n�Aurell;81;2;1;1852;Si;No;1996;No;No;Si;_;G;Venda
+309000;Can Palet;150;5;2;2060;Si;Si;1988;Si;No;No;_;G;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;Si;1997;No;Si;No;_;E;Venda
+185000;Sant Pere;87;2;2;2126;Si;No;_;No;No;Si;_;B;Venda
+337100;Sant Pere Nord;185;5;2;1822;Si;No;1954;Si;No;No;_;G;Venda
+136000;Segle XX;53;1;1;2566;No;No;_;No;No;Si;_;E;Venda
+386000;Centre;170;3;2;2271;Si;Si;_;No;No;No;_;G;Venda
+93000;Poblenou-Zona Esportiva;75;3;1;1240;Si;No;_;No;No;No;_;G;Venda
+231400;Escoles;114;3;2;2030;Si;No;2003;Si;No;Si;_;E;Venda
+162750;Segle XX;80;3;1;2034;Si;No;1999;No;No;Si;3;E;Venda
+160000;Ca n�Aurell;60;1;2;2667;Si;Si;2006;No;No;Si;_;G;Venda
+156000;Segle XX;59;2;1;2644;Si;No;2000;Si;No;Si;_;G;Venda
+80300;Sant Lloren�;61;3;1;1316;Si;No;1960;No;No;No;2;G;Venda
+337100;Sant Pere Nord;192;5;2;1756;No;Si;_;Si;No;No;_;D;Venda
+109000;Segle XX;60;2;1;1817;Si;Si;2008;No;No;Si;_;_;Venda
+127000;Cementiri Vell;80;3;1;1588;Si;No;1960;No;No;No;_;F;Venda
+135000;Sant Pere Nord;70;2;1;1929;Si;Si;_;No;No;Si;_;G;Venda
+248000;Ca n�Aurell;79;3;2;3139;Si;Si;2023;Si;No;Si;_;G;Venda
+119990;Ca n�Anglada;76;2;1;1579;Si;Si;1967;No;No;No;_;E;Venda
+309000;Can Palet;150;4;2;2060;Si;Si;1988;Si;No;No;_;G;Venda
+171900;La Cogullada;100;3;1;1719;Si;Si;2005;No;No;No;_;E;Venda
+420000;Can Parellada;246;5;3;1707;No;Si;1980;No;Si;No;_;G;Venda
+375000;Can Palet de Vista Alegre;174;4;3;2155;Si;No;2003;Si;No;No;_;G;Venda
+279000;Centre;112;4;2;2491;Si;No;2000;No;No;Si;_;G;Venda
+234000;Ca n�Aurell;105;4;2;2229;Si;No;_;No;No;Si;_;G;Venda
+345000;Ca n�Aurell;150;3;2;2300;Si;Si;2021;Si;No;No;_;G;Venda
+172000;Les Arenes-La Gr�pia;82;2;1;2098;Si;Si;1995;Si;No;Si;_;G;Venda
+255500;Ca n�Aurell;106;3;2;2410;Si;No;2004;Si;No;Si;_;G;Venda
+750000;Poblenou-Zona Esportiva;_;_;_;_;Si;Si;1998;Si;Si;No;_;E;Venda
+245000;Ca n�Aurell;96;3;2;2552;Si;Si;2021;No;No;Si;_;G;Venda
+329900;Sant Pere;115;3;2;2869;Si;No;1983;No;No;Si;_;G;Venda
+265000;Ca n�Aurell;100;3;2;2650;Si;Si;2021;Si;No;Si;_;G;Venda
+145000;Sant Pere Nord;90;3;2;1611;Si;No;1991;No;No;Si;_;G;Venda
+118000;Can Boada;53;1;1;2226;Si;No;2005;No;No;Si;_;G;Venda
+132900;Egara;82;4;1;1621;No;No;_;No;No;No;_;G;Venda
+345000;Can Palet de Vista Alegre;161;3;3;2143;Si;Si;_;Si;Si;No;_;G;Venda
+109000;Centre;39;1;1;2795;No;No;2008;No;No;Si;_;E;Venda
+140000;Ca n�Aurell;45;1;1;3111;Si;Si;2023;Si;No;Si;_;G;Venda
+263000;Can Boada;118;3;2;2229;Si;Si;1995;No;No;Si;1;G;Venda
+262500;Ca n�Aurell;82;3;2;3201;Si;Si;2023;No;No;Si;_;G;Venda
+310000;Can Palet;434;5;2;714;Si;No;1978;Si;No;No;_;G;Venda
+179000;Sant Pere Nord;83;3;2;2157;Si;No;2002;No;No;Si;_;G;Venda
+109000;Can Palet;66;3;1;1652;No;No;1965;No;No;Si;_;G;Venda
+257000;Centre;129;5;2;1992;Si;No;1975;Si;No;Si;1;F;Venda
+144800;Can Boada;100;4;2;1448;No;No;_;No;No;Si;_;G;Venda
+159000;Cementiri Vell;72;2;1;2208;Si;No;2004;No;No;Si;_;G;Venda
+185000;Torre-sana;126;3;2;1468;Si;No;2007;No;No;Si;_;F;Venda
+359900;Les Martines;191;6;3;1884;No;Si;_;Si;Si;No;_;G;Venda
+159900;La Maurina;82;2;1;1950;Si;No;1996;No;No;Si;_;G;Venda
+174500;Escoles;80;2;1;2181;No;No;1972;No;No;Si;_;G;Venda
+136500;Torre-sana;78;3;1;1750;Si;Si;1977;Si;No;Si;_;D;Venda
+182000;Ca n�Aurell;55;2;1;3309;Si;Si;2023;Si;No;Si;_;G;Venda
+295000;Les Arenes-La Gr�pia;139;4;2;2122;Si;No;_;Si;No;Si;_;G;Venda
+348000;Sant Pere Nord;170;3;3;2047;No;Si;1957;Si;No;No;_;D;Venda
+159990;Can Boada;93;4;1;1720;Si;No;1979;No;No;Si;_;G;Venda
+112000;Can Boada;73;3;1;1534;Si;Si;1971;No;No;Si;4;E;Venda
+135000;Escoles;99;3;2;1364;No;No;1974;No;No;Si;_;G;Venda
+177000;Ca n�Aurell;80;4;1;2213;No;No;_;No;No;Si;_;G;Venda
+138000;Can Palet;56;2;1;2464;Si;Si;2004;No;No;Si;3;E;Venda
+132000;Can Palet;75;3;1;1760;Si;Si;_;No;No;No;_;G;Venda
+349900;Centre;102;3;2;3430;Si;Si;_;No;No;Si;_;E;Venda
+111000;La Maurina;99;4;2;1121;No;No;1956;No;No;No;_;G;Venda
+275000;Can Palet de Vista Alegre;136;3;2;2022;No;No;2007;Si;No;No;_;G;Venda
+184000;Can Palet;116;5;2;1586;Si;Si;1975;No;No;Si;1;G;Venda
+399000;Ca nﾴAurell;244;6;2;1635;No;No;1931;No;No;No;_;E;Venda
+235000;Pere parres;150;4;1;1567;Si;No;1984;No;No;Si;_;G;Venda
+393800;Pere parres;169;3;2;2330;Si;Si;1992;Si;No;No;_;D;Venda
+294000;Poblenou-Zona Esportiva;115;3;2;2557;Si;Si;1999;Si;No;Si;3;E;Venda
+136000;Cementiri Vell;79;3;1;1722;Si;Si;1970;No;No;Si;1;E;Venda
+193000;La Cogullada;70;2;2;2757;Si;Si;2007;No;No;Si;3;F;Venda
+248800;Pere parres;133;3;2;1871;Si;No;1983;No;No;Si;_;E;Venda
+225000;La Maurina;183;4;2;1230;Si;Si;1975;No;No;No;1;D;Venda
+110000;La Maurina;71;2;1;1549;Si;Si;1966;No;No;Si;5;D;Venda
+211000;Poblenou-Zona Esportiva;100;3;2;2110;Si;No;1990;Si;No;Si;_;G;Venda
+360000;Centre;123;4;2;2927;Si;Si;1986;Si;No;Si;_;_;Venda
+255000;Centre;92;2;2;2772;No;No;1992;No;No;No;_;G;Venda
+139000;Les Arenes-La Gr�pia;65;2;1;2138;Si;No;1994;Si;No;Si;_;G;Venda
+260000;Centre;123;3;2;2114;Si;Si;1995;No;No;Si;_;G;Venda
+344000;Les Arenes-La Gr�pia;200;4;2;1720;Si;Si;_;Si;No;Si;_;G;Venda
+344000;Les Arenes-La Gr�pia;200;4;2;1720;Si;Si;_;Si;No;Si;_;G;Venda
+119990;Ca nﾴAnglada;76;2;1;1579;No;No;1967;No;No;No;_;E;Venda
+295000;Ca n�Aurell;96;3;2;3073;Si;Si;2020;No;No;Si;1;G;Venda
+199900;Ca n�Aurell;126;4;1;1587;No;No;1963;No;No;Si;_;G;Venda
+125000;Torre-sana;77;2;1;1623;Si;Si;1992;No;No;No;1;G;Venda
+270000;Ca n�Aurell;109;3;2;2477;Si;Si;1962;No;No;Si;_;G;Venda
+348000;Sant Pere Nord;237;4;3;1468;Si;No;2006;Si;No;No;1;D;Venda
+70000;Ca n�Anglada;63;4;1;1111;No;Si;1956;No;No;No;_;E;Venda
+96700;Segle XX;47;1;1;2057;Si;No;2007;No;No;Si;_;E;Venda
+80300;Sant Lloren�;63;3;1;1275;Si;No;_;No;No;No;2;G;Venda
+95000;Ca n�Anglada;90;3;1;1056;No;No;1974;No;No;Si;_;E;Venda
+87000;Ca n�Anglada;71;3;1;1225;Si;No;1969;No;No;No;_;E;Venda
+117500;Torre-sana;43;1;1;2733;No;No;2007;No;No;Si;_;G;Venda
+149000;Ca n�Aurell;65;2;1;2292;Si;No;_;No;No;No;_;G;Venda
+158000;Can Palet;86;3;1;1837;No;No;2001;Si;No;Si;_;E;Venda
+177000;Sant Pere Nord;103;3;1;1718;Si;Si;1959;No;No;No;1;E;Venda
+219000;Torre-sana;79;3;1;2772;Si;No;2000;No;No;Si;_;D;Venda
+369000;Ca n�Aurell;136;4;3;2713;Si;Si;2023;No;No;Si;_;G;Venda
+206000;Can Roca;87;3;2;2368;Si;Si;2002;Si;No;Si;_;F;Venda
+138900;Can Palet;97;4;1;1432;No;No;1978;No;No;Si;_;G;Venda
+273000;Sant Pere Nord;166;2;1;1645;No;No;_;Si;No;No;_;G;Venda
+239000;Les Martines;165;5;2;1448;Si;No;2019;No;No;No;_;G;Venda
+80300;Sant Lloren�;61;3;1;1316;Si;No;1960;No;No;No;_;G;Venda
+263000;Can Palet;143;5;2;1839;No;No;1944;No;No;No;_;G;Venda
+236000;Sant Pere Nord;180;4;3;1311;Si;Si;1980;No;No;No;_;G;Venda
+247900;Poblenou-Zona Esportiva;110;3;2;2254;Si;No;1978;No;No;Si;_;G;Venda
+166500;Can Palet;86;2;1;1936;Si;No;2005;No;No;Si;_;G;Venda
+273000;Pere parres;89;3;2;3067;Si;Si;2022;No;No;Si;_;A;Venda
+240000;Les Martines;128;3;1;1875;No;No;_;Si;No;No;_;G;Venda
+80500;La Maurina;59;3;1;1364;No;No;1965;No;No;No;_;E;Venda
+194000;Roc Blanc;100;3;2;1940;Si;No;1996;No;No;Si;_;E;Venda
+120000;Segle XX;47;1;1;2553;Si;No;2010;No;No;Si;_;E;Venda
+299000;Can Palet;150;4;2;1993;No;No;1988;Si;No;No;_;_;Venda
+299000;Ca n�Aurell;116;4;3;2578;Si;No;2006;Si;No;Si;_;G;Venda
+165000;Segle XX;79;2;1;2089;No;No;2007;No;No;Si;2;C;Venda
+185000;Can Palet;153;2;1;1209;No;No;_;No;No;No;_;_;Venda
+245000;Can Palet;246;5;3;996;No;No;1963;No;No;No;_;F;Venda
+229000;Ca n�Aurell;117;3;1;1957;Si;No;1950;No;No;No;_;G;Venda
+175000;Ca nﾴAnglada;136;5;2;1287;No;No;1970;No;No;No;_;E;Venda
+110000;Can Boada;90;3;1;1222;No;No;1976;No;No;Si;_;E;Venda
+158000;Can Palet;86;3;1;1837;Si;No;1999;No;No;Si;_;E;Venda
+153000;Ca nﾴAurell;111;4;1;1378;No;No;1961;No;No;No;_;G;Venda
+329500;Les Arenes-La Gr�pia;263;5;3;1253;Si;No;_;Si;No;No;_;C;Venda
+197000;Poblenou-Zona Esportiva;86;2;2;2291;Si;Si;2002;Si;No;Si;_;E;Venda
+251000;La Maurina;170;4;2;1476;Si;No;1958;No;No;No;_;G;Venda
+225000;Centre;100;4;2;2250;Si;Si;1973;Si;No;Si;6;C;Venda
+115000;Les Arenes-La Gr�pia;83;3;1;1386;Si;Si;1977;No;No;No;_;F;Venda
+165000;Ca n�Aurell;49;2;1;3367;Si;Si;2021;No;No;Si;_;G;Venda
+166000;Ca n�Aurell;106;3;1;1566;Si;Si;1975;No;No;No;_;G;Venda
+260000;Ca n�Aurell;102;3;2;2549;Si;Si;2021;Si;No;Si;2;B;Venda
+150000;Escoles;_;_;_;_;No;No;1972;No;No;Si;3;G;Venda
+93500;Poblenou-Zona Esportiva;65;4;1;1438;Si;No;1977;No;No;No;3;G;Venda
+166500;Torre-sana;98;2;1;1699;No;No;1998;No;No;Si;_;G;Venda
+309000;Sant Pere Nord;_;_;_;_;Si;No;2000;No;No;No;_;G;Venda
+119000;La Maurina;55;2;1;2164;No;No;1961;No;No;No;2;D;Venda
+61000;Poblenou-Zona Esportiva;65;4;1;938;Si;No;1966;No;No;No;_;G;Venda
+69000;Segle XX;30;1;1;2300;No;No;_;No;No;No;_;G;Venda
+249900;Les Arenes-La Gr�pia;131;3;2;1908;Si;Si;1991;No;No;Si;3;E;Venda
+155000;Can Palet;80;3;1;1938;Si;No;_;No;No;Si;_;G;Venda
+125000;Sant Pere Nord;95;3;1;1316;Si;Si;1985;No;No;No;_;G;Venda
+160000;Ca nﾴAurell;130;2;1;1231;No;No;1950;No;No;No;_;E;Venda
+460000;Poblenou-Zona Esportiva;220;4;3;2091;Si;Si;_;Si;No;No;_;D;Venda
+235000;La Cogullada;145;2;2;1621;Si;Si;2003;Si;No;Si;2;E;Venda
+127000;Cementiri Vell;80;3;1;1588;No;No;1960;No;No;No;_;F;Venda
+103000;Can Palet;76;3;1;1355;Si;No;1970;No;No;Si;_;F;Venda
+148900;Ca n�Anglada;81;3;1;1838;Si;Si;1974;No;No;Si;_;G;Venda
+155000;Can Palet;99;4;2;1566;Si;Si;1992;No;No;Si;1;G;Venda
+95000;Ca n�Anglada;50;1;1;1900;Si;No;2008;No;No;Si;_;G;Venda
+235000;Vallparad�s;_;_;_;_;Si;No;2000;No;No;Si;_;G;Venda
+245000;La Cogullada;99;3;2;2475;Si;Si;2021;No;No;Si;2;A;Venda
+149000;Les Arenes-La Gr�pia;88;3;1;1693;Si;No;1975;No;No;No;_;G;Venda
+93000;Ca nﾴAnglada;78;3;1;1192;No;No;1973;No;No;No;_;E;Venda
+136000;Ca nﾴAurell;140;3;2;971;No;No;_;No;No;No;_;G;Venda
+450000;Centre;160;3;2;2813;Si;Si;2021;Si;No;Si;_;A;Venda
+359700;Sant Lloren�;378;4;2;952;Si;Si;1958;No;No;No;3;E;Venda
+120000;Can Palet;70;3;1;1714;No;No;1967;No;No;Si;_;D;Venda
+165000;Centre;70;3;1;2357;Si;No;1950;No;No;No;_;G;Venda
+49900;La Maurina;79;1;1;632;No;No;1959;No;No;No;_;G;Venda
+176000;Centre;139;3;2;1266;No;No;1910;No;No;No;_;D;Venda
+74900;Poblenou-Zona Esportiva;70;3;1;1070;No;No;1970;No;No;No;_;G;Venda
+100000;Ca n�Anglada;68;2;1;1471;No;No;2009;No;No;Si;_;_;Venda
+155000;Can Palet;90;4;2;1722;Si;Si;1992;No;No;Si;1;E;Venda
+147260;Sant Pere Nord;75;3;1;1963;Si;No;1974;No;No;Si;_;G;Venda
+185000;Can Palet;90;2;1;2056;No;No;_;No;No;No;_;E;Venda
+94500;Sant Pere Nord;38;1;1;2487;Si;No;2008;No;No;Si;_;E;Venda
+155000;Can Palet;85;4;2;1824;Si;Si;1992;No;No;Si;_;G;Venda
+174000;Sant Pere Nord;80;3;2;2175;Si;No;1996;No;No;Si;_;E;Venda
+146000;Sant Pere Nord;95;3;1;1537;No;No;1960;No;No;No;_;D;Venda
+159990;Can Boada;93;4;1;1720;No;No;1979;No;No;Si;_;E;Venda
+89000;Ca n�Aurell;46;1;1;1935;Si;Si;2008;Si;No;Si;_;_;Venda
+165000;Ca n�Aurell;65;2;1;2538;Si;Si;2021;Si;No;Si;1;G;Venda
+115000;Ca nﾴAnglada;115;5;1;1000;No;No;_;No;No;No;_;G;Venda
+212000;Cementiri Vell;110;4;1;1927;Si;Si;1970;No;No;Si;1;G;Venda
+222300;Sant Pere;75;3;2;2964;Si;Si;1996;No;No;Si;2;E;Venda
+97000;Sant Pere;57;2;1;1702;Si;Si;_;No;No;No;_;G;Venda
+216000;Can Palet;117;2;2;1846;No;No;2000;No;No;Si;_;E;Venda
+120000;Segle XX;_;_;_;_;No;No;2010;No;No;Si;_;E;Venda
+275000;Can Palet de Vista Alegre;136;3;2;2022;No;No;2007;No;No;No;_;E;Venda
+186000;Poblenou-Zona Esportiva;96;2;2;1938;Si;No;2001;No;No;Si;_;E;Venda
+234000;Can Boada;135;4;1;1733;Si;No;2004;Si;No;Si;_;G;Venda
+152000;Can Palet;108;3;1;1407;No;No;1973;No;No;No;_;G;Venda
+145000;Ca nﾴAnglada;152;4;1;954;No;No;1968;No;No;No;_;G;Venda
+155000;Can Palet;99;4;2;1566;Si;Si;_;Si;No;Si;1;G;Venda
+186000;Pere parres;87;3;2;2138;Si;No;2007;No;No;Si;1;G;Venda
+249900;Vallparad�s;85;3;2;2940;Si;No;2006;Si;No;Si;3;F;Venda
+379000;Les Martines;310;6;2;1223;No;No;1980;Si;Si;No;2;G;Venda
+229000;Pere parres;95;3;2;2411;Si;Si;1991;Si;No;Si;2;E;Venda
+325000;Ca n�Aurell;173;3;2;1879;Si;Si;1948;Si;No;No;2;F;Venda
+205000;Torre-sana;85;3;2;2412;Si;No;2007;No;No;Si;_;G;Venda
+270000;Centre;120;6;2;2250;Si;No;1900;No;No;No;_;G;Venda
+259000;Ca n�Aurell;95;3;2;2726;Si;No;1962;No;No;Si;4;G;Venda
+225000;Poblenou-Zona Esportiva;_;_;_;_;Si;No;2003;Si;No;Si;1;G;Venda
+145000;Ca n�Aurell;50;1;1;2900;Si;Si;2005;No;No;Si;_;E;Venda
+369000;Sant Pere Nord;265;3;2;1392;Si;Si;2021;Si;No;No;_;E;Venda
+231400;Escoles;114;3;1;2030;Si;No;1985;Si;No;Si;_;E;Venda
+119900;Can Boada;_;_;_;_;Si;No;2008;No;No;Si;_;E;Venda
+89500;La Maurina;83;3;1;1078;Si;No;1960;No;No;Si;_;G;Venda
+179900;Sant Pere Nord;88;3;2;2044;Si;Si;1999;No;No;Si;2;G;Venda
+85000;Can Palet;97;4;1;876;Si;No;1973;No;No;No;_;F;Venda
+164900;Sant Pere Nord;98;3;1;1683;Si;No;1960;No;No;No;_;G;Venda
+175300;Segle XX;80;3;1;2191;No;Si;1979;No;No;Si;_;G;Venda
+159900;Sant Pere Nord;_;_;_;_;No;No;1974;No;No;No;_;_;Venda
+95000;Can Palet;88;3;1;1080;No;No;1985;No;No;No;_;G;Venda
+248800;Pere parres;133;3;2;1871;Si;Si;1983;No;No;Si;_;E;Venda
+159900;La Cogullada;82;2;1;1950;Si;No;_;No;No;Si;_;G;Venda
+142000;Segle XX;83;3;1;1711;Si;Si;1978;No;No;Si;_;E;Venda
+93000;Ca nﾴAurell;85;2;1;1094;No;No;1960;No;No;No;_;_;Venda
+69000;Sant Lloren�;61;2;1;1131;No;No;1960;No;No;No;_;_;Venda
+159900;Ca n�Aurell;81;2;1;1974;No;No;1996;No;No;Si;_;G;Venda
+170000;Ca nﾴAnglada;136;5;2;1250;No;No;1970;No;No;No;_;G;Venda
+74900;Poblenou-Zona Esportiva;70;3;1;1070;No;No;1970;No;No;No;_;_;Venda
+119000;Sant Pere Nord;33;1;1;3606;Si;Si;2008;No;No;Si;_;D;Venda
+130000;Can Palet;50;2;1;2600;Si;Si;2008;No;No;Si;2;G;Venda
+157000;Escoles;81;3;1;1938;Si;No;_;No;No;Si;_;G;Venda
+224900;Cementiri Vell;60;2;1;3748;No;Si;2007;No;No;Si;_;D;Venda
+65900;Ca nﾴAnglada;70;3;1;941;No;No;1968;No;No;No;_;G;Venda
+63000;Sant Lloren�;61;3;1;1033;No;No;1960;No;No;No;_;E;Venda
+149000;La Cogullada;81;4;2;1840;No;No;1980;No;No;Si;_;E;Venda
+112000;Centre;49;1;1;2286;Si;Si;2002;No;No;Si;_;F;Venda
+225600;La Cogullada;82;3;2;2751;Si;Si;2021;Si;No;Si;3;G;Venda
+330000;Roc Blanc;165;4;2;2000;Si;No;1997;Si;No;No;_;G;Venda
+83000;Can Boada;81;3;1;1025;No;No;1970;No;No;Si;_;G;Venda
+350000;Centre;_;_;_;_;Si;No;_;No;No;No;_;G;Venda
+185000;Segle XX;73;2;2;2534;Si;No;1956;No;No;No;_;E;Venda
+190000;Sant Pere Nord;95;3;2;2000;No;No;2001;No;No;Si;_;E;Venda
+240000;La Maurina;170;4;2;1412;Si;No;1958;Si;No;No;_;G;Venda
+116000;Can Palet;60;2;1;1933;Si;No;_;No;No;Si;_;E;Venda
+259000;Pere parres;146;4;2;1774;No;No;2005;No;No;No;_;G;Venda
+145000;Sant Pere Nord;105;3;1;1381;Si;No;1991;No;No;Si;_;E;Venda
+320000;Can Boada;125;4;2;2560;Si;Si;1990;Si;No;Si;6;E;Venda
+110000;Can Palet;64;3;1;1719;Si;No;1966;No;No;Si;3;G;Venda
+158000;Can Palet;86;3;1;1837;Si;No;2001;Si;No;Si;_;E;Venda
+127000;Cementiri Vell;60;3;1;2117;Si;No;1960;No;No;No;_;F;Venda
+110000;Sant Pere Nord;92;3;1;1196;Si;No;1966;No;No;No;_;G;Venda
+82000;Ca n�Anglada;68;2;1;1206;Si;Si;1962;No;No;No;2;E;Venda
+209000;Ca n�Aurell;206;3;2;1015;No;Si;1960;Si;No;No;_;G;Venda
+74000;Can Palet;60;2;1;1233;No;No;1968;No;No;No;3;G;Venda
+179900;Sant Pere Nord;97;3;2;1855;Si;Si;1993;No;No;Si;2;G;Venda
+150000;Vallparad�s;90;4;2;1667;No;No;1971;No;No;Si;6;G;Venda
+110600;Egara;79;4;1;1400;No;Si;_;No;No;No;1;G;Venda
+145000;Sant Pere Nord;80;3;1;1813;Si;No;1970;No;No;No;_;G;Venda
+249000;Poblenou-Zona Esportiva;85;3;2;2929;Si;Si;2000;Si;No;Si;7;G;Venda
+93000;Ca nﾴAurell;105;3;1;886;No;No;_;No;No;No;_;G;Venda
+245000;Ca n�Aurell;95;3;2;2579;Si;Si;_;No;No;Si;2;G;Venda
+384400;Poblenou-Zona Esportiva;182;3;2;2112;Si;No;1992;Si;No;No;_;G;Venda
+330000;Sant Pere Nord;201;3;4;1642;Si;Si;2022;Si;No;No;2;G;Venda
+330000;Sant Pere Nord;193;3;4;1710;Si;Si;2022;Si;No;No;2;G;Venda
+330000;Sant Pere Nord;191;3;4;1728;Si;Si;2022;Si;No;No;2;G;Venda
+348000;Sant Pere Nord;170;3;3;2047;Si;No;_;Si;No;No;_;G;Venda
+799500;Les Fonts;494;6;3;1618;Si;No;2005;No;Si;No;_;F;Venda
+240000;La Maurina;170;4;2;1412;Si;No;1958;Si;No;No;_;G;Venda
+98000;Can Palet;78;3;1;1256;No;No;1971;No;No;Si;_;F;Venda
+71000;Ca nﾴAnglada;126;4;1;563;No;No;1956;No;No;No;_;G;Venda
+140000;Can Palet;48;2;1;2917;Si;No;2011;Si;No;Si;_;G;Venda
+149000;Can Palet;80;2;1;1863;No;No;_;No;No;No;_;_;Venda
+154000;Can Palet;72;3;1;2139;Si;Si;1968;No;No;Si;3;G;Venda
+159990;Can Boada;93;4;1;1720;Si;Si;1979;No;No;Si;_;E;Venda
+140000;Sant Pere Nord;70;2;1;2000;Si;No;2008;Si;No;Si;_;C;Venda
+384400;Poblenou-Zona Esportiva;182;3;2;2112;Si;No;1992;Si;No;No;_;D;Venda
+74900;Poblenou-Zona Esportiva;63;3;1;1189;No;No;1970;No;No;No;_;G;Venda
+460000;Ca n�Aurell;316;4;3;1456;Si;No;_;No;No;No;_;G;Venda
+109000;Sant Pere Nord;101;3;1;1079;Si;No;1968;No;No;No;_;G;Venda
+145000;Ca n�Aurell;62;3;1;2339;Si;Si;1967;No;No;No;_;F;Venda
+142000;Segle XX;75;3;1;1893;Si;Si;1978;No;No;Si;_;E;Venda
+119990;Ca n�Anglada;76;2;1;1579;Si;Si;1967;No;No;No;_;G;Venda
+275000;Ca n�Aurell;95;4;2;2895;Si;Si;2023;Si;No;Si;_;G;Venda
+97000;Torre-sana;44;1;1;2205;Si;No;2010;No;No;Si;_;G;Venda
+78000;Ca nﾴAnglada;70;3;1;1114;No;No;1971;No;No;No;_;G;Venda
+103000;Can Palet;65;3;1;1585;No;No;1968;No;No;Si;_;F;Venda
+69000;Sant Lloren�;61;2;1;1131;No;No;1960;No;No;No;_;_;Venda
+575000;Centre;304;3;6;1891;Si;Si;2002;Si;Si;No;_;G;Venda
+180000;Segle XX;83;3;1;2169;No;No;1973;No;No;No;_;G;Venda
+85000;Can Palet;97;4;1;876;No;No;1973;No;No;No;_;F;Venda
+385000;Vallparad�s;163;3;3;2362;Si;Si;2022;Si;Si;No;_;_;Venda
+95000;Ca n�Anglada;63;3;1;1508;Si;No;1973;No;No;No;_;G;Venda
+500000;Centre;192;5;4;2604;Si;Si;1991;Si;No;Si;2;D;Venda
+185000;Cementiri Vell;75;2;1;2467;Si;No;2004;No;No;Si;_;G;Venda
+385000;Vallparad�s;163;4;3;2362;Si;No;_;Si;No;No;1;_;Venda
+260000;Centre;123;3;2;2114;Si;Si;1995;No;No;Si;2;G;Venda
+197000;Poblenou-Zona Esportiva;86;2;2;2291;Si;No;2002;Si;No;Si;2;G;Venda
+175900;Ca n�Aurell;78;3;2;2255;Si;No;2004;No;No;Si;2;D;Venda
+158000;Can Palet;99;4;2;1596;Si;Si;1992;No;No;Si;1;G;Venda
+189000;Torre-sana;118;3;1;1602;Si;No;2002;Si;No;Si;2;G;Venda
+142000;Segle XX;67;3;1;2119;Si;No;1978;No;No;Si;_;G;Venda
+290000;Can Palet de Vista Alegre;76;3;2;3816;No;No;_;No;No;No;_;G;Venda
+155000;Escoles;70;3;1;2214;Si;No;_;No;No;Si;_;G;Venda
+175500;Segle XX;81;3;1;2167;Si;Si;1979;No;No;Si;3;G;Venda
+210000;Poblenou-Zona Esportiva;116;4;2;1810;Si;No;2000;No;No;Si;_;G;Venda
+167000;Escoles;102;4;2;1637;Si;No;1976;No;No;Si;5;F;Venda
+265000;Ca n�Aurell;100;3;2;2650;Si;Si;2021;Si;No;Si;2;G;Venda
+173000;Torre-sana;62;2;1;2790;Si;Si;2003;Si;No;Si;_;E;Venda
+146000;Escoles;75;3;1;1947;Si;Si;1972;No;No;Si;3;G;Venda
+150000;Ca n�Aurell;86;3;1;1744;Si;Si;1970;No;No;No;2;G;Venda
+89000;Can Palet;50;1;1;1780;No;No;1993;No;No;Si;_;F;Venda
+89000;Can Palet;50;1;1;1780;No;No;1993;No;No;Si;_;E;Venda
+149000;Ca n�Anglada;92;3;1;1620;Si;Si;2008;No;No;Si;_;E;Venda
+369000;Can Palet de Vista Alegre;150;3;2;2460;Si;Si;2017;Si;No;No;_;G;Venda
+207000;Poblenou-Zona Esportiva;90;3;2;2300;No;Si;1999;Si;No;No;_;G;Venda
+269000;Sant Pere Nord;195;3;2;1379;Si;No;1998;Si;No;No;_;G;Venda
+139000;Can Boada;90;4;2;1544;Si;No;1986;No;No;Si;3;G;Venda
+169000;Can Boada;85;3;1;1988;Si;Si;1994;No;No;Si;2;D;Venda
+360000;Sant Pere Nord;237;3;3;1519;No;No;2006;Si;No;No;_;D;Venda
+185000;Can Palet;153;2;1;1209;No;No;_;No;No;No;_;_;Venda
+185000;Can Palet;153;2;1;1209;No;No;_;No;No;No;_;_;Venda
+119900;Can Palet;77;3;1;1557;No;No;1968;No;No;Si;2;G;Venda
+159000;Sant Pere Nord;74;2;1;2149;No;Si;2012;No;No;Si;3;G;Venda
+179000;Can Boada;70;2;1;2557;No;No;1996;No;No;Si;1;G;Venda
+180000;Centre;135;2;2;1333;No;Si;2004;Si;No;Si;3;G;Venda
+450000;Ca n�Aurell;160;3;3;2813;Si;Si;2021;Si;No;No;_;G;Venda
+153000;Ca nﾴAurell;111;4;1;1378;No;No;1961;No;No;No;1;E;Venda
+390000;Centre;160;4;2;2438;Si;Si;2007;Si;No;No;2;D;Venda
+137500;Torre-sana;70;1;2;1964;Si;Si;_;No;No;Si;_;D;Venda
+130000;Les Fonts;58;2;1;2241;Si;Si;2005;No;No;Si;_;G;Venda
+237000;Can Roca;102;3;2;2324;Si;Si;2006;No;No;Si;1;G;Venda
+320000;Can Palet de Vista Alegre;130;3;2;2462;Si;No;2022;Si;No;No;_;G;Venda
+242000;Torre-sana;170;3;2;1424;Si;No;2005;Si;No;Si;1;E;Venda
+110500;Sant Pere Nord;52;2;1;2125;Si;No;2005;No;No;Si;_;E;Venda
+136000;Ca n�Aurell;108;4;1;1259;No;No;1973;No;No;Si;_;G;Venda
+429000;Ca n�Aurell;191;3;2;2246;Si;No;_;No;No;No;_;E;Venda
+248800;Pere parres;133;3;2;1871;Si;No;1983;No;No;Si;_;E;Venda
+194000;Can Roca;90;3;2;2156;Si;Si;2006;Si;No;Si;3;D;Venda
+460000;Poblenou-Zona Esportiva;230;4;4;2000;No;Si;1956;Si;No;No;_;D;Venda
+125000;Can Palet;77;3;1;1623;No;No;1977;No;No;Si;2;D;Venda
+105000;La Maurina;114;3;1;921;No;No;1975;No;No;No;3;E;Venda
+136000;Ca nﾴAurell;170;3;1;800;No;No;_;No;No;No;_;G;Venda
+125000;Torre-sana;72;2;1;1736;Si;Si;_;No;No;No;1;A;Venda
+219900;Ca nﾴAurell;150;4;2;1466;No;No;_;No;No;No;_;G;Venda
+224900;Cementiri Vell;60;2;1;3748;No;No;2007;Si;No;Si;1;C;Venda
+365000;Vallparad�s;104;3;2;3510;Si;Si;2022;No;No;Si;2;G;Venda
+179000;Poblenou-Zona Esportiva;95;3;1;1884;Si;Si;1970;No;No;No;2;G;Venda
+260000;Sant Pere Nord;259;4;4;1004;Si;No;_;No;No;No;_;D;Venda
+176800;La Cogullada;88;3;2;2009;Si;Si;1999;No;No;Si;4;E;Venda
+329500;Les Arenes-La Gr�pia;263;5;3;1253;Si;Si;1995;Si;No;No;_;G;Venda
+265000;Les Martines;_;_;_;_;No;No;_;Si;No;No;_;F;Venda
+181000;Ca n�Anglada;182;4;2;995;Si;Si;_;Si;No;No;2;G;Venda
+235000;Escoles;139;4;1;1691;Si;Si;2000;No;No;Si;4;E;Venda
+260000;Ca n�Aurell;103;4;2;2524;Si;No;1985;No;No;Si;3;G;Venda
+240000;Ca n�Aurell;103;4;2;2330;Si;Si;1976;No;No;Si;_;G;Venda
+210000;Poblenou-Zona Esportiva;91;3;1;2308;Si;Si;2004;No;No;Si;_;G;Venda
+131000;Ca nﾴAurell;_;_;_;_;No;No;1950;No;No;No;_;E;Venda
+115500;Poblenou-Zona Esportiva;88;3;1;1313;Si;No;1979;No;No;No;_;G;Venda
+191000;Sant Pere Nord;82;3;2;2329;Si;Si;2021;Si;No;Si;1;G;Venda
+215000;Centre;_;_;_;_;No;No;1936;No;No;No;_;G;Venda
+225000;Ca n�Aurell;_;_;_;_;Si;Si;2021;No;No;Si;3;B;Venda
+183860;Can Palet;87;3;2;2113;No;No;2007;No;No;Si;3;D;Venda
+110000;Egara;66;3;1;1667;Si;No;_;No;No;Si;_;G;Venda
+128000;Cementiri Vell;85;2;1;1506;Si;No;1994;No;No;No;_;G;Venda
+137200;Pl� del Bonaire;65;3;1;2111;Si;No;1985;Si;No;Si;4;G;Venda
+137200;Pl� del Bonaire;65;3;1;2111;Si;No;1985;Si;No;Si;4;G;Venda
+249000;Poblenou-Zona Esportiva;135;3;2;1844;Si;Si;2000;Si;No;Si;2;G;Venda
+141000;Ca n�Anglada;122;2;2;1156;No;No;2008;No;No;Si;_;D;Venda
+799500;Les Fonts;527;7;3;1517;Si;Si;_;Si;Si;No;_;G;Venda
+186000;Poblenou-Zona Esportiva;85;2;2;2188;Si;No;2001;No;No;Si;_;G;Venda
+136500;Sant Pere Nord;118;1;1;1157;No;No;1960;No;No;No;_;E;Venda
+125000;Les Arenes-La Gr�pia;63;3;1;1984;No;No;2008;No;No;Si;_;G;Venda
+153000;Ca nﾴAurell;89;4;1;1719;No;No;1961;No;No;No;1;E;Venda
+85000;Can Palet;98;4;1;867;Si;No;1973;No;No;No;_;E;Venda
+190000;Vallparad�s;98;3;2;1939;Si;No;_;No;No;No;_;E;Venda
+69000;Ca n�Anglada;80;3;1;863;No;Si;1969;No;No;No;_;G;Venda
+470000;Escoles;180;4;2;2611;Si;Si;2021;Si;No;No;2;G;Venda
+135000;Can Palet;90;4;1;1500;Si;No;1970;No;No;No;2;G;Venda
+1000000000;Can Parellada;_;_;_;_;No;No;1981;No;No;No;_;_;Venda
+136000;Ca nﾴAurell;106;2;1;1283;No;No;1950;No;No;No;_;E;Venda
+165000;Sant Pere Nord;77;2;1;2143;Si;Si;2008;Si;No;Si;_;G;Venda
+295000;Poblenou-Zona Esportiva;107;3;2;2757;Si;No;2022;Si;No;Si;_;G;Venda
+128500;La Maurina;93;3;1;1382;Si;No;1965;No;No;No;_;E;Venda
+240000;Centre;85;3;1;2824;Si;Si;1932;No;No;No;2;F;Venda
+179000;Centre;72;4;1;2486;Si;Si;1975;No;No;No;1;E;Venda
+212500;Centre;77;3;1;2760;No;Si;_;No;No;No;_;G;Venda
+154000;Sant Pere Nord;50;2;1;3080;Si;Si;_;No;No;No;_;G;Venda
+103000;Can Palet;78;3;1;1321;Si;No;1968;No;No;Si;4;F;Venda
+189000;Cementiri Vell;96;3;1;1969;Si;No;2006;Si;No;Si;1;E;Venda
+162000;Ca nﾴAurell;111;4;1;1459;No;No;1961;No;No;No;_;G;Venda
+124900;Torre-sana;77;2;1;1622;Si;No;_;No;No;No;1;B;Venda
+282500;Ca n�Aurell;120;3;2;2354;Si;No;2019;Si;No;No;_;G;Venda
+145000;Can Palet;107;3;1;1355;No;No;_;No;No;No;1;G;Venda
+355000;Les Martines;240;6;3;1479;Si;Si;_;Si;Si;No;_;G;Venda
+129900;Sant Pere Nord;75;3;1;1732;Si;Si;_;No;No;No;_;G;Venda
+368000;Centre;191;3;2;1927;Si;No;1905;Si;No;No;_;G;Venda
+159900;Sant Pere Nord;_;_;_;_;No;No;1974;No;No;No;_;_;Venda
+475000;Centre;140;3;2;3393;Si;Si;2020;Si;No;No;_;E;Venda
+157000;Sant Pere Nord;77;2;1;2039;Si;Si;2008;Si;No;Si;_;G;Venda
+65000;Segle XX;35;1;1;1857;No;No;1991;No;No;No;_;G;Venda
+181000;Cementiri Vell;63;2;1;2873;Si;No;2004;No;No;Si;_;G;Venda
+164900;Sant Pere Nord;108;3;2;1527;Si;No;2002;No;No;Si;3;G;Venda
+40000;La Maurina;68;2;1;588;No;No;1960;No;No;No;_;G;Venda
+498000;Centre;275;5;3;1811;Si;Si;2003;Si;No;No;_;G;Venda
+149900;Segle XX;60;1;1;2498;Si;Si;_;No;No;Si;1;E;Venda
+103000;Can Palet;62;3;1;1661;No;No;1970;No;No;Si;_;F;Venda
+127000;Les Fonts;65;2;1;1954;Si;Si;2006;No;No;Si;_;E;Venda
+169900;Sant Pere Nord;_;_;_;_;No;No;1953;Si;No;No;_;F;Venda
+86500;X�quer;79;3;1;1095;Si;No;1976;No;No;No;_;_;Venda
+172500;Sant Pere Nord;88;3;1;1960;No;Si;2006;No;No;No;_;_;Venda
+116500;Les Arenes-La Gr�pia;83;3;1;1404;Si;No;1977;No;No;No;_;_;Venda
+198500;Cementiri Vell;116;5;2;1711;Si;No;1980;No;No;No;_;_;Venda
+118000;Ca n�Aurell;53;1;1;2226;Si;No;2005;No;No;Si;2;G;Venda
+65700;Ca nﾴAnglada;64;3;1;1027;No;No;1968;No;No;No;_;G;Venda
+94900;Poblenou-Zona Esportiva;75;3;1;1265;Si;No;_;No;No;No;_;G;Venda
+229800;Sant Pere Nord;260;4;3;884;Si;No;1958;No;No;No;_;E;Venda
+223000;Sant Pere Nord;112;4;2;1991;Si;Si;1991;No;No;Si;3;G;Venda
+128000;La Maurina;73;2;1;1753;Si;Si;1993;Si;No;Si;_;E;Venda
+259000;Can Roca;94;3;2;2755;Si;Si;2005;Si;No;Si;3;E;Venda
+194000;Roc Blanc;100;3;2;1940;Si;No;1996;No;No;No;_;_;Venda
+179900;La Cogullada;222;5;3;810;No;No;1940;No;No;No;1;E;Venda
+125000;Pol�gon Industrial Santa Margarida;76;3;1;1645;No;No;_;No;No;Si;2;G;Venda
+156000;Sant Pere Nord;70;3;2;2229;Si;No;2008;No;No;Si;2;G;Venda
+136000;Ca nﾴAurell;108;4;1;1259;No;No;_;No;No;No;_;_;Venda
+116000;Can Palet;78;3;1;1487;No;No;_;No;No;No;_;_;Venda
+216000;Can Palet;98;2;2;2204;No;No;_;No;No;No;_;_;Venda
+80500;La Maurina;59;3;1;1364;No;No;_;No;No;No;_;_;Venda
+140000;Poblenou-Zona Esportiva;107;4;1;1308;No;No;_;No;No;No;_;_;Venda
+115500;Poblenou-Zona Esportiva;115;3;1;1004;No;No;_;No;No;No;_;_;Venda
+115000;Ca nﾴAurell;74;3;1;1554;No;No;_;No;No;No;_;_;Venda
+159000;Pere parres;_;_;_;_;No;No;1973;No;No;No;_;D;Venda
+112000;Centre;49;1;1;2286;Si;Si;2002;No;No;Si;_;F;Venda
+399000;Can Palet de Vista Alegre;570;6;3;700;Si;No;2001;Si;Si;No;1;G;Venda
+165000;Sant Pere Nord;97;2;1;1701;No;No;_;No;No;No;_;_;Venda
+140000;Pere parres;54;2;1;2593;No;No;_;No;No;No;_;_;Venda
+98000;Can Palet;78;3;1;1256;No;No;_;No;No;No;_;_;Venda
+396000;Ca n�Aurell;190;3;2;2084;Si;No;1934;No;No;No;_;G;Venda
+176800;La Cogullada;69;3;2;2562;Si;No;1999;Si;No;Si;4;E;Venda
+850000;Can Gonteres;352;6;3;2415;Si;No;1995;Si;Si;No;2;G;Venda
+350000;La Cogullada;400;4;3;875;Si;Si;1970;Si;No;No;_;D;Venda
+420000;Centre;251;7;3;1673;Si;No;1968;No;No;Si;2;E;Venda
+810000;Centre;_;_;_;_;No;No;1900;No;No;No;_;G;Venda
+384400;Poblenou-Zona Esportiva;182;3;2;2112;Si;No;1992;Si;No;No;_;G;Venda
+96700;Segle XX;49;1;1;1973;No;No;2007;No;No;Si;_;E;Venda
+60000;Egara;45;2;1;1333;No;No;_;No;No;No;_;_;Venda
+154000;Egara;80;3;1;1925;No;No;_;No;No;Si;_;E;Venda
+173250;Montserrat;75;2;2;2310;Si;No;2002;No;No;Si;3;G;Venda
+209000;Segle XX;142;2;1;1472;No;No;_;No;No;No;_;_;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;Si;2010;Si;Si;No;_;E;Venda
+193000;La Cogullada;70;2;2;2757;Si;Si;2007;No;No;Si;3;E;Venda
+233000;Can Roca;60;2;1;3883;Si;Si;2005;Si;No;Si;_;E;Venda
+175000;Ca nﾴAnglada;78;2;1;2244;No;No;1967;No;No;No;_;F;Venda
+179000;Can Palet;86;2;1;2081;Si;Si;1981;Si;No;No;_;E;Venda
+87000;La Maurina;88;3;1;989;No;No;_;No;No;No;_;_;Venda
+259000;Can Roca;94;3;2;2755;Si;Si;2005;Si;No;Si;3;E;Venda
+109000;Centre;_;_;_;_;No;Si;2008;No;No;No;_;E;Venda
+190000;Escoles;110;4;2;1727;Si;No;1978;No;No;Si;_;E;Venda
+110500;Sant Pere Nord;60;2;1;1842;No;No;_;No;No;No;_;_;Venda
+114500;La Maurina;90;3;1;1272;No;No;_;No;No;No;_;_;Venda
+197000;La Maurina;120;3;2;1642;Si;No;1955;No;No;No;2;D;Venda
+217000;Roc Blanc;100;3;2;2170;Si;No;1996;Si;No;No;_;G;Venda
+250000;Torre-sana;176;5;2;1420;Si;No;1973;Si;No;No;_;E;Venda
+93000;Ca nﾴAnglada;78;3;1;1192;No;No;_;No;No;No;_;_;Venda
+131500;Les Arenes-La Gr�pia;79;3;1;1665;No;No;_;No;No;No;_;_;Venda
+240000;Les Arenes-La Gr�pia;114;3;2;2105;Si;Si;2003;Si;No;No;_;E;Venda
+307000;Centre;88;2;2;3489;Si;Si;2001;Si;No;Si;_;E;Venda
+495000;La Cogullada;493;12;4;1004;No;Si;1967;No;No;No;_;D;Venda
+287500;Poblenou-Zona Esportiva;100;2;2;2875;Si;Si;2000;Si;No;Si;7;G;Venda
+155000;Cementiri Vell;85;3;1;1824;No;No;_;No;No;No;_;_;Venda
+211000;Sant Pere Nord;92;3;1;2293;Si;No;1988;Si;No;Si;1;G;Venda
+188000;Cementiri Vell;90;3;2;2089;Si;No;1994;No;No;Si;2;E;Venda
+219000;Sant Pere;100;4;1;2190;Si;Si;1950;Si;No;No;_;E;Venda
+97500;Ca nﾴAnglada;99;3;1;985;No;No;_;No;No;No;_;_;Venda
+195000;Les Fonts;99;3;2;1970;No;No;_;No;No;No;_;G;Venda
+149000;Les Arenes-La Gr�pia;88;3;1;1693;Si;No;1975;No;No;No;1;_;Venda
+158000;Can Palet;99;4;2;1596;Si;Si;_;No;No;Si;_;G;Venda
+149000;Les Arenes-La Gr�pia;88;3;1;1693;Si;No;_;No;No;No;_;G;Venda
+180000;Poblenou-Zona Esportiva;129;4;2;1395;Si;No;1984;No;No;No;2;F;Venda
+225000;Ca n�Aurell;83;3;2;2711;Si;No;2021;Si;No;Si;_;_;Venda
+69000;Sant Lloren�;61;2;1;1131;No;No;1960;No;No;No;_;D;Venda
+220000;Centre;162;5;1;1358;No;No;1900;No;No;No;_;G;Venda
+124000;Cementiri Vell;66;3;1;1879;No;No;_;No;No;No;_;G;Venda
+130000;Cementiri Vell;65;3;1;2000;No;No;1970;No;No;Si;1;E;Venda
+120000;Segle XX;_;_;_;_;No;Si;_;No;No;No;_;G;Venda
+176000;Torre-sana;75;2;1;2347;No;No;2008;No;No;No;_;_;Venda
+199900;Ca n�Aurell;85;4;1;2352;Si;No;1975;No;No;Si;4;E;Venda
+129000;Sant Pere Nord;79;3;1;1633;Si;Si;1965;No;No;No;2;G;Venda
+384000;Can Palet de Vista Alegre;133;4;3;2887;No;No;_;No;No;No;_;G;Venda
+120000;Cementiri Vell;70;3;1;1714;Si;No;1972;No;No;Si;_;E;Venda
+63000;Sant Lloren�;61;3;1;1033;No;No;_;No;No;No;_;_;Venda
+177500;Centre;139;5;1;1277;No;No;1910;No;No;No;_;A;Venda
+192000;Torre-sana;90;3;2;2133;Si;Si;_;Si;No;Si;1;F;Venda
+228000;Ca nﾴAurell;150;4;2;1520;No;No;1979;No;No;No;1;C;Venda
+220000;Ca n�Anglada;234;3;3;940;Si;No;_;Si;No;No;_;G;Venda
+188000;La Maurina;113;3;1;1664;Si;Si;1958;No;No;No;2;E;Venda
+169900;Torre-sana;109;2;2;1559;Si;No;2006;Si;No;Si;2;G;Venda
+229000;Roc Blanc;113;3;2;2027;Si;No;1956;No;No;No;_;E;Venda
+277000;Centre;100;3;2;2770;Si;No;1997;Si;No;Si;3;E;Venda
+124000;Poblenou-Zona Esportiva;107;4;1;1159;No;No;1964;No;No;No;1;G;Venda
+143000;Can Boada;100;4;2;1430;Si;No;1985;No;No;Si;_;G;Venda
+99500;Egara;_;_;_;_;No;No;2006;Si;No;Si;_;G;Venda
+214000;Ca n�Anglada;192;3;2;1115;Si;No;_;No;No;No;_;G;Venda
+185000;Can Palet;153;2;1;1209;No;No;1935;No;No;No;_;E;Venda
+369000;Centre;116;4;3;3181;Si;Si;2004;Si;No;Si;1;D;Venda
+145000;Can Palet;70;3;1;2071;Si;Si;_;No;No;Si;3;F;Venda
+155000;Can Palet;99;4;2;1566;Si;Si;1992;Si;No;Si;1;F;Venda
+330000;Pere parres;154;4;2;2143;Si;Si;_;Si;No;No;_;E;Venda
+174000;Sant Pere Nord;78;2;1;2231;Si;No;1965;No;No;No;_;E;Venda
+460000;Sant Pere;230;4;3;2000;Si;Si;1956;Si;No;No;_;D;Venda
+157000;Can Jofresa;83;3;1;1892;Si;No;1975;No;No;Si;_;F;Venda
+95000;La Maurina;93;4;1;1022;No;No;_;No;No;No;_;_;Venda
+110000;Sant Lloren�;92;4;1;1196;No;No;_;No;No;No;_;_;Venda
+87000;Sant Lloren�;68;3;1;1279;No;No;_;No;No;No;_;_;Venda
+118000;Ca n�Anglada;75;3;1;1573;Si;No;1968;No;No;Si;_;G;Venda
+80000;Ca n�Anglada;71;3;1;1127;No;Si;1968;No;No;No;_;E;Venda
+94500;Sant Pere Nord;45;1;1;2100;Si;No;2008;No;No;Si;_;D;Venda
+210000;Poblenou-Zona Esportiva;101;3;2;2079;No;Si;2002;No;No;Si;_;E;Venda
+122000;Can Parellada;_;_;_;_;No;Si;_;No;No;Si;3;E;Venda
+310000;Poblenou-Zona Esportiva;137;3;2;2263;Si;Si;2003;Si;No;No;2;E;Venda
+132000;Poblenou-Zona Esportiva;130;4;1;1015;Si;No;1954;No;No;No;1;G;Venda
+126500;Les Arenes-La Gr�pia;80;3;1;1581;Si;No;1970;No;No;No;_;_;Venda
+83000;Egara;57;3;1;1456;No;No;_;No;No;No;_;_;Venda
+136000;Cementiri Vell;74;3;1;1838;Si;Si;1970;No;No;Si;1;E;Venda
+369000;Sant Pere Nord;210;5;3;1757;Si;Si;2021;Si;No;No;_;G;Venda
+255000;Ca n�Aurell;79;3;2;3228;Si;Si;2022;No;No;Si;1;G;Venda
+195000;Ca n�Aurell;90;2;2;2167;Si;Si;2004;Si;No;Si;3;E;Venda
+131500;Torre-sana;118;2;2;1114;No;No;_;No;No;No;_;_;Venda
+87500;Les Arenes-La Gr�pia;80;4;1;1094;No;No;_;No;No;No;_;_;Venda
+136500;Sant Pere Nord;118;2;1;1157;No;No;1980;No;No;No;_;_;Venda
+158000;Can Roca;79;2;1;2000;Si;Si;1960;No;No;No;2;G;Venda
+58000;La Maurina;_;_;_;_;No;No;1970;No;No;No;_;F;Venda
+193000;Pere parres;73;3;1;2644;Si;No;1931;No;No;No;_;E;Venda
+127000;Can Parellada;90;3;1;1411;Si;Si;_;No;No;Si;_;E;Venda
+120000;La Maurina;70;3;1;1714;Si;No;1965;Si;No;No;1;E;Venda
+162750;La Cogullada;70;3;1;2325;Si;No;1999;No;No;Si;3;E;Venda
+193000;Segle XX;59;2;1;3271;Si;No;2007;No;No;Si;3;F;Venda
+89500;La Maurina;83;3;1;1078;Si;No;1960;No;No;Si;3;G;Venda
+345000;Centre;123;4;2;2805;Si;No;1985;Si;No;Si;_;G;Venda
+309000;Can Palet;150;4;2;2060;Si;No;1988;Si;No;No;_;G;Venda
+249000;Ca n�Aurell;98;3;1;2541;Si;Si;_;No;No;Si;_;G;Venda
+159000;Pere parres;75;4;1;2120;No;No;1988;Si;No;Si;2;G;Venda
+112260;Ca n�Anglada;58;2;1;1936;Si;No;2008;No;No;Si;1;E;Venda
+168000;Roc Blanc;209;3;1;804;No;No;_;No;No;No;_;_;Venda
+115000;Centre;39;1;1;2949;No;No;2008;No;No;No;_;G;Venda
+95000;Ca nﾴAnglada;90;3;1;1056;No;No;_;No;No;No;_;_;Venda
+239000;Ca n�Aurell;79;3;2;3025;Si;Si;2022;No;No;Si;2;G;Venda
+165000;Cementiri Vell;84;2;1;1964;Si;Si;1972;Si;No;No;4;E;Venda
+130000;Sant Pere Nord;100;4;1;1300;Si;No;_;No;No;No;_;F;Venda
+249000;Poblenou-Zona Esportiva;135;3;2;1844;Si;Si;2000;Si;No;Si;7;G;Venda
+104000;Can Boada;85;3;1;1224;No;No;_;No;No;Si;_;G;Venda
+151000;Can Palet;107;3;1;1411;No;No;1973;No;No;No;_;G;Venda
+149000;Ca n�Anglada;_;_;_;_;Si;No;2007;No;No;Si;_;E;Venda
+208000;La Cogullada;132;3;2;1576;Si;Si;_;No;No;No;_;_;Venda
+145000;Can Palet;99;3;1;1465;Si;Si;1971;No;No;No;_;G;Venda
+130000;Poblenou-Zona Esportiva;50;1;1;2600;Si;Si;_;No;No;No;_;G;Venda
+389000;Ca n�Aurell;145;5;3;2683;Si;Si;_;No;No;Si;_;G;Venda
+139900;Ca nﾴAurell;94;2;1;1488;No;No;2008;No;No;No;_;E;Venda
+73000;Ca nﾴAnglada;68;3;1;1074;No;No;_;No;No;No;_;E;Venda
+165000;Centre;70;3;1;2357;Si;No;_;No;No;No;2;G;Venda
+168000;Can Palet;99;3;2;1697;Si;Si;2000;Si;No;Si;_;E;Venda
+270000;Centre;136;5;2;1985;Si;No;_;No;No;No;_;G;Venda
+190000;Poblenou-Zona Esportiva;90;4;2;2111;No;No;1998;Si;No;Si;1;E;Venda
+186000;Poblenou-Zona Esportiva;107;2;2;1738;Si;No;2001;No;No;Si;2;G;Venda
+205000;La Maurina;141;3;2;1454;Si;Si;2001;No;No;Si;1;E;Venda
+300000;Can Parellada;439;2;2;683;Si;Si;2002;No;No;No;_;E;Venda
+156000;Ca n�Aurell;86;2;1;1814;No;No;1996;No;No;Si;_;G;Venda
+159990;Can Boada;93;4;1;1720;Si;Si;1979;No;No;Si;3;G;Venda
+146000;La Cogullada;78;2;1;1872;No;No;_;No;No;No;_;_;Venda
+78000;Ca nﾴAnglada;71;3;1;1099;No;No;_;No;No;No;_;_;Venda
+131500;Ca nﾴAnglada;94;4;1;1399;No;No;_;No;No;No;_;_;Venda
+178000;Ca n�Aurell;85;4;1;2094;No;No;_;Si;No;Si;_;G;Venda
+320000;Can Palet;140;3;2;2286;Si;Si;2022;No;No;No;_;G;Venda
+140000;Can Boada;92;4;2;1522;Si;No;_;No;No;Si;_;G;Venda
+149900;Poblenou-Zona Esportiva;95;1;1;1578;No;No;1970;No;No;No;_;G;Venda
+113500;X�quer;86;3;1;1320;No;No;1976;No;No;No;_;_;Venda
+155000;Egara;80;3;1;1938;No;No;_;No;No;Si;3;G;Venda
+250890;Torre-sana;170;3;2;1476;Si;Si;2005;Si;No;Si;1;E;Venda
+168000;Sant Pere;77;3;2;2182;Si;No;1978;No;No;Si;2;E;Venda
+65900;Ca nﾴAnglada;70;3;1;941;No;No;1975;No;No;No;_;G;Venda
+396000;Ca n�Aurell;190;3;2;2084;Si;No;1934;No;No;No;_;G;Venda
+155000;Poblenou-Zona Esportiva;98;3;1;1582;Si;No;1980;No;No;No;2;G;Venda
+263000;Can Palet;143;1;1;1839;No;No;1944;No;No;No;_;G;Venda
+135500;Can Palet;69;2;2;1964;No;No;_;No;No;No;_;_;Venda
+106000;Sant Lloren�;81;3;1;1309;No;No;_;No;No;No;_;_;Venda
+230000;Les Martines;127;3;1;1811;No;No;1990;Si;No;No;_;G;Venda
+109200;Egara;81;3;1;1348;No;No;1970;No;No;No;3;F;Venda
+230000;Les Martines;127;3;1;1811;No;No;_;Si;No;No;1;G;Venda
+87000;Ca n�Anglada;71;3;1;1225;Si;No;1969;No;No;No;_;E;Venda
+340000;Roc Blanc;166;3;2;2048;Si;Si;1997;Si;Si;No;_;F;Venda
+76000;Ca nﾴAnglada;74;3;1;1027;No;No;1962;No;No;No;_;_;Venda
+299000;Vallparad�s;133;3;2;2248;No;No;1991;Si;No;Si;1;D;Venda
+309000;Sant Pere Nord;291;5;3;1062;No;No;_;No;No;No;_;G;Venda
+300000;Can Palet;434;5;2;691;Si;No;1978;No;No;No;_;F;Venda
+67900;Poblenou-Zona Esportiva;38;1;1;1787;No;No;1972;No;No;No;_;G;Venda
+116000;Can Palet;75;3;1;1547;Si;No;1967;No;No;Si;_;G;Venda
+168000;Sant Pere;105;3;3;1600;Si;Si;1978;No;No;Si;2;E;Venda
+80300;Sant Lloren�;61;3;1;1316;No;No;2001;No;No;No;_;G;Venda
+79000;Pere parres;36;1;1;2194;No;No;1989;No;No;Si;7;G;Venda
+330000;Poblenou-Zona Esportiva;113;3;3;2920;Si;Si;2022;Si;No;Si;4;G;Venda
+211000;Poblenou-Zona Esportiva;111;3;2;1901;Si;No;1990;Si;No;Si;1;G;Venda
+440000;Sant Pere;245;4;2;1796;Si;No;1965;Si;No;No;_;G;Venda
+80000;Ca nﾴAnglada;60;3;1;1333;No;No;1968;No;No;No;_;E;Venda
+122260;Ca nﾴAurell;_;_;_;_;No;No;1950;No;No;No;_;G;Venda
+65700;Ca nﾴAnglada;64;3;1;1027;No;No;1968;No;No;No;_;G;Venda
+140000;Can Palet;54;1;1;2593;No;No;2006;No;No;No;_;D;Venda
+211000;Poblenou-Zona Esportiva;110;3;2;1918;Si;No;1988;No;No;No;_;G;Venda
+129000;Sant Pere;51;1;1;2529;Si;No;_;No;No;Si;_;B;Venda
+269000;Sant Pere;85;3;2;3165;Si;No;_;No;No;Si;_;B;Venda
+153000;Ca nﾴAurell;111;4;1;1378;No;No;1961;No;No;No;1;E;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;Si;1997;Si;Si;No;_;E;Venda
+430000;Can Palet de Vista Alegre;213;2;2;2019;Si;Si;2000;No;No;No;_;C;Venda
+259000;Can Roca;94;3;2;2755;Si;Si;2005;Si;No;Si;3;E;Venda
+88500;Ca nﾴAnglada;72;3;1;1229;No;No;_;No;No;No;_;_;Venda
+145000;Sant Pere Nord;116;3;1;1250;No;No;_;No;No;No;_;_;Venda
+120000;Can Boada;63;3;1;1905;Si;Si;_;No;No;Si;_;F;Venda
+74900;Poblenou-Zona Esportiva;63;3;1;1189;No;No;1970;No;No;No;_;G;Venda
+157000;Can Palet de Vista Alegre;81;2;1;1938;No;No;1978;Si;No;No;1;F;Venda
+175000;Cementiri Vell;90;3;1;1944;Si;No;1975;No;No;Si;2;G;Venda
+200000;Sant Pere Nord;137;6;2;1460;No;No;1965;No;No;No;_;G;Venda
+120000;Can Roca;48;1;1;2500;Si;No;2004;No;No;Si;1;C;Venda
+112000;Centre;49;1;1;2286;Si;Si;2002;No;No;Si;_;E;Venda
+149000;Ca n�Aurell;104;4;2;1433;No;No;1975;Si;No;Si;6;E;Venda
+259000;Can Roca;94;3;2;2755;Si;Si;2005;Si;No;Si;3;E;Venda
+224900;Cementiri Vell;66;2;1;3408;Si;No;2007;Si;No;Si;_;E;Venda
+136000;Ca nﾴAurell;_;_;_;_;No;No;1950;No;No;No;_;G;Venda
+83000;Ca nﾴAurell;87;3;1;954;No;No;_;No;No;No;_;_;Venda
+262000;Centre;85;3;2;3082;Si;No;2001;Si;No;Si;2;E;Venda
+165000;Sant Pere Nord;77;2;1;2143;Si;No;_;No;No;Si;_;G;Venda
+129900;Can Palet;75;3;1;1732;No;No;1970;No;No;No;_;D;Venda
+92000;Ca nﾴAnglada;78;3;1;1179;No;No;_;No;No;No;_;_;Venda
+125500;Can Parellada;71;3;1;1768;No;No;_;No;No;No;_;_;Venda
+294000;Can Roca;105;3;2;2800;Si;Si;1999;Si;No;Si;3;E;Venda
+312500;Sant Pere Nord;189;4;2;1653;Si;Si;1990;Si;No;No;_;G;Venda
+49900;La Maurina;79;3;1;632;No;No;1959;No;No;No;_;G;Venda
+188000;La Maurina;113;3;1;1664;Si;Si;1958;No;No;No;2;E;Venda
+295000;Ca n�Anglada;174;4;2;1695;Si;Si;_;No;No;Si;_;A;Venda
+159950;Sant Pere Nord;77;2;1;2077;Si;Si;2008;Si;No;Si;_;G;Venda
+120000;Egara;70;3;1;1714;No;No;1965;No;No;Si;1;G;Venda
+230000;Cementiri Vell;75;3;2;3067;Si;No;2006;No;No;Si;2;G;Venda
+130900;Pere parres;80;3;1;1636;Si;No;1970;No;No;No;_;G;Venda
+233000;Les Martines;95;3;2;2453;Si;Si;_;Si;No;Si;_;G;Venda
+145000;Ca n�Anglada;104;4;1;1394;Si;No;1974;No;No;No;1;E;Venda
+182000;Ca n�Aurell;83;3;1;2193;Si;No;1966;No;No;No;3;G;Venda
+94900;Ca nﾴAnglada;70;3;1;1356;No;No;_;No;No;No;_;G;Venda
+179900;Poblenou-Zona Esportiva;_;_;_;_;No;No;1949;No;No;No;_;G;Venda
+150000;Can Palet;82;3;1;1829;Si;No;1980;No;No;No;_;_;Venda
+182000;Sant Pere Nord;_;_;_;_;No;No;1974;Si;No;No;_;_;Venda
+180000;Centre;112;3;1;1607;No;No;1910;No;No;No;_;F;Venda
+159500;Les Arenes-La Gr�pia;92;3;1;1734;No;No;_;No;No;No;_;_;Venda
+395000;Vallparad�s;104;3;2;3798;Si;Si;2022;No;No;Si;_;G;Venda
+336000;Centre;210;3;3;1600;Si;Si;1910;Si;No;No;3;E;Venda
+157000;Sant Pere Nord;77;2;1;2039;Si;Si;2008;Si;No;Si;2;F;Venda
+379000;Ca n�Aurell;137;4;3;2766;Si;Si;2022;Si;No;Si;5;G;Venda
+78000;Ca nﾴAnglada;76;3;1;1026;No;No;1971;No;No;No;_;G;Venda
+127000;Ca n�Aurell;106;4;2;1198;No;Si;1950;No;No;No;_;G;Venda
+337100;Sant Pere Nord;185;5;2;1822;Si;Si;1954;Si;No;No;_;E;Venda
+230000;Les Martines;123;3;1;1870;No;No;_;Si;No;No;_;G;Venda
+189000;Ca n�Anglada;240;3;3;788;Si;Si;1980;Si;No;No;1;G;Venda
+175000;Escoles;54;2;1;3241;Si;Si;2008;Si;No;Si;3;G;Venda
+59000;Montserrat;56;3;1;1054;No;No;1956;No;No;No;5;G;Venda
+135960;Torre-sana;63;2;2;2158;Si;No;2003;Si;No;Si;1;E;Venda
+200900;Cementiri Vell;92;3;2;2184;Si;No;1994;Si;No;Si;2;F;Venda
+385000;Les Arenes-La Gr�pia;460;5;2;837;No;Si;1986;Si;No;No;_;G;Venda
+380000;Centre;113;3;2;3363;Si;Si;_;Si;No;Si;_;G;Venda
+370000;Centre;113;3;2;3274;Si;Si;_;Si;No;Si;_;G;Venda
+370000;Centre;116;3;2;3190;Si;Si;_;Si;No;Si;_;G;Venda
+410000;Centre;136;4;2;3015;Si;Si;_;Si;No;Si;_;G;Venda
+380000;Centre;113;3;2;3363;Si;Si;_;Si;No;Si;_;G;Venda
+410000;Centre;124;4;2;3306;Si;Si;_;Si;No;Si;_;G;Venda
+227000;Sant Pere;86;2;2;2640;Si;No;2021;No;No;No;_;G;Venda
+490000;Pere parres;300;4;3;1633;Si;Si;1991;Si;No;No;2;G;Venda
+345000;Sant Pere;155;3;3;2226;Si;No;_;No;No;No;1;G;Venda
+225000;Can Boada;110;4;2;2045;Si;Si;1979;No;No;Si;1;G;Venda
+150000;Roc Blanc;55;2;1;2727;Si;No;_;Si;No;Si;_;G;Venda
+75000;Egara;68;2;1;1103;No;No;_;No;No;No;_;_;Venda
+189000;Segle XX;63;2;1;3000;Si;Si;2011;No;No;Si;_;G;Venda
+90000;Sant Pere Nord;61;3;1;1475;No;Si;1970;No;No;No;_;G;Venda
+295000;Sant Pere;141;3;2;2092;No;Si;2021;Si;No;Si;_;G;Venda
+126000;Segle XX;_;_;_;_;No;No;_;No;No;Si;_;G;Venda
+650000;Centre;300;4;3;2167;Si;Si;2021;Si;No;No;_;G;Venda
+255000;Escoles;102;4;2;2500;Si;No;1991;Si;No;Si;1;G;Venda
+330000;Pere parres;154;4;2;2143;Si;Si;1950;Si;No;No;2;C;Venda
+335000;Les Arenes-La Gr�pia;263;6;3;1274;Si;No;1995;Si;No;No;2;G;Venda
+165000;Ca n�Aurell;43;2;1;3837;Si;No;2021;No;No;Si;1;G;Venda
+262500;Ca n�Aurell;82;3;2;3201;Si;Si;2022;Si;No;Si;1;G;Venda
+248000;Ca n�Aurell;79;3;2;3139;Si;Si;2022;Si;No;Si;2;G;Venda
+250000;Ca n�Aurell;79;3;2;3165;Si;Si;2022;Si;No;Si;3;G;Venda
+250000;Ca n�Aurell;82;3;2;3049;Si;Si;2022;Si;No;Si;3;G;Venda
+275000;Ca n�Aurell;95;4;2;2895;Si;Si;2022;Si;No;Si;1;G;Venda
+187500;Ca n�Aurell;56;2;1;3348;Si;Si;2022;Si;No;Si;1;G;Venda
+286000;Ca n�Aurell;95;4;2;3011;Si;Si;2022;Si;No;Si;2;G;Venda
+139990;Segle XX;45;1;1;3111;No;Si;2004;No;No;Si;3;D;Venda
+165000;Can Jofresa;110;3;1;1500;Si;Si;1975;No;No;Si;2;D;Venda
+229900;Cementiri Vell;60;2;1;3832;Si;Si;2007;Si;No;Si;1;G;Venda
+107000;Torre-sana;70;2;1;1529;No;No;_;No;No;Si;_;G;Venda
+199900;Ca n�Aurell;100;4;1;1999;No;No;1964;No;No;Si;_;G;Venda
+165000;Ca n�Aurell;120;5;2;1375;Si;No;_;No;No;No;4;F;Venda
+165000;Ca n�Aurell;120;5;2;1375;Si;No;_;No;No;No;4;F;Venda
+212500;Poblenou-Zona Esportiva;90;2;2;2361;Si;Si;_;Si;No;Si;_;A;Venda
+247000;Poblenou-Zona Esportiva;86;3;2;2872;Si;Si;2000;Si;No;Si;1;E;Venda
+74000;Ca nﾴAurell;70;3;1;1057;No;No;_;No;No;No;_;G;Venda
+380000;Segle XX;248;3;2;1532;Si;Si;2022;Si;No;No;_;G;Venda
+313000;Pere parres;98;3;2;3194;Si;Si;_;No;No;Si;_;A;Venda
+339000;Sant Pere;280;3;1;1211;Si;No;1979;Si;No;No;_;G;Venda
+148000;Sant Pere Nord;92;3;1;1609;Si;No;1965;No;No;Si;3;G;Venda
+248800;Pere parres;85;3;2;2927;Si;No;1983;No;No;No;_;E;Venda
+141000;Ca n�Anglada;128;2;2;1102;Si;No;2008;No;No;Si;_;E;Venda
+117100;Ca n�Anglada;42;1;1;2788;Si;Si;_;No;No;Si;_;A;Venda
+227000;Ca n�Anglada;91;3;2;2495;Si;Si;_;No;No;Si;_;A;Venda
+162300;Ca n�Anglada;77;2;2;2108;Si;Si;_;No;No;Si;_;A;Venda
+209000;Ca n�Aurell;87;4;1;2402;Si;No;1971;No;No;Si;_;G;Venda
+120000;Egara;79;4;1;1519;No;No;1965;No;No;No;_;F;Venda
+152000;Ca n�Aurell;47;1;1;3234;Si;Si;2022;Si;No;Si;5;G;Venda
+209000;Can Roca;75;3;2;2787;Si;Si;2003;Si;No;Si;_;B;Venda
+585000;Ca n�Aurell;240;4;3;2438;Si;Si;_;Si;No;Si;_;G;Venda
+309000;Sant Pere Nord;_;_;_;_;Si;No;2000;No;No;No;_;G;Venda
+90000;Sant Pere Nord;70;3;1;1286;No;No;_;No;No;No;3;G;Venda
+144000;Poblenou-Zona Esportiva;50;2;1;2880;Si;No;2003;Si;No;Si;_;E;Venda
+190000;Vallparad�s;98;3;2;1939;Si;No;1978;No;No;Si;_;E;Venda
+426600;Centre;110;4;2;3878;Si;Si;2005;Si;No;Si;_;G;Venda
+229000;Poblenou-Zona Esportiva;167;2;1;1371;Si;No;1975;Si;No;Si;_;F;Venda
+209000;Segle XX;75;2;1;2787;No;No;_;No;No;No;_;G;Venda
+270000;Pere parres;120;4;2;2250;Si;No;1990;Si;No;Si;6;G;Venda
+94500;Torre-sana;48;1;1;1969;No;No;2008;No;No;No;_;_;Venda
+161000;Can Boada;91;3;1;1769;Si;No;_;No;No;No;1;G;Venda
+169000;Cementiri Vell;74;2;1;2284;Si;No;2006;No;No;Si;1;G;Venda
+208000;Poblenou-Zona Esportiva;112;4;2;1857;Si;Si;1950;No;No;No;_;G;Venda
+149900;Ca n�Anglada;110;2;2;1363;Si;No;2005;No;No;Si;3;G;Venda
+139000;Vallparad�s;154;3;1;903;Si;No;1963;No;No;No;_;E;Venda
+368000;Centre;190;3;2;1937;Si;No;1905;Si;No;No;2;G;Venda
+469500;Sant Pere;260;4;3;1806;Si;Si;2020;Si;No;No;_;G;Venda
+65000;Ca nﾴAnglada;63;3;1;1032;No;No;_;No;No;No;1;F;Venda
+182000;Ca n�Aurell;55;2;1;3309;Si;Si;2022;Si;No;Si;1;G;Venda
+140000;Ca n�Aurell;45;1;1;3111;Si;Si;2022;Si;No;Si;1;G;Venda
+168000;Ca n�Aurell;45;1;1;3733;Si;Si;2022;Si;No;Si;4;G;Venda
+89900;Torre-sana;37;1;1;2430;Si;No;2006;No;No;Si;_;G;Venda
+185000;Can Palet;172;3;1;1076;No;No;_;No;No;No;_;E;Venda
+120000;Segle XX;46;1;1;2609;No;No;2010;No;No;No;_;_;Venda
+93500;Ca nﾴAurell;43;1;1;2174;No;No;_;No;No;No;_;_;Venda
+348000;Sant Pere Nord;170;3;3;2047;Si;Si;1957;Si;No;No;_;D;Venda
+185000;Can Palet;172;2;1;1076;No;No;_;No;No;No;_;E;Venda
+180000;Poblenou-Zona Esportiva;90;3;1;2000;Si;Si;_;No;No;No;1;G;Venda
+194500;Segle XX;95;1;2;2047;No;No;_;No;No;No;_;_;Venda
+163000;Cementiri Vell;74;2;1;2203;Si;No;2001;No;No;Si;_;G;Venda
+194000;Can Roca;93;3;2;2086;Si;Si;2006;Si;No;Si;3;G;Venda
+158000;Can Palet;86;3;1;1837;Si;No;2001;Si;No;Si;1;D;Venda
+132900;Sant Pere Nord;82;4;1;1621;No;No;1970;No;No;No;1;G;Venda
+217000;Centre;229;2;2;948;No;No;_;No;No;No;_;_;Venda
+183500;Can Roca;79;3;2;2323;Si;Si;1996;Si;No;Si;2;G;Venda
+229000;Can Palet;250;3;1;916;Si;No;1960;No;No;No;1;G;Venda
+229000;Poblenou-Zona Esportiva;167;2;1;1371;No;No;1975;No;No;No;_;F;Venda
+124000;La Maurina;84;2;1;1476;No;No;_;No;No;No;_;_;Venda
+119000;La Maurina;118;3;1;1008;No;No;_;No;No;No;_;G;Venda
+379000;Les Martines;5.3;5;2;72;Si;No;1980;Si;Si;No;_;E;Venda
+139000;Ca n�Anglada;88;4;1;1580;Si;Si;_;No;No;No;2;E;Venda
+179000;Pere parres;90;4;2;1989;Si;No;1979;No;No;Si;1;G;Venda
+110000;Can Boada;89;3;1;1236;No;No;_;No;No;No;_;_;Venda
+295000;Poblenou-Zona Esportiva;112;3;2;2634;Si;Si;_;Si;No;Si;_;G;Venda
+279000;Centre;112;4;2;2491;Si;No;_;No;No;Si;1;G;Venda
+279000;Centre;92;4;2;3033;Si;No;2000;No;No;Si;1;G;Venda
+175000;Can Palet;63;2;2;2778;Si;Si;_;Si;No;Si;_;_;Venda
+157300;La Maurina;70;3;1;2247;Si;No;_;No;No;No;_;G;Venda
+157500;Torre-sana;64;2;1;2461;No;No;2008;No;No;No;_;_;Venda
+190000;Can Palet;92;2;1;2065;No;Si;1958;No;No;No;1;G;Venda
+169900;Sant Pere Nord;220;3;1;772;No;No;1974;No;No;No;_;F;Venda
+140000;Can Palet;82;3;1;1707;Si;No;1992;Si;No;Si;2;E;Venda
+225000;Poblenou-Zona Esportiva;85;3;1;2647;No;No;1961;No;No;No;_;E;Venda
+457000;Vallparad�s;250;4;3;1828;Si;Si;2021;Si;No;No;_;D;Venda
+94500;Egara;41;1;1;2305;No;No;_;No;No;No;_;_;Venda
+225000;Ca n�Aurell;85;3;2;2647;Si;No;2021;Si;No;Si;_;_;Venda
+190000;Ca n�Aurell;66;2;1;2879;Si;No;2021;Si;No;Si;_;_;Venda
+359900;Les Martines;252;6;3;1428;Si;Si;2003;Si;Si;No;_;D;Venda
+164900;Sant Pere Nord;105;3;2;1570;Si;No;2002;No;No;Si;3;G;Venda
+142000;Segle XX;77;3;2;1844;Si;Si;_;No;No;Si;1;E;Venda
+149900;Poblenou-Zona Esportiva;96;1;1;1561;No;No;1970;No;No;No;_;F;Venda
+248800;Pere parres;133;2;1;1871;Si;No;1983;No;No;Si;_;E;Venda
+75000;Ca n�Anglada;45;1;1;1667;Si;No;_;Si;No;Si;_;G;Venda
+169900;Sant Pere Nord;146;4;2;1164;No;No;_;No;No;No;_;F;Venda
+145000;Sant Pere Nord;100;4;1;1450;No;No;_;No;No;Si;_;G;Venda
+99000;Can Palet;87;3;1;1138;No;No;1978;No;No;Si;1;E;Venda
+157500;La Cogullada;85;2;1;1853;Si;Si;2005;Si;No;Si;_;G;Venda
+460000;Poblenou-Zona Esportiva;484;4;4;950;Si;Si;1998;Si;Si;Si;3;C;Venda
+262500;Ca n�Aurell;81;3;2;3241;Si;Si;_;Si;No;Si;_;G;Venda
+248000;Ca n�Aurell;78;3;2;3179;Si;Si;_;Si;No;Si;_;G;Venda
+250000;Ca n�Aurell;78;3;2;3205;Si;Si;_;Si;No;Si;_;G;Venda
+250000;Ca n�Aurell;81;3;2;3086;Si;Si;_;Si;No;Si;_;G;Venda
+275000;Ca n�Aurell;94;4;2;2926;Si;Si;_;Si;No;Si;_;G;Venda
+182000;Ca n�Aurell;55;2;1;3309;Si;Si;_;Si;No;Si;_;G;Venda
+187500;Ca n�Aurell;56;2;1;3348;Si;Si;_;Si;No;Si;_;G;Venda
+140000;Ca n�Aurell;44;1;1;3182;Si;Si;_;Si;No;Si;_;G;Venda
+286000;Ca n�Aurell;94;4;2;3043;Si;Si;_;Si;No;Si;_;G;Venda
+249000;Sant Pere Nord;134;3;2;1858;Si;Si;2022;Si;No;Si;3;_;Venda
+379000;Ca n�Aurell;196;4;3;1934;Si;Si;_;Si;No;Si;_;G;Venda
+255000;Poblenou-Zona Esportiva;89;3;2;2865;Si;Si;_;Si;No;Si;_;G;Venda
+106000;Ca n�Anglada;53;2;1;2000;Si;No;2008;No;No;Si;2;E;Venda
+330000;Centre;185;2;3;1784;No;No;2006;Si;No;No;_;G;Venda
+349000;Egara;611;4;2;571;Si;No;1976;Si;No;No;_;G;Venda
+425000;La Cogullada;150;4;2;2833;Si;Si;_;Si;No;No;2;G;Venda
+120000;Can Roca;48;1;1;2500;Si;No;2004;No;No;Si;_;G;Venda
+288000;Ca n�Aurell;96;4;2;3000;Si;Si;_;Si;No;Si;_;G;Venda
+215000;Poblenou-Zona Esportiva;69;2;2;3116;Si;Si;_;Si;No;Si;_;G;Venda
+148000;Can Boada;78;3;2;1897;Si;No;2001;No;No;Si;3;G;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;Si;_;Si;No;No;_;E;Venda
+152000;Ca n�Aurell;47;1;1;3234;Si;Si;_;Si;No;Si;_;G;Venda
+136200;Ca n�Aurell;60;3;1;2270;Si;Si;1991;Si;No;No;3;E;Venda
+178000;Can Palet;75;2;2;2373;Si;Si;2005;Si;No;Si;3;E;Venda
+181000;Ca n�Anglada;182;4;2;995;Si;Si;1959;Si;No;No;_;C;Venda
+135000;Can Boada;72;3;2;1875;Si;No;_;No;No;Si;5;G;Venda
+199500;Roc Blanc;119;2;1;1676;Si;Si;1995;Si;No;No;2;G;Venda
+152000;Ca n�Aurell;45;1;1;3378;Si;Si;_;Si;No;Si;_;G;Venda
+97000;Ca n�Anglada;82;3;1;1183;Si;Si;1971;No;No;No;1;G;Venda
+136000;Cementiri Vell;94;3;1;1447;Si;Si;1970;No;No;Si;1;E;Venda
+168000;Ca n�Aurell;45;1;1;3733;Si;Si;_;Si;No;Si;_;G;Venda
+190000;Vallparad�s;98;3;2;1939;Si;No;_;No;No;Si;1;E;Venda
+142500;Ca n�Aurell;44;1;1;3239;Si;Si;_;Si;No;Si;_;G;Venda
+580000;Centre;423;5;3;1371;Si;No;1914;No;No;No;3;E;Venda
+174500;Torre-sana;90;3;1;1939;Si;No;_;Si;No;Si;_;G;Venda
+132000;Can Palet;75;3;1;1760;No;No;1979;No;No;No;2;G;Venda
+179000;Pere parres;70;2;1;2557;Si;No;_;No;No;Si;_;G;Venda
+225000;Poblenou-Zona Esportiva;90;4;2;2500;Si;Si;_;No;No;Si;1;G;Venda
+180000;Poblenou-Zona Esportiva;49;1;1;3673;Si;Si;_;Si;No;Si;_;G;Venda
+160000;Poblenou-Zona Esportiva;49;1;1;3265;Si;Si;_;Si;No;Si;_;G;Venda
+169000;Ca n�Anglada;120;3;2;1408;Si;No;1979;No;No;No;1;G;Venda
+193000;La Cogullada;70;2;2;2757;Si;Si;2007;No;No;Si;3;G;Venda
+169000;Sant Pere Nord;220;3;2;768;No;No;1974;Si;No;No;2;G;Venda
+194000;Can Roca;90;3;2;2156;Si;Si;2006;Si;No;Si;3;G;Venda
+129000;Sant Pere;79;3;1;1633;Si;Si;1965;No;No;No;2;G;Venda
+69900;Montserrat;65;3;1;1075;No;No;_;No;No;No;1;E;Venda
+195000;Segle XX;75;3;2;2600;Si;Si;2003;Si;No;No;2;E;Venda
+205650;Les Fonts;93;3;2;2211;Si;Si;50;Si;No;Si;_;A;Venda
+154000;Can Palet;249;4;1;618;Si;No;1950;No;No;No;_;_;Venda
+348000;Sant Pere Nord;153;3;3;2275;Si;No;2006;Si;No;No;_;D;Venda
+130000;Can Palet;64;2;1;2031;Si;Si;2006;No;No;Si;2;D;Venda
+175000;Egara;185;3;2;1;Si;No;_;No;No;Si;_;G;Venda
+224900;Cementiri Vell;60;2;1;3748;Si;Si;2007;Si;No;Si;1;C;Venda
+159900;Sant Pere Nord;220;3;2;727;No;No;1974;Si;No;No;_;_;Venda
+196000;La Maurina;141;3;2;1390;Si;Si;2001;No;No;Si;_;G;Venda
+348000;Sant Pere Nord;237;3;3;1468;Si;Si;2008;Si;No;No;_;D;Venda
+194000;Can Roca;93;3;2;2086;Si;Si;2006;Si;No;Si;3;_;Venda
+207000;Poblenou-Zona Esportiva;90;3;2;2300;No;Si;1999;Si;No;No;_;D;Venda
+375000;Ca n�Aurell;161;3;3;2329;Si;No;_;Si;No;No;_;G;Venda
+106000;Ca nﾴAnglada;96;3;1;1104;No;No;_;No;No;No;_;G;Venda
+235000;Vallparad�s;139;4;2;1691;Si;Si;2000;No;No;Si;4;E;Venda
+180000;Vallparad�s;100;4;2;1800;Si;No;_;No;No;Si;_;G;Venda
+93000;Montserrat;40;1;1;2325;Si;No;2010;No;No;Si;1;E;Venda
+650000;Centre;382;4;5;1702;Si;Si;2021;No;Si;Si;_;G;Venda
+181000;Torre-sana;70;2;1;2586;Si;Si;2003;Si;No;Si;2;G;Venda
+78000;Ca nﾴAnglada;76;3;1;1026;No;No;_;No;No;No;_;_;Venda
+237000;Sant Pere Nord;125;4;2;1896;Si;No;_;No;No;No;3;E;Venda
+140000;Ca n�Aurell;45;1;1;3111;Si;Si;2022;Si;No;Si;1;G;Venda
+161000;Sant Pere;89;2;2;1809;No;No;_;No;No;No;_;D;Venda
+140000;Can Palet;47;2;1;2979;Si;No;2011;No;No;Si;_;D;Venda
+379000;Les Martines;235;6;2;1613;No;No;1980;Si;Si;No;_;E;Venda
+228000;Pere parres;81;2;1;2815;Si;Si;_;Si;No;Si;_;A;Venda
+325000;Pere parres;108;3;2;3009;Si;Si;_;Si;No;Si;_;A;Venda
+189000;Pere parres;73;2;2;2589;Si;Si;_;Si;No;Si;_;A;Venda
+258000;Pere parres;87;3;2;2966;Si;Si;_;Si;No;Si;_;A;Venda
+168000;Pere parres;55;1;1;3055;Si;Si;_;Si;No;Si;_;A;Venda
+225000;Ca n�Anglada;174;4;2;1293;Si;No;_;No;No;No;_;G;Venda
+290000;Centre;187;3;2;1551;Si;No;1956;No;No;Si;3;F;Venda
+236000;Ca n�Anglada;100;3;1;2360;Si;Si;1998;No;No;Si;2;G;Venda
+215000;Poblenou-Zona Esportiva;70;2;2;3071;Si;No;2022;Si;No;Si;4;G;Venda
+186000;La Cogullada;61;2;1;3049;Si;Si;2002;Si;No;Si;1;G;Venda
+235000;Les Arenes-La Gr�pia;110;3;2;2136;Si;Si;2004;Si;No;Si;2;E;Venda
+139900;Ca n�Aurell;93;3;2;1504;Si;No;2008;No;No;No;_;E;Venda
+497000;Poblenou-Zona Esportiva;342;4;4;1453;Si;Si;1991;Si;No;No;_;C;Venda
+162200;Roc Blanc;81;1;1;2002;No;No;_;No;No;No;_;_;Venda
+152700;Cementiri Vell;100;2;1;1527;No;No;_;No;No;No;_;_;Venda
+270000;Can Boada;111;4;2;2432;Si;No;1998;No;No;Si;1;G;Venda
+191500;Sant Pere;60;2;1;3192;Si;No;2012;No;No;Si;1;G;Venda
+180000;Poblenou-Zona Esportiva;50;2;1;3600;Si;No;2022;Si;No;Si;1;G;Venda
+360000;Pere parres;117;3;2;3077;Si;Si;2002;Si;No;Si;_;F;Venda
+385000;Vallparad�s;163;4;3;2362;No;No;2021;Si;No;No;_;G;Venda
+295000;Centre;143;7;2;2063;Si;No;1969;No;No;Si;3;G;Venda
+295000;Ca n�Aurell;73;3;2;4041;Si;Si;_;Si;No;Si;1;A;Venda
+118000;Can Boada;53;1;1;2226;Si;No;2005;No;No;Si;2;G;Venda
+168000;Sant Pere;87;3;2;1931;Si;Si;1978;No;No;Si;2;E;Venda
+135000;Pere parres;55;2;1;2455;Si;No;_;No;No;Si;1;E;Venda
+149000;Les Arenes-La Gr�pia;88;3;1;1693;No;No;_;No;No;No;_;E;Venda
+119900;Sant Pere Nord;65;3;1;1845;Si;Si;1966;No;No;No;4;G;Venda
+96000;Vallparad�s;95;1;1;1011;No;No;_;No;No;Si;_;G;Venda
+460000;Poblenou-Zona Esportiva;230;4;3;2000;Si;Si;1956;Si;No;No;_;D;Venda
+396000;Ca n�Aurell;190;3;2;2084;Si;No;1934;No;No;No;_;G;Venda
+285000;Sant Pere Nord;118;2;2;2415;Si;Si;2000;Si;No;Si;7;E;Venda
+112000;Centre;37;1;1;3027;Si;Si;2002;No;No;Si;_;F;Venda
+160000;Poblenou-Zona Esportiva;49;1;2;3265;Si;No;2022;Si;No;Si;2;G;Venda
+225000;Cementiri Vell;78;3;1;2885;Si;Si;1968;No;No;No;1;E;Venda
+248800;Pere parres;95;3;2;2619;Si;Si;1983;No;No;Si;_;E;Venda
+169000;Torre-sana;87;2;2;1943;Si;Si;_;Si;No;Si;2;G;Venda
+525000;Poblenou-Zona Esportiva;278;5;4;1888;Si;Si;1989;Si;No;No;2;G;Venda
+103000;Can Palet;64;3;1;1609;No;No;1971;No;No;No;3;E;Venda
+135000;Sant Pere;45;1;1;3000;Si;No;_;No;No;Si;_;B;Venda
+150990;Ca n�Aurell;72;2;2;2097;Si;No;2008;No;No;Si;_;_;Venda
+330000;Vallparad�s;365;8;3;904;No;No;_;No;No;No;_;_;Venda
+246000;Les Fonts;130;3;2;1892;No;No;_;No;No;No;_;G;Venda
+320000;Ca n�Aurell;108;3;2;2963;Si;Si;2020;No;No;Si;_;G;Venda
+299000;Sant Pere Nord;150;6;2;1993;Si;No;_;No;No;Si;_;E;Venda
+68000;Poblenou-Zona Esportiva;36;1;1;1889;No;No;1950;No;No;No;_;G;Venda
+142000;Segle XX;83;3;1;1711;Si;No;1978;No;No;Si;1;E;Venda
+206000;Can Palet;148;4;2;1392;Si;Si;2002;No;No;Si;3;E;Venda
+83000;Segle XX;52;1;1;1596;No;No;_;No;No;No;_;_;Venda
+147000;Can Jofresa;110;4;2;1336;No;No;1975;No;No;Si;9;G;Venda
+130000;Sant Pere Nord;118;1;1;1102;No;No;1960;No;No;No;_;_;Venda
+224900;Cementiri Vell;78;2;1;2883;Si;No;2007;Si;No;Si;1;C;Venda
+113000;Can Palet;66;3;1;1712;Si;Si;1980;Si;No;Si;3;G;Venda
+164000;La Cogullada;62;2;1;2645;Si;No;2006;Si;No;Si;1;G;Venda
+170000;Ca n�Aurell;87;3;2;1954;Si;Si;1975;No;No;Si;2;G;Venda
+236000;Ca n�Aurell;72;3;2;3278;Si;No;2006;No;No;Si;_;G;Venda
+262500;Ca n�Aurell;86;3;2;3052;Si;Si;2023;Si;No;Si;1;G;Venda
+396000;Ca n�Aurell;145;3;2;2731;Si;No;1934;No;No;No;_;G;Venda
+194000;Can Roca;90;3;2;2156;Si;Si;2006;Si;No;Si;3;D;Venda
+320000;Poblenou-Zona Esportiva;103;3;2;3107;Si;Si;2022;Si;No;Si;_;G;Venda
+89500;Montserrat;56;3;1;1598;Si;Si;1956;No;No;No;_;D;Venda
+350000;Centre;313;4;2;1118;Si;No;1980;Si;No;No;_;G;Venda
+345000;Ca n�Aurell;110;3;2;3136;No;No;_;Si;No;No;_;G;Venda
+265000;Vallparad�s;159;4;2;1667;Si;No;1988;Si;No;No;2;G;Venda
+279000;Centre;92;4;2;3033;Si;No;2000;No;No;Si;1;G;Venda
+225000;Centre;96;4;2;2344;Si;Si;1976;No;No;Si;5;_;Venda
+207000;Can Palet;85;3;2;2435;No;No;2003;Si;No;Si;_;G;Venda
+199900;Ca n�Aurell;126;4;1;1587;Si;No;1964;No;No;Si;3;G;Venda
+190000;Poblenou-Zona Esportiva;93;2;1;2043;Si;No;1994;No;No;Si;_;E;Venda
+81000;Egara;57;3;1;1421;No;No;_;No;No;No;_;_;Venda
+81000;Egara;57;3;1;1421;No;No;_;No;No;No;_;_;Venda
+139000;Can Palet;105;4;1;1324;No;No;1995;No;No;Si;4;G;Venda
+163000;Can Boada;86;3;2;1895;Si;Si;_;Si;No;No;1;G;Venda
+202500;Les Martines;104;2;1;1947;Si;Si;_;Si;No;Si;_;G;Venda
+235500;Les Martines;82;3;2;2872;Si;Si;_;Si;No;Si;_;G;Venda
+245000;Les Martines;108;3;2;2269;Si;Si;_;Si;No;Si;_;G;Venda
+233000;Les Martines;104;3;2;2240;Si;Si;_;Si;No;Si;_;G;Venda
+194500;Les Martines;82;2;1;2372;Si;Si;_;Si;No;Si;_;G;Venda
+330000;Les Arenes-La Gr�pia;177;5;2;1864;Si;Si;2003;Si;No;Si;3;G;Venda
+294000;Can Roca;115;3;2;2557;Si;Si;1999;No;No;Si;3;E;Venda
+384400;Sant Pere;182;3;2;2112;Si;No;1992;No;No;No;_;D;Venda
+269900;Vallparad�s;135;3;2;1999;Si;Si;2005;Si;No;Si;4;G;Venda
+119900;Ca nﾴAnglada;95;5;1;1262;No;No;1947;No;No;No;_;G;Venda
+263000;Cementiri Vell;143;1;1;1839;No;No;1944;No;No;No;_;G;Venda
+229800;Sant Pere Nord;260;4;3;884;Si;Si;1983;No;No;No;_;E;Venda
+233000;Les Martines;104;3;2;2240;Si;Si;_;Si;No;Si;_;G;Venda
+194500;Les Martines;82;2;1;2372;Si;Si;_;Si;No;Si;_;G;Venda
+330000;Les Arenes-La Gr�pia;177;5;2;1864;Si;Si;2003;Si;No;Si;3;G;Venda
+294000;Can Roca;115;3;2;2557;Si;Si;1999;No;No;Si;3;E;Venda
+384400;Sant Pere;182;3;2;2112;Si;No;1992;No;No;No;_;D;Venda
+269900;Vallparad�s;135;3;2;1999;Si;Si;2005;Si;No;Si;4;G;Venda
+119900;Ca nﾴAnglada;95;5;1;1262;No;No;1947;No;No;No;_;G;Venda
+263000;Cementiri Vell;143;1;1;1839;No;No;1944;No;No;No;_;G;Venda
+229800;Sant Pere Nord;260;4;3;884;Si;Si;1983;No;No;No;_;E;Venda
+193900;Ca n�Aurell;71;2;2;2731;Si;Si;2004;Si;No;Si;3;E;Venda
+99000;La Maurina;93;4;1;1065;No;No;1958;No;No;No;_;G;Venda
+235000;Les Martines;95;3;2;2474;Si;Si;_;Si;No;Si;_;G;Venda
+195000;Les Martines;88;2;1;2216;Si;Si;_;Si;No;Si;_;G;Venda
+256000;Les Martines;98;3;2;2612;Si;Si;_;Si;No;Si;_;G;Venda
+258000;Les Martines;99;3;2;2606;Si;Si;_;Si;No;Si;_;G;Venda
+176400;Torre-sana;98;2;1;1800;No;No;1998;No;No;Si;2;G;Venda
+129900;Ca nﾴAurell;140;3;2;928;No;No;_;No;No;No;_;G;Venda
+160000;Vallparad�s;94;4;1;1702;No;No;1967;No;No;Si;_;E;Venda
+146000;Can Jofresa;95;4;2;1537;Si;Si;1975;No;No;Si;5;E;Venda
+112260;Ca n�Anglada;58;2;1;1936;Si;No;2008;No;No;Si;1;G;Venda
+259000;Ca n�Aurell;122;4;2;2123;Si;No;1969;Si;No;Si;2;G;Venda
+59900;La Maurina;59;2;1;1015;No;No;1950;No;No;No;1;G;Venda
+125000;Ca n�Aurell;46;1;1;2717;Si;Si;2006;No;No;Si;1;G;Venda
+180000;Segle XX;102;2;2;1765;Si;No;2007;No;No;Si;3;G;Venda
+198000;Vallparad�s;97;3;2;2041;Si;No;2002;Si;No;Si;2;E;Venda
+189000;Pere parres;136;3;2;1390;Si;No;2009;Si;No;Si;_;G;Venda
+125000;Escoles;40;1;1;3125;Si;Si;1971;No;No;Si;_;G;Venda
+226000;Les Arenes-La Gr�pia;90;3;2;2511;Si;Si;_;Si;No;Si;1;G;Venda
+145000;Ca n�Aurell;45;1;1;3222;Si;Si;2005;Si;No;Si;1;E;Venda
+204000;Ca n�Aurell;100;3;2;2040;Si;No;_;No;No;No;_;G;Venda
+204000;Ca n�Aurell;100;3;2;2040;Si;No;_;No;No;No;_;G;Venda
+120000;Can Roca;48;1;1;2500;Si;No;2004;No;No;Si;1;C;Venda
+126000;Ca n�Anglada;75;3;1;1680;Si;No;1960;No;No;No;_;D;Venda
+229900;Cementiri Vell;65;2;1;3537;Si;Si;2007;Si;No;Si;1;G;Venda
+116000;Can Palet;78;3;1;1487;Si;No;1969;No;No;Si;6;F;Venda
+315000;Escoles;_;_;_;_;Si;Si;2001;No;No;Si;3;E;Venda
+180000;Segle XX;82;2;2;2195;Si;Si;_;No;No;Si;3;E;Venda
+268000;La Cogullada;138;3;2;1942;Si;No;_;Si;No;Si;1;G;Venda
+279000;Ca n�Aurell;125;3;3;2232;Si;Si;_;No;No;Si;_;G;Venda
+98000;Can Palet;78;3;1;1256;No;No;1967;No;No;Si;3;E;Venda
+209000;Segle XX;142;2;1;1472;No;No;1992;No;No;Si;1;G;Venda
+259000;Can Roca;94;3;2;2755;Si;Si;2005;Si;No;Si;3;E;Venda
+570000;Ca n�Aurell;554;6;4;1029;Si;Si;1990;Si;No;Si;_;E;Venda
+95000;La Maurina;120;4;1;792;No;No;1953;No;No;No;_;D;Venda
+310000;Sant Pere Nord;102;4;2;3039;Si;Si;1998;Si;No;Si;1;G;Venda
+138000;Sant Pere Nord;75;2;1;1840;No;Si;1968;No;No;Si;2;E;Venda
+125000;Roc Blanc;75;3;1;1667;Si;No;_;Si;No;No;_;G;Venda
+206500;Les Arenes-La Gr�pia;79;2;2;2614;Si;Si;_;Si;No;Si;_;_;Venda
+215600;Les Arenes-La Gr�pia;86;3;2;2507;Si;Si;_;Si;No;Si;_;_;Venda
+213500;Les Arenes-La Gr�pia;94;3;2;2271;Si;Si;_;Si;No;Si;_;_;Venda
+119990;Ca nﾴAnglada;76;2;1;1579;No;No;1967;No;No;No;_;E;Venda
+149000;Torre-sana;108;4;1;1380;No;No;1991;No;No;No;_;E;Venda
+125000;Egara;81;3;1;1543;No;No;1969;No;No;No;_;E;Venda
+171500;Roc Blanc;61;2;1;2811;Si;Si;_;No;No;Si;_;_;Venda
+160000;Escoles;82;3;1;1951;Si;Si;1972;No;No;Si;6;G;Venda
+184000;Sant Pere Nord;102;3;2;1804;No;No;1998;No;No;No;3;G;Venda
+182000;Sant Pere Nord;_;_;_;_;No;No;1974;No;No;No;_;G;Venda
+320000;Pere parres;87;3;2;3678;Si;Si;_;No;No;Si;_;A;Venda
+140000;Can Palet;54;1;1;2593;No;No;_;No;No;No;_;_;Venda
+118000;Can Boada;53;1;1;2226;Si;No;2005;No;No;Si;2;_;Venda
+134000;Sant Pere;90;3;1;1489;No;No;1976;No;No;No;2;F;Venda
+180890;Centre;110;3;2;1644;Si;Si;1980;Si;No;Si;_;E;Venda
+225000;Poblenou-Zona Esportiva;93;3;2;2419;Si;Si;2022;Si;No;Si;1;G;Venda
+235000;Poblenou-Zona Esportiva;94;3;2;2500;Si;Si;2022;Si;No;Si;2;G;Venda
+159000;Can Palet;65;2;1;2446;No;Si;2004;Si;No;Si;3;G;Venda
+165000;Segle XX;65;2;1;2538;Si;No;2006;No;No;Si;2;G;Venda
+522000;Pl� del Bonaire;266;4;3;1962;No;No;_;No;No;No;_;_;Venda
+380000;Egara;378;4;1;1005;Si;No;1958;No;No;No;_;G;Venda
+97500;Ca nﾴAnglada;99;3;1;985;No;No;1971;No;No;No;2;F;Venda
+153000;Ca nﾴAurell;111;4;1;1378;No;No;1961;No;No;No;1;G;Venda
+229000;Poblenou-Zona Esportiva;175;2;1;1309;Si;No;_;Si;No;Si;_;E;Venda
+373000;Centre;200;5;2;1865;No;No;_;No;No;No;_;_;Venda
+214000;Vallparad�s;89;2;2;2404;No;No;2006;No;No;Si;4;G;Venda
+131500;Torre-sana;118;2;2;1114;Si;Si;2003;Si;No;Si;2;E;Venda
+145000;X�quer;104;4;1;1394;No;No;_;No;No;No;_;F;Venda
+373000;Pere parres;128;4;2;2914;Si;Si;_;No;No;Si;_;A;Venda
+209000;Poblenou-Zona Esportiva;67;3;2;3119;Si;Si;2002;Si;No;Si;_;E;Venda
+172000;Ca n�Aurell;63;2;1;2730;Si;No;_;No;No;Si;_;G;Venda
+188900;Centre;80;3;2;2361;Si;Si;1992;No;No;Si;1;G;Venda
+165000;Can Jofresa;110;4;1;1500;No;No;1975;No;No;Si;2;G;Venda
+159990;Can Boada;79;4;1;2025;Si;Si;1979;No;No;Si;3;G;Venda
+115000;Centre;39;1;1;2949;No;No;_;No;No;No;_;G;Venda
+190890;Ca n�Aurell;100;3;2;1909;Si;Si;1980;Si;No;Si;_;G;Venda
+185000;Can Palet;153;2;1;1209;No;No;_;No;No;No;_;G;Venda
+135000;Ca n�Aurell;43;1;1;3140;Si;Si;_;No;No;Si;3;G;Venda
+185000;Can Palet;153;2;1;1209;No;No;_;No;No;No;_;G;Venda
+175000;Segle XX;105;4;3;1667;No;No;_;No;No;No;_;_;Venda
+259000;Ca n�Aurell;100;3;2;2590;Si;Si;2022;No;No;Si;_;G;Venda
+120000;Can Roca;42;1;1;2857;Si;No;2004;No;No;Si;1;G;Venda
+146000;La Cogullada;118;3;1;1237;No;No;_;No;No;No;_;_;Venda
+495000;Centre;157;4;3;3153;Si;Si;_;Si;No;Si;_;G;Venda
+545000;Centre;175;4;3;3114;Si;Si;_;Si;No;Si;_;G;Venda
+450000;Centre;172;4;2;2616;Si;Si;_;Si;No;Si;_;G;Venda
+495000;Centre;157;4;3;3153;Si;Si;_;Si;No;Si;_;G;Venda
+267000;Can Roca;76;3;2;3513;No;No;_;No;No;No;_;_;Venda
+329000;Can Roca;92;4;2;3576;No;No;_;No;No;No;_;_;Venda
+165000;Ca n�Aurell;50;2;1;3300;Si;Si;2021;No;No;Si;1;B;Venda
+65700;Ca nﾴAnglada;64;3;1;1027;No;No;1968;No;No;No;4;G;Venda
+75000;Sant Lloren�;64;2;1;1172;Si;No;1960;No;No;No;2;G;Venda
+186000;Poblenou-Zona Esportiva;109;2;2;1706;Si;No;2001;No;No;Si;2;E;Venda
+248000;Ca n�Aurell;78;3;2;3179;Si;Si;2022;Si;No;Si;2;G;Venda
+187500;Ca n�Aurell;56;2;1;3348;Si;Si;2022;Si;No;Si;1;G;Venda
+275000;Ca n�Aurell;95;4;2;2895;Si;Si;2022;Si;No;Si;2;G;Venda
+204000;Les Martines;88;2;2;2318;Si;Si;_;Si;No;Si;_;G;Venda
+256000;Les Martines;98;3;2;2612;Si;Si;_;Si;No;Si;_;G;Venda
+353000;Poblenou-Zona Esportiva;122;4;2;2893;Si;Si;_;Si;No;Si;_;A;Venda
+280000;Pere parres;162;5;3;1728;No;No;_;Si;No;Si;_;D;Venda
+140000;Poblenou-Zona Esportiva;107;4;1;1308;No;No;1964;No;No;No;3;E;Venda
+178200;Les Arenes-La Gr�pia;79;2;2;2256;Si;Si;_;Si;No;Si;_;_;Venda
+129800;Les Fonts;58;2;1;2238;Si;Si;2006;No;No;Si;1;C;Venda
+182000;Egara;98;3;2;1857;No;No;_;No;No;Si;_;G;Venda
+161000;Sant Pere;89;2;2;1809;No;No;_;No;No;No;_;D;Venda
+450000;Can Palet;600;4;4;750;Si;Si;1982;Si;No;No;_;G;Venda
+150000;Vallparad�s;94;4;1;1596;Si;Si;1970;No;No;Si;4;E;Venda
+154000;Ca n�Aurell;65;3;1;2369;Si;Si;2004;No;No;No;_;G;Venda
+101000;Sant Pere;109;4;1;927;No;No;_;No;No;No;_;_;Venda
+146300;Cementiri Vell;44;2;1;3325;No;No;_;No;No;Si;_;_;Venda
+125000;Cementiri Vell;44;2;1;2841;No;No;_;No;No;Si;_;_;Venda
+58000;La Maurina;44;1;1;1318;No;No;1970;No;No;Si;_;F;Venda
+185000;Can Palet;153;2;1;1209;No;No;1979;No;No;No;_;G;Venda
+230000;Les Arenes-La Gr�pia;101;4;2;2277;No;No;_;No;No;No;_;_;Venda
+289000;Les Arenes-La Gr�pia;120;4;2;2408;No;No;_;No;No;No;_;_;Venda
+262000;Les Arenes-La Gr�pia;105;4;2;2495;No;No;_;No;No;No;_;_;Venda
+237000;Les Arenes-La Gr�pia;103;3;2;2301;No;No;_;No;No;No;_;_;Venda
+242000;Les Arenes-La Gr�pia;95;3;2;2547;No;No;_;No;No;No;_;_;Venda
+339000;Poblenou-Zona Esportiva;260;2;1;1304;Si;No;1979;Si;No;No;_;G;Venda
+165000;Can Jofresa;110;4;1;1500;No;No;1975;No;No;Si;1;G;Venda
+107000;Segle XX;76;3;1;1408;No;No;1953;No;No;No;3;_;Venda
+174050;Les Arenes-La Gr�pia;80;3;1;2176;Si;Si;1995;Si;No;Si;3;G;Venda
+211600;Les Arenes-La Gr�pia;91;3;2;2325;Si;Si;_;Si;No;Si;_;_;Venda
+146900;Ca nﾴAurell;160;5;1;918;No;No;_;No;No;No;_;G;Venda
+340000;Ca n�Aurell;124;3;3;2742;Si;Si;2002;No;No;No;_;C;Venda
+87000;Ca n�Anglada;71;3;1;1225;Si;No;1969;No;No;No;_;G;Venda
+159990;Can Boada;93;4;1;1720;Si;Si;1979;No;No;Si;_;G;Venda
+163000;Can Roca;55;2;1;2964;No;No;_;No;No;No;_;_;Venda
+334520;Les Arenes-La Gr�pia;192;4;2;1742;Si;No;2002;No;No;Si;3;G;Venda
+159990;Can Boada;93;4;1;1720;Si;Si;1979;No;No;Si;_;G;Venda
+130000;Poblenou-Zona Esportiva;42;1;1;3095;Si;No;2022;Si;No;Si;2;G;Venda
+126000;Can Palet;93;3;1;1355;No;No;_;No;No;No;_;_;Venda
+145000;Ca n�Aurell;50;1;1;2900;Si;Si;2005;Si;No;No;1;E;Venda
+153000;Ca nﾴAurell;111;4;1;1378;No;No;1961;No;No;No;1;G;Venda
+420000;Ca n�Anglada;275;4;2;1527;Si;Si;_;No;No;Si;_;G;Venda
+149000;Les Arenes-La Gr�pia;88;3;1;1693;Si;No;_;No;No;No;_;G;Venda
+145000;Torre-sana;65;2;1;2231;Si;No;2005;Si;No;Si;_;G;Venda
+325000;Can Palet;434;5;2;749;Si;No;1978;Si;No;No;_;G;Venda
+225000;Can Palet;157;4;1;1433;Si;No;_;No;No;No;_;F;Venda
+135000;Can Parellada;77;3;1;1753;Si;No;_;No;No;Si;_;A;Venda
+85000;Can Palet;98;4;2;867;Si;No;1973;No;No;No;4;E;Venda
+158000;Can Roca;79;2;1;2000;Si;Si;1960;No;No;No;2;G;Venda
+140000;Escoles;65;2;1;2154;Si;Si;2008;Si;No;Si;_;E;Venda
+158000;Can Palet;86;3;1;1837;Si;No;2001;Si;No;Si;1;G;Venda
+170000;Can Boada;76;3;1;2237;Si;No;1969;Si;No;No;1;G;Venda
+120000;Sant Pere Nord;95;3;1;1263;No;No;_;No;No;No;_;G;Venda
+195000;Les Arenes-La Gr�pia;101;3;2;1931;No;No;_;No;No;No;_;_;Venda
+199000;Les Arenes-La Gr�pia;66;2;2;3015;No;No;_;No;No;No;_;_;Venda
+156000;Les Arenes-La Gr�pia;53;2;1;2943;No;No;_;No;No;No;_;_;Venda
+380000;Ca n�Anglada;277;4;3;1372;No;No;1965;Si;No;No;_;G;Venda
+325000;Pere parres;104;4;2;3125;Si;Si;2012;Si;No;Si;_;C;Venda
+206000;Can Palet;134;3;2;1537;Si;No;2003;Si;No;Si;_;E;Venda
+148000;Escoles;75;4;1;1973;Si;Si;1972;No;No;Si;2;E;Venda
+345000;Sant Pere;131;3;3;2634;Si;No;2022;No;No;No;1;G;Venda
+295000;Torre-sana;250;3;2;1180;No;No;_;No;No;No;_;G;Venda
+229900;Centre;60;2;1;3832;Si;No;2007;Si;No;Si;_;C;Venda
+450000;Centre;185;3;3;2432;Si;Si;2020;Si;No;Si;_;G;Venda
+150000;Can Jofresa;110;4;2;1364;No;No;1975;No;No;Si;9;G;Venda
+150000;Ca n�Aurell;85;3;1;1765;Si;No;_;No;No;No;2;G;Venda
+280000;Torre-sana;106;3;3;2642;Si;No;_;Si;No;Si;_;B;Venda
+251000;Torre-sana;100;2;2;2510;Si;No;_;Si;No;Si;_;B;Venda
+193000;Segle XX;86;2;1;2244;Si;No;2006;No;No;Si;_;G;Venda
+130000;Sant Pere;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+310000;Ca n�Anglada;320;5;2;969;Si;No;1997;Si;No;No;_;G;Venda
+160000;La Cogullada;80;4;1;2000;Si;No;1977;No;No;Si;2;D;Venda
+196000;Can Boada;106;2;1;1849;Si;Si;1996;Si;No;Si;4;G;Venda
+225000;Ca n�Aurell;82;2;2;2744;Si;No;_;No;No;Si;_;_;Venda
+211000;Pere parres;66;2;1;3197;No;No;_;No;No;No;_;A;Venda
+263000;Pere parres;89;3;2;2955;No;No;_;No;No;No;_;A;Venda
+263000;Pere parres;89;3;2;2955;No;No;_;No;No;No;_;A;Venda
+279000;Pere parres;89;3;2;3135;No;No;_;No;No;No;_;A;Venda
+325000;Pere parres;110;3;2;2955;No;No;_;No;No;No;_;A;Venda
+220000;Pere parres;84;3;2;2619;No;No;_;No;No;No;_;A;Venda
+105000;Ca n�Anglada;59;1;1;1780;Si;No;2005;No;No;Si;_;E;Venda
+201000;Ca n�Aurell;47;2;1;4277;Si;Si;_;Si;No;Si;_;A;Venda
+320000;Ca n�Aurell;74;3;2;4324;Si;Si;_;Si;No;Si;_;A;Venda
+394000;Ca n�Aurell;110;4;3;3582;Si;Si;_;Si;No;Si;_;A;Venda
+226000;Ca n�Aurell;47;2;1;4809;Si;Si;_;Si;No;Si;_;A;Venda
+222000;Ca n�Aurell;64;2;2;3469;Si;Si;_;Si;No;Si;_;A;Venda
+272000;Ca n�Aurell;77;3;2;3532;Si;Si;_;Si;No;Si;_;A;Venda
+399000;Ca n�Aurell;110;4;3;3627;Si;Si;_;Si;No;Si;_;A;Venda
+158800;Sant Pere;105;3;1;1512;Si;Si;1982;No;No;No;1;D;Venda
+164000;Pere parres;62;2;1;2645;No;No;_;No;No;No;_;A;Venda
+207000;La Maurina;135;6;2;1533;No;No;1970;No;No;No;_;G;Venda
+263000;Can Boada;118;3;2;2229;Si;Si;1995;Si;No;Si;1;G;Venda
+219900;Ca n�Aurell;150;4;2;1466;Si;No;_;No;No;No;1;G;Venda
+289900;Ca n�Aurell;133;4;2;2180;No;Si;_;No;No;Si;3;G;Venda
+72100;Montserrat;65;3;1;1109;No;No;_;No;No;No;2;G;Venda
+225000;La Maurina;183;4;2;1230;No;Si;1975;No;No;No;1;D;Venda
+135000;Pere parres;62;3;1;2177;Si;No;1970;No;No;No;4;E;Venda
+144000;Cementiri Vell;85;4;2;1694;Si;No;1984;No;No;Si;2;G;Venda
+260000;Torre-sana;97;3;2;2680;Si;No;_;Si;No;Si;_;B;Venda
+91600;Can Palet;70;3;1;1309;No;Si;_;No;No;No;2;G;Venda
+199900;Escoles;85;3;1;2352;No;No;1974;Si;No;Si;_;G;Venda
+157000;Ca n�Anglada;64;2;1;2453;Si;Si;2001;No;No;No;_;_;Venda
+379000;Ca n�Aurell;196;4;3;1934;Si;Si;2022;Si;No;Si;5;G;Venda
+287700;Ca n�Aurell;120;3;3;2398;Si;Si;2021;No;No;Si;_;G;Venda
+135000;Can Boada;75;3;1;1800;Si;No;1971;No;No;Si;5;G;Venda
+144900;Can Boada;93;4;2;1558;No;No;_;No;No;Si;_;G;Venda
+147000;Can Jofresa;96;4;2;1531;No;No;1975;No;No;Si;9;E;Venda
+175000;Can Palet;94;3;2;1862;No;No;_;No;No;No;_;_;Venda
+141000;Ca n�Anglada;128;1;2;1102;Si;No;2008;No;No;Si;_;D;Venda
+450000;Vallparad�s;118;3;3;3814;No;No;_;Si;No;No;_;_;Venda
+465000;Vallparad�s;148;3;3;3142;No;No;_;Si;No;No;_;_;Venda
+469000;Vallparad�s;130;3;3;3608;No;No;_;Si;No;No;_;_;Venda
+109000;Sant Pere Nord;61;3;1;1787;No;Si;1973;No;No;No;_;G;Venda
+125000;Ca n�Aurell;_;_;_;_;No;Si;_;No;No;Si;_;F;Venda
+299900;Egara;165;4;2;1818;No;Si;1995;Si;No;No;_;G;Venda
+209000;Ca n�Aurell;96;4;1;2177;Si;No;1971;No;No;Si;_;F;Venda
+240000;La Maurina;200;4;2;1200;Si;No;_;Si;No;No;_;E;Venda
+216000;Egara;225;3;1;960;Si;No;1961;No;No;No;_;G;Venda
+325000;Escoles;_;_;_;_;Si;Si;2001;No;No;Si;3;G;Venda
+120000;Can Roca;48;1;1;2500;Si;No;2004;No;No;Si;1;G;Venda
+229900;Escoles;60;2;1;3832;Si;Si;2007;Si;No;Si;1;C;Venda
+155000;Torre-sana;90;2;2;1722;Si;No;2008;Si;No;Si;_;E;Venda
+265000;Vallparad�s;137;4;2;1934;Si;No;1988;No;No;Si;2;E;Venda
+159000;Sant Pere Nord;50;2;1;3180;Si;No;2007;No;No;No;1;G;Venda
+186800;Vallparad�s;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+186800;Vallparad�s;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+384000;Vallparad�s;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+136900;Vallparad�s;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+229000;Pere parres;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+238800;Vallparad�s;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+450000;Vallparad�s;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+195000;Les Arenes-La Gr�pia;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+245000;Les Arenes-La Gr�pia;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+263000;Pere parres;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+225000;Ca n�Aurell;85;3;2;2647;No;No;_;No;No;Si;_;_;Venda
+168000;Can Palet;62;2;1;2710;Si;No;2007;No;No;Si;1;E;Venda
+165000;Ca n�Aurell;49;2;1;3367;No;No;_;No;No;Si;_;_;Venda
+225000;Ca n�Aurell;83;3;2;2711;No;No;_;No;No;Si;_;_;Venda
+182500;Ca n�Anglada;182;4;2;1003;Si;No;1959;Si;No;No;_;G;Venda
+106000;Ca nﾴAnglada;96;3;1;1104;No;No;_;No;No;No;_;G;Venda
+136000;Cementiri Vell;94;3;1;1447;Si;Si;1970;No;No;Si;1;E;Venda
+135500;Can Palet;69;2;2;1964;Si;No;2006;No;No;Si;5;F;Venda
+206000;Can Palet;80;3;2;2575;Si;No;2003;Si;No;Si;_;G;Venda
+162750;Segle XX;70;3;1;2325;Si;No;1999;No;No;Si;_;E;Venda
+183860;Can Palet;87;3;2;2113;No;Si;2007;No;No;Si;_;D;Venda
+166000;Can Palet;115;4;1;1443;No;No;1970;No;No;Si;_;G;Venda
+163000;Sant Pere Nord;69;2;1;2362;No;No;2008;No;No;Si;_;D;Venda
+187200;Can Palet;70;3;2;2674;Si;Si;1972;No;No;Si;4;G;Venda
+121900;X�quer;70;3;1;1741;No;No;_;No;No;Si;3;G;Venda
+287990;Les Arenes-La Gr�pia;280;4;2;1029;No;Si;2021;Si;No;No;_;C;Venda
+223000;Centre;108;3;2;2065;Si;Si;1979;No;No;Si;2;G;Venda
+149000;La Cogullada;85;4;2;1753;No;No;_;No;No;Si;3;E;Venda
+223000;Torre-sana;94;3;2;2372;Si;No;_;Si;No;Si;_;B;Venda
+144000;Ca n�Anglada;100;4;2;1440;Si;Si;1977;No;No;No;1;E;Venda
+149900;Pl� del Bonaire;82;3;1;1828;Si;Si;1963;Si;No;No;1;G;Venda
+224000;Les Arenes-La Gr�pia;94;3;2;2383;Si;Si;2004;Si;No;Si;1;G;Venda
+147260;Ca n�Aurell;78;4;1;1888;Si;No;1975;No;No;Si;4;G;Venda
+181000;La Maurina;190;2;2;953;Si;No;_;Si;No;No;2;G;Venda
+94500;Sant Pere Nord;38;1;1;2487;Si;No;2008;No;No;Si;1;D;Venda
+135960;Torre-sana;73;2;1;1862;Si;No;2003;No;No;Si;_;E;Venda
+279000;Can Roca;78;2;2;3577;Si;Si;2000;Si;No;Si;7;D;Venda
+162750;Les Arenes-La Gr�pia;143;4;1;1138;No;No;1957;No;No;No;_;G;Venda
+119990;Ca n�Anglada;66;2;1;1818;Si;No;1967;No;No;No;2;E;Venda
+158000;Can Palet;86;3;1;1837;Si;No;2001;Si;No;Si;1;G;Venda
+238200;Vallparad�s;87;3;2;2738;No;No;_;Si;No;No;_;_;Venda
+248200;Vallparad�s;87;3;2;2853;No;No;_;Si;No;No;_;_;Venda
+328800;Vallparad�s;106;3;2;3102;No;No;_;Si;No;No;_;_;Venda
+380200;Vallparad�s;136;4;3;2796;No;No;_;Si;No;No;_;_;Venda
+359000;Sant Pere;200;7;1;1795;No;No;_;No;No;Si;_;G;Venda
+149900;Poblenou-Zona Esportiva;95;2;1;1578;No;No;1960;No;No;No;_;C;Venda
+147400;Segle XX;80;3;2;1843;No;No;_;No;No;Si;_;G;Venda
+79000;Montserrat;58;3;1;1362;No;No;1956;No;No;No;2;G;Venda
+75000;Ca n�Anglada;63;3;1;1190;Si;No;1973;No;No;No;3;G;Venda
+179600;Sant Pere;50;2;1;3592;No;Si;1973;No;No;Si;_;D;Venda
+164900;Sant Pere Nord;75;3;2;2199;Si;No;2002;No;No;Si;_;G;Venda
+90000;La Maurina;72;4;1;1250;No;No;_;No;No;No;_;_;Venda
+137000;Les Arenes-La Gr�pia;92;3;1;1489;Si;No;1960;No;No;Si;12;F;Venda
+108000;La Maurina;103;3;1;1049;Si;No;1959;No;No;No;_;F;Venda
+336000;Centre;210;3;3;1600;Si;Si;_;Si;No;No;3;F;Venda
+155000;Sant Pere Nord;70;2;1;2214;Si;No;2006;Si;No;Si;2;G;Venda
+200900;Cementiri Vell;144;3;2;1395;Si;No;1994;Si;No;Si;_;F;Venda
+130000;Torre-sana;140;3;1;929;No;No;1969;Si;No;No;_;E;Venda
+128400;Centre;58;1;1;2214;Si;No;_;No;No;Si;_;G;Venda
+171000;Escoles;65;2;1;2631;Si;No;_;No;No;Si;_;B;Venda
+213000;Escoles;99;3;2;2152;Si;No;_;No;No;Si;_;B;Venda
+206000;Escoles;93;3;2;2215;Si;No;_;No;No;Si;_;B;Venda
+172000;Escoles;76;2;2;2263;Si;No;_;No;No;Si;_;B;Venda
+146000;Escoles;58;2;1;2517;Si;No;_;No;No;Si;_;B;Venda
+135960;Torre-sana;63;2;3;2158;No;No;2003;No;No;No;1;E;Venda
+525000;Centre;168;4;3;3125;Si;Si;_;Si;No;Si;6;E;Venda
+145000;Les Arenes-La Gr�pia;78;3;1;1859;Si;No;1974;No;No;No;_;G;Venda
+330000;Sant Pere;137;2;2;2409;Si;Si;1920;Si;No;No;_;G;Venda
+348000;Can Roca;85;3;2;4094;No;No;_;No;No;No;_;_;Venda
+315000;Can Roca;81;3;2;3889;No;No;_;No;No;No;_;_;Venda
+298000;Can Roca;78;3;2;3821;No;No;_;No;No;No;_;_;Venda
+275000;Can Roca;74;3;2;3716;No;No;_;No;No;No;_;_;Venda
+245000;Sant Pere;85;2;2;2882;Si;No;2021;No;No;No;_;G;Venda
+295000;Ca nﾴAnglada;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+236000;Egara;136;3;2;1735;Si;Si;_;No;No;No;_;G;Venda
+237000;Escoles;96;3;2;2469;Si;No;_;No;No;Si;_;B;Venda
+231000;Escoles;91;3;2;2538;Si;No;_;No;No;Si;_;B;Venda
+212000;Escoles;99;3;2;2141;Si;No;_;No;No;Si;_;B;Venda
+120000;La Cogullada;44;1;1;2727;Si;Si;2008;Si;No;Si;_;G;Venda
+227000;Ca nﾴAnglada;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+165845;Ca nﾴAnglada;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+117100;Ca nﾴAnglada;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+136000;Ca n�Aurell;108;4;1;1259;No;No;1973;No;No;Si;1;G;Venda
+80000;Egara;61;3;1;1311;No;No;1968;No;No;No;3;E;Venda
+170000;Can Palet;80;3;2;2125;Si;No;2002;Si;No;Si;_;E;Venda
+199000;Can Palet;100;3;2;1990;Si;No;_;No;No;No;_;G;Venda
+292000;Can Roca;78;3;2;3744;No;No;_;No;No;No;_;_;Venda
+305000;Can Roca;74;3;2;4122;No;No;_;No;No;No;_;_;Venda
+93000;Montserrat;60;2;1;1550;Si;No;_;Si;No;Si;_;G;Venda
+279000;Can Roca;118;2;2;2364;Si;Si;2000;Si;No;Si;7;_;Venda
+125000;Sant Pere Nord;95;3;1;1316;No;No;_;No;No;No;_;G;Venda
+235000;Ca n�Anglada;194;3;2;1211;No;No;_;Si;No;No;2;G;Venda
+165000;Les Arenes-La Gr�pia;109;4;2;1514;No;No;_;Si;No;Si;_;G;Venda
+240000;Can Palet;80;3;2;3000;Si;No;_;No;No;Si;_;G;Venda
+93000;Ca nﾴAurell;85;3;1;1094;No;No;_;No;No;No;_;_;Venda
+182000;Sant Pere Nord;220;3;2;827;No;No;1974;No;No;No;_;_;Venda
+168000;Sant Pere;87;3;2;1931;Si;Si;1978;No;No;Si;_;E;Venda
+200900;Escoles;92;3;2;2184;Si;No;1995;No;No;No;2;F;Venda
+156000;La Maurina;70;1;2;2229;Si;No;2007;No;No;No;_;G;Venda
+85000;Can Palet;98;4;1;867;Si;No;1973;No;No;No;_;E;Venda
+92000;Sant Lloren�;64;2;1;1438;Si;No;1960;No;No;No;_;G;Venda
+189000;Ca n�Anglada;316;3;2;598;No;No;1987;Si;No;No;2;G;Venda
+120000;Can Roca;48;1;1;2500;Si;No;2004;No;No;Si;_;G;Venda
+125000;Can Boada;84;4;1;1488;Si;No;1974;No;No;Si;2;G;Venda
+229000;Roc Blanc;140;4;2;1636;Si;No;1956;No;No;No;_;G;Venda
+148500;Can Boada;93;4;1;1597;Si;No;1979;No;No;Si;3;G;Venda
+166500;Torre-sana;98;3;1;1699;No;No;_;No;No;Si;2;G;Venda
+119000;Les Arenes-La Gr�pia;60;1;1;1983;No;No;_;No;No;Si;_;D;Venda
+119000;Les Arenes-La Gr�pia;60;1;1;1983;No;No;_;No;No;Si;_;D;Venda
+159900;Ca n�Aurell;75;2;1;2132;Si;No;1996;No;No;Si;2;G;Venda
+155000;Sant Pere;90;3;1;1722;Si;Si;1975;No;No;Si;_;D;Venda
+120000;Poblenou-Zona Esportiva;55;1;1;2182;Si;Si;1970;No;No;No;_;D;Venda
+155000;Can Palet;90;4;2;1722;Si;No;1992;Si;No;Si;_;C;Venda
+138000;Can Boada;86;3;1;1605;Si;No;1960;No;No;Si;_;D;Venda
+79950;La Maurina;60;2;1;1333;No;Si;1965;No;No;No;_;D;Venda
+255000;Ca n�Aurell;297;5;2;859;No;Si;_;No;No;No;_;G;Venda
+194000;Sant Pere;91;4;1;2132;Si;Si;1965;No;No;Si;_;D;Venda
+110500;Sant Pere Nord;62;2;1;1782;Si;No;2005;No;No;Si;_;E;Venda
+109000;Can Palet;96;3;1;1135;No;No;_;No;No;No;_;E;Venda
+109000;Can Palet;96;3;1;1135;No;No;_;No;No;No;_;E;Venda
+146900;Can Jofresa;115;4;2;1277;No;No;_;No;No;Si;9;G;Venda
+75000;Can Boada;60;3;1;1250;No;No;_;No;No;No;3;G;Venda
+224900;Cementiri Vell;60;2;1;3748;Si;No;2007;Si;No;Si;1;D;Venda
+260000;Centre;106;3;2;2453;Si;Si;1995;No;No;Si;2;G;Venda
+197000;Escoles;85;2;1;2318;Si;No;2021;No;No;No;_;E;Venda
+110000;Ca nﾴAurell;98;2;2;1122;No;No;1997;No;No;No;_;G;Venda
+210000;Centre;95;3;1;2211;Si;No;_;No;No;Si;_;G;Venda
+200000;Torre-sana;141;4;2;1418;Si;No;2003;Si;No;No;2;G;Venda
+75000;Egara;68;2;1;1103;No;No;1958;No;No;No;_;E;Venda
+195000;Escoles;91;4;2;2143;No;No;_;No;No;Si;_;G;Venda
+330000;Sant Pere Nord;190;3;3;1737;Si;Si;2020;Si;No;Si;3;G;Venda
+525000;Les Fonts;180;4;3;2917;Si;Si;1994;Si;No;No;_;G;Venda
+108000;Ca n�Anglada;55;1;1;1964;Si;No;2008;No;No;Si;_;G;Venda
+134900;Poblenou-Zona Esportiva;76;2;1;1775;Si;Si;1965;No;No;No;3;G;Venda
+175000;Can Palet;94;3;2;1862;No;No;2000;No;No;Si;2;G;Venda
+348000;Sant Pere Nord;153;3;3;2275;Si;No;2006;Si;No;No;_;D;Venda
+79700;Egara;37;1;1;2154;Si;No;_;Si;No;Si;2;G;Venda
+240000;Centre;112;4;2;2143;Si;Si;_;No;No;Si;5;G;Venda
+95000;Ca n�Anglada;68;2;1;1397;Si;No;1969;No;No;No;_;G;Venda
+157500;Torre-sana;85;2;1;1853;Si;No;2008;No;No;Si;_;G;Venda
+156900;Ca n�Anglada;75;3;1;2092;Si;Si;_;No;No;Si;_;G;Venda
+225000;Cementiri Vell;54;2;1;4167;No;Si;_;Si;No;Si;3;D;Venda
+174000;Ca nﾴAnglada;136;5;2;1279;No;No;1970;No;No;No;2;G;Venda
+120000;Can Roca;48;1;1;2500;Si;No;2004;No;No;Si;1;G;Venda
+118470;Ca n�Aurell;_;_;_;_;No;Si;2009;No;No;Si;_;_;Venda
+197000;La Maurina;118;3;2;1669;Si;No;1955;No;No;No;_;D;Venda
+587500;Can Palet de Vista Alegre;500;4;5;1175;Si;Si;1998;Si;Si;No;_;E;Venda
+206000;Les Fonts;84;3;1;2452;Si;Si;2003;Si;No;Si;_;A;Venda
+169900;Sant Pere Nord;_;_;_;_;No;No;_;No;No;No;_;F;Venda
+310000;Centre;138;4;2;2246;Si;Si;1973;Si;No;Si;_;E;Venda
+185000;Sant Pere;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+195000;Les Arenes-La Gr�pia;95;3;2;2053;Si;Si;2004;Si;No;Si;_;G;Venda
+105000;Pere parres;_;_;_;_;Si;Si;2006;Si;No;Si;1;G;Venda
+180000;Sant Pere Nord;94;3;2;1915;Si;No;1996;No;No;Si;2;E;Venda
+285000;Cementiri Vell;80;3;2;3563;Si;Si;_;Si;No;Si;_;G;Venda
+295000;Cementiri Vell;80;3;2;3688;Si;Si;_;Si;No;Si;_;G;Venda
+450000;Cementiri Vell;140;4;3;3214;Si;Si;_;Si;No;Si;_;G;Venda
+475000;Cementiri Vell;120;5;3;3958;Si;Si;_;Si;No;Si;_;G;Venda
+149000;Segle XX;100;4;2;1490;No;No;1980;No;No;Si;3;E;Venda
+157500;Torre-sana;85;2;1;1853;No;No;2008;No;No;No;1;G;Venda
+149900;Poblenou-Zona Esportiva;95;2;1;1578;No;No;1970;No;No;No;_;G;Venda
+149000;Les Arenes-La Gr�pia;88;3;1;1693;Si;No;1975;No;No;No;1;G;Venda
+170000;Escoles;98;4;1;1735;Si;No;1974;No;No;Si;_;G;Venda
+186000;Poblenou-Zona Esportiva;85;2;2;2188;Si;No;2001;No;No;Si;2;E;Venda
+110000;Egara;75;3;1;1467;Si;No;_;No;No;Si;_;G;Venda
+158000;Centre;81;3;1;1951;No;No;1960;No;No;No;_;G;Venda
+129000;Roc Blanc;47;2;1;2745;Si;Si;_;No;No;Si;2;_;Venda
+420000;Ca n�Aurell;289;3;2;1453;Si;Si;_;Si;No;No;_;A;Venda
+105000;Ca n�Anglada;74;3;1;1419;Si;Si;1977;No;No;No;1;G;Venda
+124000;Sant Pere Nord;90;3;1;1378;No;No;1960;No;No;No;_;G;Venda
+136000;Sant Pere Nord;100;3;1;1360;Si;Si;1958;No;No;No;_;G;Venda
+118000;Can Boada;53;1;1;2226;Si;No;2005;No;No;Si;2;G;Venda
+199900;Ca n�Aurell;100;4;1;1999;Si;No;_;No;No;Si;3;G;Venda
+368000;Centre;250;3;2;1472;Si;Si;1995;Si;No;No;2;D;Venda
+170000;Sant Pere;75;2;1;2267;Si;No;2006;No;No;Si;1;G;Venda
+205000;Segle XX;84;2;2;2440;Si;Si;_;No;No;Si;2;E;Venda
+188500;Poblenou-Zona Esportiva;95;3;2;1984;Si;Si;2002;Si;No;Si;1;D;Venda
+145000;Can Palet;105;4;1;1381;No;No;1995;No;No;Si;4;G;Venda
+158000;Can Palet;70;2;2;2257;Si;No;2000;Si;No;No;_;E;Venda
+210200;Centre;94;3;1;2236;No;No;_;No;No;Si;_;_;Venda
+303000;Pere parres;98;3;2;3092;Si;Si;_;No;No;Si;_;A;Venda
+85000;Can Palet;97;4;1;876;No;No;_;No;No;No;_;_;Venda
+115000;Egara;81;3;1;1420;No;No;1953;No;No;No;1;G;Venda
+136000;Sant Pere Nord;107;3;1;1271;No;No;1970;No;No;No;_;G;Venda
+368000;Pere parres;123;4;2;2992;Si;Si;_;No;No;Si;_;A;Venda
+155000;Ca n�Anglada;83;2;1;1867;Si;Si;2001;No;No;Si;1;G;Venda
+221000;Escoles;98;3;2;2255;Si;Si;_;Si;No;Si;_;_;Venda
+58800;La Maurina;41;2;1;1434;No;No;_;No;No;No;_;G;Venda
+275000;Centre;340;5;3;809;Si;Si;_;Si;No;No;3;G;Venda
+510000;Centre;185;3;3;2757;Si;Si;1921;No;No;No;_;B;Venda
+224900;Cementiri Vell;60;2;1;3748;Si;No;2007;Si;No;Si;_;C;Venda
+164900;Sant Pere Nord;105;3;2;1570;No;No;_;No;No;No;_;_;Venda
+95000;Ca nﾴAnglada;70;3;1;1357;No;No;_;No;No;No;_;E;Venda
+489250;La Cogullada;277;6;2;1766;Si;No;1960;Si;No;No;_;D;Venda
+251000;Can Roca;81;3;2;3099;No;No;_;No;No;No;_;_;Venda
+244000;Can Roca;78;3;2;3128;No;No;_;No;No;No;_;_;Venda
+247000;Can Roca;81;3;2;3049;No;No;_;No;No;No;_;_;Venda
+242000;Can Roca;78;3;2;3103;No;No;_;No;No;No;_;_;Venda
+360000;Ca n�Aurell;152;4;2;2368;Si;Si;1995;Si;No;Si;_;G;Venda
+480000;Sant Pere;266;5;3;1805;No;Si;2020;Si;No;No;_;G;Venda
+494000;Sant Pere;200;3;3;2470;Si;No;2017;Si;Si;No;_;D;Venda
+1150000;Poblenou-Zona Esportiva;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+315000;Centre;143;3;2;2203;Si;Si;1968;No;No;Si;1;G;Venda
+144535;Cementiri Vell;102;4;2;1417;No;No;1984;No;No;No;_;G;Venda
+155000;Sant Pere Nord;70;2;1;2214;Si;No;2006;Si;No;Si;_;G;Venda
+354900;Poblenou-Zona Esportiva;180;4;2;1972;Si;Si;1995;Si;No;No;_;E;Venda
+240000;Poblenou-Zona Esportiva;121;3;1;1983;No;No;1961;No;No;No;_;G;Venda
+69000;Sant Lloren�;61;2;1;1131;No;No;1960;No;No;No;4;G;Venda
+260000;Centre;123;3;1;2114;Si;Si;1995;No;No;Si;_;G;Venda
+280000;Vallparad�s;150;3;2;1867;Si;Si;_;Si;No;Si;1;G;Venda
+89000;Sant Pere Nord;52;3;1;1712;Si;No;_;No;No;No;_;_;Venda
+115000;Cementiri Vell;_;_;_;_;Si;Si;_;No;No;Si;_;G;Venda
+99000;La Maurina;72;3;1;1375;Si;No;1979;No;No;No;4;E;Venda
+220000;Ca n�Anglada;216;4;2;1019;Si;Si;_;Si;No;No;_;G;Venda
+100500;Sant Pere Nord;39;1;1;2577;Si;No;2008;No;No;Si;2;C;Venda
+195000;Escoles;91;3;2;2143;Si;Si;1980;No;No;Si;_;_;Venda
+290000;Poblenou-Zona Esportiva;89;3;4;3258;Si;Si;_;No;No;Si;1;G;Venda
+190000;Torre-sana;60;2;1;3167;Si;No;2008;Si;No;Si;1;E;Venda
+216000;Ca n�Aurell;102;3;2;2118;Si;Si;2002;Si;No;Si;_;G;Venda
+199900;Ca n�Aurell;126;4;1;1587;Si;No;1964;No;No;Si;3;G;Venda
+345000;Centre;123;4;2;2805;Si;No;1985;Si;No;Si;2;G;Venda
+126000;Can Palet;77;3;1;1636;No;No;1967;No;No;Si;2;E;Venda
+243900;Sant Pere Nord;240;5;3;1016;Si;Si;1991;No;No;No;_;F;Venda
+135700;Les Arenes-La Gr�pia;70;2;1;1939;Si;Si;1999;Si;No;Si;_;G;Venda
+345000;Ca n�Aurell;140;3;2;2464;No;Si;2022;Si;No;No;_;G;Venda
+189000;Sant Pere;93;3;1;2032;Si;No;_;No;No;Si;_;E;Venda
+330000;Ca n�Aurell;221;3;3;1493;Si;Si;2005;Si;No;No;_;G;Venda
+189000;Cementiri Vell;72;2;1;2625;Si;No;2004;No;No;Si;_;E;Venda
+385000;Vallparad�s;163;4;3;2362;Si;No;2022;Si;No;No;_;G;Venda
+207500;Centre;100;3;1;2075;Si;No;2003;Si;No;Si;_;E;Venda
+165000;Escoles;85;4;1;1941;Si;No;1974;No;No;Si;1;E;Venda
+110000;X�quer;85;4;1;1294;Si;No;1974;No;No;Si;_;E;Venda
+116000;La Maurina;_;_;_;_;No;No;_;Si;No;No;_;G;Venda
+225000;Sant Pere Nord;156;3;2;1442;Si;Si;_;Si;No;Si;_;G;Venda
+150800;Can Parellada;110;3;1;1371;Si;Si;_;No;No;Si;_;E;Venda
+140000;Can Palet;47;2;1;2979;Si;No;2011;No;No;Si;_;G;Venda
+87000;Egara;79;3;1;1101;Si;No;1970;No;No;No;3;F;Venda
+138900;Can Palet;100;4;1;1389;No;No;_;No;No;Si;_;D;Venda
+149000;Les Arenes-La Gr�pia;80;2;1;1863;Si;No;2008;No;No;Si;2;C;Venda
+180000;Can Palet;90;3;2;2000;No;Si;_;No;No;Si;4;E;Venda
+190000;Vallparad�s;80;3;2;2375;Si;No;_;No;No;Si;_;E;Venda
+220000;Escoles;116;4;2;1897;No;No;_;Si;No;Si;_;G;Venda
+216000;Ca n�Anglada;207;3;2;1043;No;No;_;Si;No;No;_;G;Venda
+190000;Vallparad�s;90;3;2;2111;Si;No;_;No;No;Si;_;G;Venda
+157000;Can Jofresa;85;3;1;1847;Si;No;_;No;No;Si;_;G;Venda
+206050;Roc Blanc;101;4;2;2040;Si;No;1996;Si;No;No;_;G;Venda
+179000;Poblenou-Zona Esportiva;100;3;1;1790;Si;Si;1970;No;No;No;_;F;Venda
+207000;Segle XX;_;_;_;_;Si;Si;2008;Si;No;Si;1;D;Venda
+96400;Can Palet;48;1;1;2008;Si;No;_;No;No;Si;_;E;Venda
+99000;Ca nﾴAnglada;71;3;1;1394;No;No;1973;No;No;No;2;G;Venda
+250000;Ca n�Aurell;118;3;2;2119;Si;Si;1952;No;No;No;2;G;Venda
+104000;Ca n�Anglada;72;2;1;1444;Si;No;1972;No;No;No;_;G;Venda
+205000;Roc Blanc;90;4;2;2278;No;No;_;No;No;Si;3;E;Venda
+127700;Sant Pere Nord;80;3;1;1596;Si;No;1970;No;No;Si;_;F;Venda
+375000;Ca n�Aurell;125;3;3;3000;Si;No;2022;Si;No;No;_;G;Venda
+78000;Ca nﾴAnglada;70;3;1;1114;No;No;_;No;No;No;_;G;Venda
+78000;Ca nﾴAnglada;70;3;1;1114;No;No;_;No;No;No;_;G;Venda
+215000;Ca n�Anglada;174;4;1;1236;Si;No;_;No;No;No;_;G;Venda
+145000;Can Palet;60;3;1;2417;Si;Si;_;No;No;Si;3;E;Venda
+320000;Sant Pere Nord;113;4;2;2832;Si;No;1995;No;No;Si;_;E;Venda
+350000;Centre;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+218500;Egara;180;3;2;1214;Si;Si;1963;No;No;No;_;G;Venda
+98000;Ca n�Anglada;50;1;1;1960;No;No;_;No;No;Si;2;G;Venda
+164000;Cementiri Vell;49;1;1;3347;Si;Si;_;Si;No;Si;_;G;Venda
+336000;Centre;210;3;2;1600;Si;No;1910;Si;No;No;_;D;Venda
+340000;La Cogullada;280;3;3;1214;Si;Si;1992;Si;No;No;_;G;Venda
+225000;Ca n�Anglada;174;4;2;1293;Si;No;1991;No;No;No;_;_;Venda
+295000;Cementiri Vell;99;3;2;2980;Si;Si;_;Si;No;Si;_;G;Venda
+155000;Cementiri Vell;51;1;1;3039;Si;Si;_;Si;No;Si;_;G;Venda
+174000;Sant Pere Nord;94;3;2;1851;Si;No;1996;No;No;Si;2;E;Venda
+180000;La Cogullada;60;2;1;3000;Si;Si;_;Si;No;Si;1;G;Venda
+94650;Can Palet;_;_;_;_;No;No;1960;No;No;No;_;A;Venda
+375000;Can Roca;92;4;2;4076;No;No;_;No;No;No;_;_;Venda
+150000;Can Roca;76;3;1;1974;Si;Si;_;No;No;Si;4;G;Venda
+295000;Centre;155;6;2;1903;Si;No;1970;No;No;Si;3;E;Venda
+180000;Segle XX;81;2;2;2222;No;Si;2007;Si;No;Si;_;D;Venda
+65700;Escoles;70;3;1;939;No;No;_;No;No;No;_;_;Venda
+220000;Centre;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+159000;Sant Pere;114;3;2;1395;Si;No;1949;No;No;No;_;E;Venda
+224900;Cementiri Vell;60;2;1;3748;Si;Si;2007;Si;No;Si;1;C;Venda
+92000;La Maurina;88;4;1;1045;No;No;_;No;No;No;_;G;Venda
+113500;X�quer;86;3;1;1320;No;No;_;No;No;Si;1;F;Venda
+179000;Can Boada;82;2;1;2183;Si;No;1994;No;No;Si;_;G;Venda
+70000;Sant Pere Nord;38;1;1;1842;No;No;_;No;No;Si;_;_;Venda
+63000;Cementiri Vell;72;2;1;875;No;No;_;No;No;No;_;_;Venda
+172500;Cementiri Vell;57;2;1;3026;Si;Si;_;Si;No;Si;_;G;Venda
+172500;Cementiri Vell;57;2;1;3026;Si;Si;_;Si;No;Si;_;G;Venda
+426000;Cementiri Vell;116;4;2;3672;Si;Si;_;Si;No;Si;_;G;Venda
+300000;Centre;134;3;2;2239;Si;Si;_;Si;No;No;_;G;Venda
+279000;Poblenou-Zona Esportiva;120;2;2;2325;No;Si;2000;Si;No;Si;7;G;Venda
+141000;Ca nﾴAnglada;128;2;2;1102;No;No;2008;No;No;No;3;E;Venda
+232000;Centre;85;2;1;2729;Si;Si;1963;Si;No;No;_;G;Venda
+525000;Centre;179;4;3;2933;No;Si;2022;Si;Si;No;_;G;Venda
+113000;Torre-sana;57;1;1;1982;Si;No;2005;Si;No;Si;_;E;Venda
+172000;Ca n�Aurell;82;2;2;2098;Si;Si;_;No;No;Si;_;G;Venda
+138500;Can Palet;70;2;1;1979;Si;Si;2005;No;No;Si;_;G;Venda
+135000;Ca nﾴAurell;85;3;1;1588;No;No;_;No;No;No;_;G;Venda
+460000;Centre;132;3;3;3485;No;Si;2022;Si;No;No;_;G;Venda
+334600;Can Palet;139;3;2;2407;Si;Si;1968;Si;No;No;3;A;Venda
+89000;Can Boada;60;3;1;1483;Si;No;_;No;No;Si;_;G;Venda
+171500;Roc Blanc;61;2;1;2811;No;No;_;No;No;Si;_;E;Venda
+342300;Sant Pere;158;4;2;2166;No;No;1940;No;No;No;1;_;Venda
+93000;Ca n�Anglada;67;2;1;1388;No;No;_;No;No;Si;_;_;Venda
+270000;Can Roca;80;3;2;3375;Si;No;2006;Si;No;Si;2;E;Venda
+256900;Ca n�Aurell;129;4;2;1991;No;No;_;Si;No;Si;_;G;Venda
+169900;Sant Pere Nord;90;3;2;1888;Si;No;2002;No;No;Si;_;G;Venda
+111000;Ca n�Anglada;42;1;1;2643;Si;Si;2009;No;No;Si;_;G;Venda
+120000;Ca nﾴAurell;_;_;_;_;No;No;1990;No;No;No;_;D;Venda
+177000;Ca n�Aurell;90;3;1;1967;No;No;_;No;No;Si;4;G;Venda
+93000;Torre-sana;44;1;1;2114;No;No;2010;No;No;Si;1;E;Venda
+111600;X�quer;98;3;1;1139;No;No;1974;No;No;Si;_;G;Venda
+122500;Poblenou-Zona Esportiva;73;1;1;1678;No;No;_;No;No;No;_;_;Venda
+128000;Can Boada;75;3;1;1707;No;No;1971;No;No;No;_;G;Venda
+171500;Roc Blanc;75;2;1;2287;Si;Si;_;No;No;Si;_;G;Venda
+144000;Sant Pere Nord;106;4;1;1358;No;No;1977;No;No;Si;4;G;Venda
+183470;Ca n�Anglada;240;4;4;764;Si;No;1959;No;No;No;_;G;Venda
+168000;Centre;80;3;1;2100;Si;No;1947;No;No;No;1;G;Venda
+180000;Ca n�Anglada;108;3;2;1667;Si;Si;1994;No;No;No;2;G;Venda
+69000;Ca nﾴAnglada;74;3;1;932;No;No;1956;No;No;No;1;G;Venda
+260000;Ca n�Anglada;277;5;3;939;Si;Si;1996;Si;No;No;_;G;Venda
+92000;Egara;81;3;2;1136;No;No;1969;No;No;No;_;G;Venda
+206000;Segle XX;91;3;2;2264;No;Si;2007;Si;No;Si;_;D;Venda
+80300;Sant Lloren�;61;3;1;1316;Si;No;1960;No;No;No;_;G;Venda
+92000;Can Palet;70;3;1;1314;No;No;_;No;No;No;_;E;Venda
+83000;Segle XX;_;_;_;_;No;No;2010;No;No;Si;_;E;Venda
+78000;Torre-sana;46;1;1;1696;Si;No;2007;No;No;Si;_;G;Venda
+315000;Sant Pere;102;3;2;3088;No;No;_;Si;No;No;_;_;Venda
+180000;Segle XX;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+280000;Centre;180;4;2;1556;Si;No;_;No;No;Si;3;G;Venda
+146000;Can Jofresa;85;3;1;1718;Si;No;_;No;No;Si;3;G;Venda
+132200;Can Boada;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+119900;Can Boada;52;2;1;2306;Si;No;2008;No;No;Si;_;E;Venda
+65700;Ca nﾴAnglada;64;3;1;1027;No;No;1968;No;No;No;_;F;Venda
+129000;Sant Pere;56;1;1;2304;No;No;_;Si;No;No;_;_;Venda
+185000;Sant Pere;73;2;2;2534;No;No;_;Si;No;No;_;_;Venda
+209000;Sant Pere;69;2;2;3029;No;No;_;Si;No;No;_;_;Venda
+299000;Sant Pere;102;3;2;2931;No;No;_;Si;No;No;_;_;Venda
+129000;Sant Pere;51;1;1;2529;No;No;_;Si;No;No;_;_;Venda
+299000;Sant Pere;99;3;2;3020;No;No;_;Si;No;No;_;_;Venda
+215000;Sant Pere;73;2;2;2945;No;No;_;Si;No;No;_;_;Venda
+269000;Sant Pere;85;3;2;3165;No;No;_;Si;No;No;_;_;Venda
+229000;Sant Pere;85;2;2;2694;No;No;_;Si;No;No;_;_;Venda
+205000;Sant Pere;75;2;2;2733;No;No;_;Si;No;No;_;_;Venda
+299000;Sant Pere;99;3;2;3020;No;No;_;Si;No;No;_;_;Venda
+305000;Sant Pere;100;3;2;3050;No;No;_;Si;No;No;_;_;Venda
+279000;Sant Pere;85;3;2;3282;No;No;_;Si;No;No;_;_;Venda
+219000;Sant Pere;71;2;2;3085;No;No;_;Si;No;No;_;_;Venda
+96700;Segle XX;_;_;_;_;Si;No;2006;No;No;Si;2;G;Venda
+199000;Centre;229;3;1;869;No;No;1890;No;No;No;_;_;Venda
+170000;Sant Pere Nord;63;2;1;2698;Si;No;_;Si;No;Si;1;D;Venda
+275000;La Cogullada;260;4;2;1058;Si;No;1970;Si;No;No;_;G;Venda
+145000;Can Boada;90;4;2;1611;No;No;_;No;No;Si;_;_;Venda
+339000;La Maurina;150;3;2;2260;Si;Si;_;Si;No;No;_;G;Venda
+225000;Ca n�Aurell;107;4;2;2103;Si;Si;1973;No;No;Si;5;G;Venda
+181000;Poblenou-Zona Esportiva;77;2;2;2351;Si;No;2002;Si;No;Si;1;E;Venda
+315000;Ca n�Aurell;137;3;2;2299;Si;Si;_;No;No;Si;1;E;Venda
+179900;Torre-sana;70;2;1;2570;Si;Si;2003;Si;No;Si;2;E;Venda
+225000;Can Boada;90;4;2;2500;Si;No;1979;No;No;Si;1;C;Venda
+189900;Centre;80;3;2;2374;Si;Si;1995;No;No;Si;1;E;Venda
+360000;Centre;143;4;2;2517;Si;No;2000;No;No;No;2;E;Venda
+380000;Cementiri Vell;323;4;2;1176;Si;No;_;Si;No;No;_;G;Venda
+470000;Centre;200;3;2;2350;Si;Si;1900;No;No;No;_;G;Venda
+66000;Ca n�Anglada;45;1;1;1467;No;No;2011;No;No;Si;1;G;Venda
+165000;Segle XX;67;2;1;2463;No;Si;2007;No;No;Si;_;D;Venda
+96700;Segle XX;42;1;1;2302;No;Si;2007;Si;No;Si;_;F;Venda
+120000;Can Palet;92;3;1;1304;No;No;_;No;No;No;_;G;Venda
+169700;Escoles;82;4;1;2070;No;No;_;No;No;Si;4;G;Venda
+160000;Can Jofresa;110;4;2;1455;Si;Si;1977;No;No;Si;7;C;Venda
+125000;Escoles;75;3;1;1667;No;No;_;No;No;Si;_;G;Venda
+178000;La Maurina;60;2;1;2967;No;No;_;Si;No;Si;4;G;Venda
+130000;Sant Pere;90;3;1;1444;No;No;1976;No;No;No;_;F;Venda
+259900;Segle XX;116;3;2;2241;Si;Si;1956;No;No;No;2;G;Venda
+185000;Cementiri Vell;109;2;1;1697;No;No;_;No;No;Si;_;G;Venda
+159500;Escoles;60;2;1;2658;Si;Si;_;No;No;No;_;G;Venda
+74900;Poblenou-Zona Esportiva;70;3;1;1070;No;No;_;No;No;No;_;_;Venda
+121000;Ca n�Anglada;78;3;1;1551;Si;Si;_;No;No;Si;4;G;Venda
+170000;Les Arenes-La Gr�pia;85;3;1;2000;Si;Si;_;Si;No;Si;3;G;Venda
+330000;Roc Blanc;165;4;2;2000;Si;No;1997;Si;No;No;_;G;Venda
+141000;Ca nﾴAnglada;128;2;1;1102;No;No;2008;No;No;No;_;E;Venda
+299000;Centre;234;4;6;1278;No;No;_;No;No;No;_;F;Venda
+172000;Ca n�Aurell;74;2;2;2324;Si;No;_;No;No;Si;1;E;Venda
+79900;Ca n�Anglada;71;3;1;1125;Si;No;_;No;No;No;_;G;Venda
+194900;Can Palet de Vista Alegre;136;3;2;1433;No;No;_;No;No;No;_;_;Venda
+330000;Sant Pere Nord;201;3;4;1642;No;Si;_;Si;No;No;_;G;Venda
+330000;Sant Pere Nord;193;3;4;1710;No;Si;_;Si;No;No;_;G;Venda
+330000;Sant Pere Nord;191;3;4;1728;No;Si;_;Si;No;No;_;G;Venda
+152700;Can Palet;100;2;1;1527;No;No;1972;No;No;Si;4;_;Venda
+185000;Can Palet;153;3;1;1209;No;No;_;No;No;No;_;G;Venda
+204000;Ca n�Aurell;88;3;2;2318;Si;No;_;No;No;Si;1;E;Venda
+343000;La Maurina;70;3;2;4900;No;No;_;No;No;No;_;_;Venda
+343000;La Maurina;70;3;2;4900;No;No;_;No;No;No;_;_;Venda
+240000;La Maurina;138;4;2;1739;Si;No;_;No;No;No;2;E;Venda
+125000;Les Fonts;58;2;1;2155;Si;Si;2005;Si;No;No;1;G;Venda
+130000;Sant Pere Nord;90;3;1;1444;No;No;_;No;No;No;1;G;Venda
+110000;Can Boada;89;3;1;1236;No;No;1976;No;No;Si;7;E;Venda
+233500;Sant Pere;78;3;2;2994;Si;No;2023;No;No;Si;_;G;Venda
+187600;Sant Pere;62;2;1;3026;Si;No;2023;No;No;Si;_;G;Venda
+262100;Can Palet;_;_;_;_;No;No;1960;No;No;No;_;G;Venda
+143000;Can Palet;102;3;1;1402;No;No;_;No;No;No;_;_;Venda
+163000;Sant Pere Nord;66;2;1;2470;Si;Si;_;Si;No;Si;_;G;Venda
+339000;La Cogullada;_;_;_;_;Si;Si;1992;Si;No;No;_;G;Venda
+96000;Sant Pere Nord;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+148000;Pl� del Bonaire;73;3;1;2027;No;Si;_;No;No;Si;6;E;Venda
+230000;Sant Pere Nord;145;5;3;1586;Si;No;_;No;No;No;_;G;Venda
+160000;Sant Pere Nord;73;3;1;2192;Si;No;_;No;No;Si;_;E;Venda
+235000;La Cogullada;94;4;2;2500;No;No;_;No;No;No;_;G;Venda
+111600;X�quer;98;3;1;1139;No;No;_;No;No;No;_;_;Venda
+184600;Can Palet;92;4;1;2007;No;Si;_;No;No;Si;_;D;Venda
+275000;Escoles;160;5;2;1719;Si;Si;1972;No;No;Si;5;G;Venda
+159900;Ca n�Aurell;85;2;1;1881;Si;No;_;No;No;Si;2;E;Venda
+231400;Escoles;114;3;2;2030;Si;No;1985;Si;No;Si;_;F;Venda
+143000;Sant Pere Nord;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+74000;Ca nﾴAurell;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+700000;Centre;810;7;5;864;Si;No;1973;Si;No;No;_;G;Venda
+102000;Can Boada;103;2;1;990;No;No;1960;No;No;No;_;G;Venda
+225000;Can Boada;90;4;2;2500;No;Si;_;No;No;Si;1;G;Venda
+185000;Centre;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+149900;Poblenou-Zona Esportiva;95;2;1;1578;Si;No;1970;No;No;No;_;G;Venda
+120000;Sant Pere Nord;85;3;1;1412;No;No;1970;No;No;No;4;A;Venda
+145000;Ca n�Aurell;73;2;1;1986;Si;No;1978;No;No;Si;_;F;Venda
+78000;Ca nﾴAnglada;63;4;2;1238;No;No;_;No;No;No;1;E;Venda
+196000;Torre-sana;80;2;1;2450;Si;No;_;No;No;No;1;G;Venda
+130000;Pere parres;84;3;1;1548;Si;No;1976;No;No;No;2;D;Venda
+29500;Sant Pere;_;_;_;_;No;No;2008;No;No;Si;_;G;Venda
+96000;La Maurina;_;_;_;_;No;No;1960;No;No;No;_;_;Venda
+236000;La Cogullada;130;2;2;1815;Si;No;2003;Si;No;Si;2;D;Venda
+369000;Escoles;270;5;3;1367;Si;Si;_;No;No;Si;2;G;Venda
+119990;Ca n�Anglada;76;2;1;1579;Si;Si;1967;No;No;No;2;E;Venda
+142000;Roc Blanc;52;1;1;2731;Si;Si;2006;Si;No;Si;1;E;Venda
+145000;Centre;52;1;1;2788;Si;Si;_;No;No;Si;3;G;Venda
+99000;La Maurina;64;3;1;1547;No;No;_;No;No;No;_;_;Venda
+79000;Cementiri Vell;71;3;1;1113;No;No;_;No;No;No;_;_;Venda
+145000;Can Palet;64;3;1;2266;Si;Si;_;No;No;Si;_;A;Venda
+122500;Poblenou-Zona Esportiva;73;1;1;1678;Si;No;2004;No;No;No;1;G;Venda
+79700;Egara;_;_;_;_;Si;No;2005;Si;No;No;2;G;Venda
+63000;Egara;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+172900;Can Palet;126;4;2;1372;Si;Si;1981;No;No;Si;_;E;Venda
+136200;Ca n�Aurell;60;3;2;2270;Si;Si;_;No;No;Si;3;G;Venda
+135500;Ca nﾴAurell;130;2;1;1042;No;No;1950;No;No;No;1;A;Venda
+218000;Can Palet;79;3;1;2759;Si;Si;_;No;No;Si;_;G;Venda
+109000;X�quer;73;3;1;1493;Si;Si;_;No;No;No;1;G;Venda
+69000;Segle XX;_;_;_;_;No;No;1991;No;No;No;_;G;Venda
+105000;Segle XX;90;3;2;1167;Si;Si;_;No;No;Si;_;G;Venda
+128400;Segle XX;_;_;_;_;No;No;2007;No;No;No;1;_;Venda
+144535;Cementiri Vell;102;4;1;1417;No;No;_;No;No;No;_;_;Venda
+145000;Can Palet;107;3;2;1355;No;No;_;No;No;No;1;G;Venda
+215000;Centre;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+74900;Sant Pere Nord;55;3;1;1362;No;No;_;No;No;No;_;_;Venda
+390000;Can Palet de Vista Alegre;150;3;2;2600;Si;Si;_;No;No;No;1;G;Venda
+239950;Les Fonts;120;4;2;2000;No;Si;_;No;No;No;2;E;Venda
+54000;Ca nﾴAurell;57;3;1;947;No;No;_;No;No;No;1;G;Venda
+94500;Egara;_;_;_;_;No;No;2006;Si;No;No;_;G;Venda
+179600;Sant Pere;170;2;1;1056;No;No;_;No;No;No;_;_;Venda
+137200;Sant Pere;43;1;1;3191;No;No;_;No;No;No;_;_;Venda
+730000;Centre;406;4;2;1798;Si;No;1900;Si;No;No;3;G;Venda
+140000;Egara;96;3;2;1458;No;No;_;No;No;Si;1;G;Venda
+180000;Segle XX;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+187000;Segle XX;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+185000;Segle XX;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+150000;Ca nﾴAnglada;80;2;1;1875;No;No;_;No;No;No;_;G;Venda
+54000;Can Palet;57;3;1;947;No;No;_;No;No;No;2;_;Venda
+227000;Ca nﾴAnglada;199;4;3;1141;No;No;_;No;No;No;_;_;Venda
+138500;Ca n�Aurell;73;2;2;1897;Si;No;_;No;No;Si;2;A;Venda
+229000;Escoles;60;2;1;3817;No;No;_;No;No;Si;_;G;Venda
+135600;Segle XX;76;3;1;1784;Si;No;1953;No;No;No;2;E;Venda
+190000;Vallparad�s;80;3;2;2375;Si;No;1975;No;No;Si;_;E;Venda
+250000;Pere parres;128;3;2;1953;No;No;_;No;No;No;_;_;Venda
+103000;Can Palet;61;3;1;1689;No;No;_;No;No;Si;_;E;Venda
+137200;Sant Pere;43;1;1;3191;No;No;_;No;No;No;2;G;Venda
+58800;La Maurina;47;2;1;1251;No;No;_;No;No;No;_;_;Venda
+248000;Poblenou-Zona Esportiva;82;3;2;3024;Si;Si;2001;Si;No;Si;1;G;Venda
+164900;La Cogullada;105;3;1;1570;Si;Si;_;No;No;No;2;G;Venda
+165000;Sant Pere Nord;77;2;1;2143;Si;Si;_;No;No;Si;_;G;Venda
+84000;Can Palet;73;2;1;1151;Si;Si;1973;No;No;No;4;G;Venda
+70200;Egara;_;_;_;_;Si;Si;2006;No;No;Si;_;G;Venda
+88300;Sant Pere Nord;69;3;1;1280;No;No;_;No;No;No;_;_;Venda
+206000;Segle XX;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+92000;La Cogullada;79;2;1;1165;No;No;_;No;No;No;_;E;Venda
+92000;La Cogullada;79;2;1;1165;No;No;_;No;No;No;_;E;Venda
+49700;La Maurina;86;3;1;578;No;No;_;No;No;No;_;_;Venda
+81000;Can Palet;72;3;1;1125;No;No;_;No;No;No;_;E;Venda
+81000;Can Palet;72;3;1;1125;No;No;_;No;No;No;_;E;Venda
+123600;Ca n�Aurell;130;2;1;951;Si;No;_;No;No;No;_;G;Venda
+89000;Can Boada;58;3;1;1534;No;No;_;No;No;No;_;G;Venda
+143000;Can Palet;102;3;1;1402;No;No;1997;No;No;Si;4;_;Venda
+125000;Ca nﾴAurell;_;_;_;_;No;No;_;No;No;No;_;A;Venda
+49900;La Maurina;80;1;1;624;No;No;1959;No;No;No;_;E;Venda
+115000;Can Boada;72;4;1;1597;Si;No;1972;No;No;Si;_;C;Venda
+139900;Ca nﾴAurell;94;2;1;1488;No;No;_;No;No;No;_;_;Venda
+166000;Les Arenes-La Gr�pia;64;2;1;2594;Si;Si;_;No;No;Si;1;G;Venda
+186000;Sant Pere Nord;109;3;2;1706;No;Si;_;No;No;No;2;A;Venda
+135200;Sant Pere Nord;110;4;1;1229;Si;Si;_;No;No;No;4;G;Venda
+130000;Torre-sana;_;_;_;_;No;No;1970;No;No;No;_;_;Venda
+88500;La Maurina;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+130000;Ca n�Anglada;42;1;1;3095;Si;Si;_;No;No;Si;_;G;Venda
+495000;Escoles;161;4;3;3075;Si;Si;2008;Si;No;Si;_;G;Venda
+123800;Les Arenes-La Gr�pia;90;2;2;1376;No;No;_;No;No;No;_;_;Venda
+85000;Ca nﾴAnglada;35;1;1;2429;No;No;_;No;No;No;_;_;Venda
+109000;Les Arenes-La Gr�pia;85;2;2;1282;No;No;_;No;No;No;_;G;Venda
+275000;Can Palet;114;3;2;2412;No;No;_;No;No;No;_;G;Venda
+187500;Les Fonts;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+230000;Ca n�Anglada;364;10;2;632;Si;No;_;No;No;No;3;A;Venda
+92400;Torre-sana;64;3;1;1444;No;No;_;No;No;No;_;_;Venda
+345000;Les Arenes-La Gr�pia;330;3;1;1045;No;No;_;No;No;No;_;G;Venda
+345000;Les Arenes-La Gr�pia;330;3;1;1045;No;No;_;No;No;No;_;G;Venda
+67400;Sant Lloren�;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+117000;Can Palet;70;2;1;1671;No;No;_;No;No;No;_;G;Venda
+117000;Can Palet;70;2;1;1671;No;No;_;No;No;No;_;G;Venda
+126000;Segle XX;93;3;1;1355;No;No;_;No;No;No;_;G;Venda
+130000;Sant Pere Nord;100;4;2;1300;Si;Si;_;No;No;No;4;G;Venda
+49900;La Maurina;80;1;1;624;No;No;_;No;No;No;_;_;Venda
+810000;Centre;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+363400;Segle XX;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+680000;Torre-sana;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+2254700;Can Palet;_;_;_;_;No;No;_;No;No;No;1;_;Venda
+1400000;Centre;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+128000;Ca n�Aurell;73;3;1;1753;Si;Si;1978;No;No;Si;5;G;Venda
+248800;Pere parres;133;3;2;1871;No;No;1983;No;No;Si;_;E;Venda
+105000;Ca n�Anglada;74;3;1;1419;Si;Si;1977;No;No;No;1;G;Venda
+80000;Ca nﾴAnglada;51;1;1;1569;No;No;_;No;No;No;_;_;Venda
+145200;Sant Pere;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+91600;Can Palet;77;3;1;1190;No;No;_;No;No;No;_;_;Venda
+123400;Ca nﾴAnglada;72;3;2;1714;No;No;_;No;No;No;_;_;Venda
+128400;Segle XX;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+96800;Roc Blanc;75;3;1;1291;No;No;_;No;No;No;_;_;Venda
+93000;Ca nﾴAnglada;67;2;1;1388;No;No;_;No;No;No;_;_;Venda
+236000;Sant Pere Nord;137;4;2;1723;Si;No;1980;No;No;Si;_;C;Venda
+69000;Ca nﾴAnglada;71;3;1;972;No;No;1968;No;No;No;_;_;Venda
+91600;Centre;77;3;1;1190;No;No;1982;No;No;No;_;G;Venda
+80300;Sant Lloren�;61;3;1;1316;No;No;_;No;No;No;_;_;Venda
+96700;Segle XX;47;1;1;2057;No;No;_;No;No;No;_;_;Venda
+140500;Ca nﾴAnglada;100;4;1;1405;No;No;_;No;No;No;1;E;Venda
+165000;Segle XX;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+120000;Ca n�Aurell;75;3;1;1600;Si;No;_;No;No;No;5;G;Venda
+220000;Poblenou-Zona Esportiva;85;3;1;2588;Si;Si;_;No;No;No;1;_;Venda
+145000;Segle XX;40;1;1;3625;Si;Si;_;No;No;Si;1;G;Venda
+470000;Centre;274;6;3;1715;No;No;_;No;No;No;_;G;Venda
+141000;Ca nﾴAnglada;_;_;_;_;No;No;_;No;No;No;_;_;Venda
+145200;Sant Pere Nord;_;_;_;_;No;No;1979;No;No;No;2;_;Venda
+347000;Poblenou-Zona Esportiva;_;_;_;_;Si;Si;_;No;No;No;_;G;Venda
+280000;Ca nﾴAurell;260;4;1;1077;No;No;_;No;No;No;3;G;Venda
+132200;Can Boada;_;_;_;_;No;No;1960;No;No;No;_;_;Venda
+260000;Centre;245;3;1;1061;No;No;_;No;No;No;2;G;Venda
+1400000;Sant Pere;_;_;_;_;No;No;_;No;No;No;_;G;Venda
+1450;Ca n�Aurell;181;3;2;8;Si;No;1956;Si;No;No;_;D;Lloguer
+675;Les Arenes-La Gr�pia;75;3;1;9;No;Si;1980;No;No;No;1;F;Lloguer
+1200;Can Roca;85;3;2;14;Si;Si;2008;No;No;Si;_;G;Lloguer
+795;Ca n�Aurell;76;1;2;10;Si;No;1999;No;No;Si;_;G;Lloguer
+885;Sant Pere;100;2;2;9;Si;Si;2009;Si;No;Si;3;G;Lloguer
+940;Centre;83;2;2;11;Si;No;2021;No;No;No;_;E;Lloguer
+850;Ca n�Aurell;105;2;2;8;Si;Si;1987;No;No;Si;1;E;Lloguer
+1050;Centre;127;4;3;8;Si;No;_;No;No;Si;3;E;Lloguer
+850;Centre;83;3;2;10;Si;No;1963;No;No;Si;_;G;Lloguer
+850;Les Arenes-La Gr�pia;90;4;2;9;Si;Si;_;Si;No;No;2;G;Lloguer
+825;Sant Pere;81;2;2;10;Si;Si;2004;No;No;Si;5;G;Lloguer
+1200;Centre;100;3;2;12;Si;Si;1996;No;No;Si;1;E;Lloguer
+850;La Cogullada;112;3;1;8;No;No;1960;No;No;No;_;E;Lloguer
+750;Poblenou-Zona Esportiva;85;3;2;9;Si;Si;1997;No;No;Si;3;E;Lloguer
+530;Can Palet;36;1;1;15;Si;Si;2012;Si;No;Si;2;G;Lloguer
+750;Can Roca;78;3;1;10;Si;No;1969;No;No;Si;_;E;Lloguer
+720;Centre;65;2;1;11;No;No;2021;No;No;Si;_;F;Lloguer
+1860;Centre;155;5;2;12;Si;Si;_;No;No;No;_;G;Lloguer
+720;Centre;65;2;1;11;No;No;2021;No;No;Si;_;F;Lloguer
+1300;Vallparad�s;160;4;3;8;Si;No;_;Si;No;No;_;G;Lloguer
+890;Centre;100;2;1;9;No;No;_;No;No;No;_;G;Lloguer
+710;Torre-sana;57;2;1;12;Si;No;2016;Si;No;Si;_;E;Lloguer
+1050;Egara;167;3;3;6;Si;No;_;Si;No;No;_;G;Lloguer
+850;La Cogullada;88;2;1;10;Si;No;1940;No;No;No;_;E;Lloguer
+790;Escoles;60;2;1;13;Si;Si;2009;Si;No;Si;_;G;Lloguer
+800;Escoles;79;3;1;10;Si;No;_;No;No;Si;_;G;Lloguer
+775;Segle XX;52;2;2;15;Si;Si;2011;No;No;Si;_;G;Lloguer
+730;Sant Pere Nord;90;2;1;8;Si;Si;_;No;No;No;_;G;Lloguer
+825;Sant Pere Nord;70;3;1;12;Si;No;1999;Si;No;Si;_;G;Lloguer
+950;Escoles;169;4;2;6;Si;Si;_;No;No;Si;_;G;Lloguer
+950;Can Roca;126;3;2;8;Si;Si;2006;No;No;Si;_;G;Lloguer
+1890;Vallparad�s;160;5;2;12;No;No;_;No;No;No;_;C;Lloguer
+1350;Ca n�Aurell;159;5;3;8;Si;No;_;No;No;Si;_;G;Lloguer
+1180;Sant Pere;90;4;2;13;Si;Si;2002;Si;No;Si;_;G;Lloguer
+550;Les Fonts;28;1;1;20;Si;No;2005;No;No;No;_;G;Lloguer
+900;Centre;68;2;1;13;Si;No;_;No;No;Si;_;D;Lloguer
+600;Cementiri Vell;42;1;1;14;No;No;2003;No;No;Si;_;D;Lloguer
+580;Sant Pere Nord;40;1;1;14;Si;Si;2008;Si;No;Si;_;G;Lloguer
+810;Can Palet;85;4;1;10;No;No;1982;No;No;Si;_;G;Lloguer
+850;La Cogullada;112;3;1;8;No;No;1960;No;No;No;_;E;Lloguer
+850;La Cogullada;112;3;1;8;No;No;_;No;No;No;_;G;Lloguer
+900;Ca n�Aurell;80;4;1;11;Si;No;_;No;No;Si;_;E;Lloguer
+790;Can Palet;110;3;1;7;Si;Si;_;No;No;No;_;G;Lloguer
+650;Poblenou-Zona Esportiva;55;2;1;12;Si;Si;2004;No;No;Si;_;D;Lloguer
+550;Can Palet;50;2;1;11;Si;No;1996;No;No;Si;3;G;Lloguer
+775;Cementiri Vell;89;4;1;9;Si;No;1970;No;No;Si;_;E;Lloguer
+950;Centre;122;3;2;8;Si;No;1988;Si;No;Si;_;C;Lloguer
+650;Poblenou-Zona Esportiva;59;1;1;11;No;Si;1970;No;No;No;1;G;Lloguer
+1200;Centre;58;1;1;21;Si;No;2004;No;No;Si;2;G;Lloguer
+650;Escoles;62;2;1;10;Si;No;_;No;No;Si;_;G;Lloguer
+825;Ca n�Aurell;97;3;2;9;No;No;2004;Si;No;Si;_;_;Lloguer
+880;Ca n�Aurell;109;3;2;8;Si;Si;1954;No;No;No;1;D;Lloguer
+650;Can Parellada;78;3;1;8;Si;No;1975;No;No;Si;_;E;Lloguer
+1200;Centre;210;4;3;6;Si;No;1967;No;No;Si;3;E;Lloguer
+870;La Cogullada;112;3;2;8;Si;Si;_;No;No;No;_;G;Lloguer
+975;Centre;120;4;2;8;Si;Si;1993;Si;No;Si;1;G;Lloguer
+600;Can Boada;57;3;1;11;Si;No;1971;No;No;Si;_;G;Lloguer
+850;La Cogullada;100;3;1;8;Si;Si;1960;No;No;No;_;G;Lloguer
+675;Escoles;40;1;1;17;Si;Si;_;Si;No;No;_;G;Lloguer
+1050;Sant Pere;93;3;2;11;No;No;_;Si;No;Si;3;G;Lloguer
+820;Can Boada;98;4;2;8;No;No;_;No;No;Si;_;_;Lloguer
+625;Ca nﾴAnglada;56;3;1;11;No;No;_;No;No;No;_;_;Lloguer
+800;Pere parres;124;2;2;6;Si;No;_;No;No;No;_;_;Lloguer
+740;Torre-sana;59;2;2;13;No;No;_;No;No;Si;_;_;Lloguer
+850;La Cogullada;85;3;1;10;Si;No;_;No;No;No;_;G;Lloguer
+850;Cementiri Vell;90;4;2;9;Si;No;1993;Si;No;Si;2;G;Lloguer
+850;La Cogullada;75;3;1;11;No;No;_;No;No;No;_;E;Lloguer
+665;La Cogullada;73;1;1;9;Si;Si;2009;Si;No;Si;_;G;Lloguer
+900;Ca n�Aurell;150;3;2;6;Si;Si;2009;Si;No;Si;6;G;Lloguer
+900;Vallparad�s;95;4;2;9;Si;Si;1983;Si;No;Si;5;G;Lloguer
+925;Ca n�Aurell;125;3;2;7;Si;Si;2009;Si;No;Si;10;G;Lloguer
+825;Ca n�Aurell;120;2;1;7;Si;Si;2009;Si;No;Si;1;G;Lloguer
+875;Sant Pere;105;4;2;8;Si;Si;2012;No;No;Si;1;G;Lloguer
+900;Centre;112;3;2;8;Si;Si;_;Si;No;Si;1;G;Lloguer
+720;Sant Pere;70;2;1;10;Si;No;2016;Si;No;Si;1;G;Lloguer
+625;Poblenou-Zona Esportiva;58;1;1;11;Si;Si;2007;No;No;Si;1;G;Lloguer
+800;La Cogullada;101;3;2;8;Si;Si;2005;No;No;Si;2;G;Lloguer
+880;Poblenou-Zona Esportiva;83;3;2;11;No;No;2000;No;No;Si;2;G;Lloguer
+799;Sant Pere Nord;94;3;1;8;No;No;_;No;No;Si;_;_;Lloguer
+1025;Vallparad�s;168;5;1;6;No;No;1970;No;No;Si;1;G;Lloguer
+790;Centre;116;2;1;7;No;No;2010;Si;No;Si;_;G;Lloguer
+1250;Centre;143;4;2;9;Si;Si;1999;Si;No;Si;_;D;Lloguer
+738;Sant Pere Nord;70;3;1;11;No;No;_;No;No;No;3;_;Lloguer
+725;Vallparad�s;79;2;3;9;No;No;2008;No;No;Si;3;G;Lloguer
+750;Can Palet;90;3;1;8;No;No;1975;No;No;No;2;_;Lloguer
+850;Sant Pere;94;3;2;9;No;No;1999;No;No;Si;5;G;Lloguer
+650;Sant Pere Nord;75;2;1;9;No;No;1969;No;No;Si;_;G;Lloguer
+620;Segle XX;49;1;1;13;Si;No;2003;No;No;Si;1;_;Lloguer
+675;Sant Lloren�;54;2;1;12;No;No;1960;No;No;No;1;G;Lloguer
+600;La Cogullada;42;1;1;14;No;No;_;No;No;Si;1;G;Lloguer
+625;La Cogullada;45;1;1;14;No;No;_;No;No;Si;1;G;Lloguer
+1265;Ca n�Aurell;179;5;2;7;Si;No;1976;Si;No;Si;7;G;Lloguer
+1890;Ca n�Anglada;160;5;2;12;Si;Si;_;No;No;No;_;G;Lloguer
+1200;Ca nﾴAurell;160;4;1;8;No;No;1967;No;No;No;_;G;Lloguer
+1500;X�quer;134;4;2;11;Si;No;2003;No;No;Si;6;G;Lloguer
+760;Centre;65;2;1;12;Si;No;2005;No;No;Si;2;G;Lloguer
+745;Torre-sana;70;2;2;11;Si;Si;2003;No;No;Si;1;G;Lloguer
+550;Segle XX;40;1;1;14;Si;Si;_;No;No;Si;3;G;Lloguer
+680;Ca n�Aurell;50;2;1;14;Si;Si;1966;No;No;Si;2;E;Lloguer
+845;Centre;71;3;1;12;Si;No;_;No;No;Si;1;G;Lloguer
+790;Sant Lloren�;64;2;1;12;Si;No;2020;No;No;Si;1;D;Lloguer
+980;Vallparad�s;112;3;2;9;Si;Si;2002;Si;No;Si;_;E;Lloguer
+670;Poblenou-Zona Esportiva;46;1;1;15;No;No;_;No;No;Si;_;_;Lloguer
+690;Poblenou-Zona Esportiva;46;1;1;15;No;No;_;No;No;Si;_;_;Lloguer
+1100;Torre-sana;72;3;2;15;Si;Si;2017;Si;No;Si;3;B;Lloguer
+750;Poblenou-Zona Esportiva;54;2;1;14;No;No;_;No;No;Si;_;_;Lloguer
+785;Poblenou-Zona Esportiva;54;2;1;15;No;No;_;No;No;Si;_;_;Lloguer
+1000;Centre;110;4;2;9;Si;Si;1972;No;No;Si;_;G;Lloguer
+730;Sant Lloren�;71;2;1;10;Si;No;2020;No;No;Si;4;D;Lloguer
+730;Sant Lloren�;64;2;1;11;Si;No;2020;No;No;Si;4;D;Lloguer
+710;Sant Lloren�;64;2;1;11;Si;No;2020;No;No;Si;3;D;Lloguer
+800;Sant Pere;101;3;1;8;No;No;_;No;No;Si;1;G;Lloguer
+700;Sant Lloren�;62;2;1;11;Si;No;2020;No;No;Si;4;D;Lloguer
+650;Sant Pere;40;1;1;16;Si;Si;_;No;No;Si;_;G;Lloguer
+850;Poblenou-Zona Esportiva;70;3;2;12;Si;Si;2001;No;No;Si;_;E;Lloguer
+590;Sant Pere Nord;35;1;1;17;No;Si;2008;No;No;Si;_;C;Lloguer
+675;Cementiri Vell;60;1;1;11;Si;Si;2005;Si;No;Si;1;E;Lloguer
+1100;Ca n�Aurell;95;4;2;12;Si;Si;2004;Si;No;No;_;D;Lloguer
+625;Segle XX;89;3;1;7;Si;No;1960;No;No;No;1;G;Lloguer
+700;Sant Lloren�;69;2;1;10;Si;No;2020;No;No;Si;4;D;Lloguer
+675;Sant Lloren�;69;2;1;10;Si;No;2020;No;No;Si;3;D;Lloguer
+770;Ca n�Aurell;81;3;1;10;Si;No;_;No;No;Si;1;G;Lloguer
+950;Centre;93;3;2;10;Si;Si;_;Si;No;Si;1;G;Lloguer
+900;Ca n�Aurell;110;4;2;8;Si;Si;1991;Si;No;Si;3;E;Lloguer
+850;Poblenou-Zona Esportiva;80;3;2;11;Si;No;_;Si;No;Si;_;G;Lloguer
+700;Escoles;120;4;2;6;Si;No;1997;No;No;Si;2;G;Lloguer
+580;Sant Pere Nord;35;1;1;17;Si;No;2005;No;No;Si;1;E;Lloguer
+560;Can Palet;45;1;1;12;Si;Si;_;No;No;Si;2;G;Lloguer
+700;Sant Pere;77;3;1;9;Si;Si;1975;No;No;Si;1;G;Lloguer
+1100;Pl� del Bonaire;92;3;2;12;Si;Si;2022;Si;No;Si;_;A;Lloguer
+525;Ca n�Anglada;46;1;1;11;Si;No;2006;No;No;Si;2;E;Lloguer
+685;Sant Pere Nord;60;2;1;11;Si;Si;_;No;No;No;_;G;Lloguer
+685;Sant Pere;60;2;1;11;Si;No;2021;No;No;Si;_;G;Lloguer
+750;Pere parres;95;3;2;8;Si;Si;_;No;No;Si;_;F;Lloguer
+550;Poblenou-Zona Esportiva;30;1;1;18;No;No;_;No;No;No;_;G;Lloguer
+890;Cementiri Vell;90;3;1;10;Si;No;197;Si;No;Si;2;G;Lloguer
+825;Sant Pere Nord;82;3;2;10;Si;Si;_;Si;No;No;_;G;Lloguer
+1050;Centre;152;4;4;7;Si;Si;_;No;No;No;1;E;Lloguer
+820;Centre;80;2;1;10;No;No;_;No;No;No;3;G;Lloguer
+750;Ca n�Aurell;57;2;1;13;Si;No;_;Si;No;Si;4;D;Lloguer
+600;Sant Lloren�;54;3;1;11;No;No;1970;No;No;No;_;F;Lloguer
+700;Sant Pere;72;2;2;10;Si;No;2022;No;No;Si;_;C;Lloguer
+590;Ca n�Aurell;40;1;1;15;Si;No;_;No;No;Si;3;F;Lloguer
+590;Centre;36;1;1;16;Si;No;_;No;No;No;_;F;Lloguer
+950;Torre-sana;90;2;2;11;Si;No;_;Si;No;Si;1;G;Lloguer
+590;Sant Pere;44;1;1;13;Si;No;2022;No;No;Si;_;D;Lloguer
+700;Sant Pere;50;2;1;14;Si;No;2022;Si;No;Si;_;C;Lloguer
+870;Centre;112;3;2;8;No;No;_;No;No;No;2;G;Lloguer
+1300;Centre;88;2;2;15;Si;Si;_;No;No;Si;3;E;Lloguer
+880;Sant Pere;110;4;1;8;Si;Si;_;No;No;Si;1;E;Lloguer
+870;La Cogullada;121;3;1;7;Si;Si;_;No;No;No;1;G;Lloguer
+825;Ca n�Anglada;85;3;2;10;No;No;_;No;No;Si;4;G;Lloguer
+900;Ca n�Aurell;70;2;1;13;Si;Si;_;Si;No;Si;_;G;Lloguer
+1350;Centre;97;4;3;14;Si;Si;2000;Si;No;Si;5;D;Lloguer
+850;Roc Blanc;80;2;2;11;Si;No;_;Si;No;Si;2;C;Lloguer
